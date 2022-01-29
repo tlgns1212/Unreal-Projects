@@ -1,0 +1,60 @@
+Making a AIController Class
+--------------------------------------------------------------------------------------------------------------------------
+1. Make a blueprint class -> AIController class
+2. In the Event Graph, make a "AI MoveTo" action and link it with a "get Controlled Pawn" and "Get Player Character".
+3. Make a "Set Timer by Function Name" and name the function
+4. check the looping for loops and set the time for the time to repeat (seconds)
+5. link it with "Event BeginPlay" 
+6. make a "Custom Event" and name it as the name I set for the timer
+7. compile and save
+--------------------------------------------------------------------------------------------------------------------------
+
+
+Making a Pawn to control
+--------------------------------------------------------------------------------------------------------------------------
+1. Make a blueprint class -> Pawn
+2. add a Cube(or whatever Geometry I want) from "+Add Component"
+3. change the settings (scale, color(Materials), etc.)
+4. add a FloatingPawnMovement from "+Add Component"
+5. Click the Pawn I made(self), and change the "AI Controller Class" to "EvilCubeAI(the AIController Class I made)"
+6. compile and save
+--------------------------------------------------------------------------------------------------------------------------
+
+
+Add A Nav Mesh Bounds
+--------------------------------------------------------------------------------------------------------------------------
+1. Make a "Nav Mesh Bounds" from "Volumes"
+2. compromise the size(scale) and location
+3. check "Navigation" in "Show" to see the NavMeshBoundsVolume in green
+--------------------------------------------------------------------------------------------------------------------------
+
+
+Destroying a Actor(Pawn) with a explosion
+--------------------------------------------------------------------------------------------------------------------------
+1. check the "Cube" from the Component section.
+2. right click in the event graph and choose "Add event for Cube", "Collision", "Add on Component Hit"
+3. make a "Spawn actor from Class" and choose a "Blueprint Effcet Explosion" and get the transform(location) from "Cube", "getworldtransform(get transform)"
+4. make a "destroy component" from "Cube"
+5. make a Sequence by Pressing "S" and left clicking
+6. link Sequence 1 to spawnactor and 2 to destroy components
+7. from "Return value" from spawnActor Blueprint Effect Explosion, drag it and "Promote to Variable" and name it as I want "Fire Explosion"
+8. Click Fire Explosion and make a "On End Play" Event and make one on the end
+9. link it with "Destroy Actor"
+--------------------------------------------------------------------------------------------------------------------------
+
+
+Spawning The AICube every second
+--------------------------------------------------------------------------------------------------------------------------
+1. make a "box trigger"
+2. go to "Open Level Blueprints" and drag the "TriggerBox" into the Blueprint event
+3. make a "Spawn AI from Class" and link the location with the TriggerBox by making a "Get Actor Location" in between
+4. make a "Add Custom Event" and set a timer by "Set Timer by function name" and link it with The "BeginPlay Event"
+5. name the function same as the "custom Event" and loop it with time.
+
+
+
+Changing the speed for Cube
+--------------------------------------------------------------------------------------------------------------------------
+1. open "EvilCubePawn" and click on the FloatingPawnMovement
+2. change the Max Speed, Acceleration, Deceleration, etc;.
+--------------------------------------------------------------------------------------------------------------------------
