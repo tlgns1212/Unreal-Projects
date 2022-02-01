@@ -1,0 +1,32 @@
+Creating a 3rd person Camera
+------------------------------------------------------------------------------------------------------------------
+1. Make a Character Blueprint
+2. In "Mesh" in the blueprint, for the skeletal mesh change it to Mannequin or something like that to make a character
+3. make him face the same way as the ArrowComponent
+4. Add a "Spring Arm" component and with it clicked, add a "camera" component
+5. replace the camera as I want and see how it is showing(can see the sight of the camera by clicking on the camera in the "CharacterSetup")
+------------------------------------------------------------------------------------------------------------------
+
+Creating a GameMode
+------------------------------------------------------------------------------------------------------------------
+1. go to edit into Project Settings and Maps & Modes
+2. change the Editor Startup Mode and Game Default Map to what I want
+3. make a new Blueprint "Game Mode Base".
+4. change "Default Pawn Class" to my character
+5. in Project Settings, Maps & Modes, change the Default GameMode to the GameMode I made
+------------------------------------------------------------------------------------------------------------------
+
+Setting up keyboard
+------------------------------------------------------------------------------------------------------------------
+1. go to edit into Project Settings and Input
+2. ad Axis Mappings for (moving forward, backward, up, down, camera up/down etc.)
+3. Set "W" scale 1, and "S" scale -1, same for right and left.
+4. For Lookup, make it as Mouse Y and set the scale -1
+5. ad Action Mappings for (shooting, jumping etc.)
+6. make a MoveUp Axis Event in PlayerCharacter Blueprint and connect it to a "Add Movement Input" function.
+7. from "MoveUp" link the Axis Value into Scale Value in "Add Movement Input"
+8. get the Camera Component and connect it to "GetWorldRotation" and connect tit to "GetForwardVector" and link it to "World Direction"
+9. same for "MoveRight" except that this one needs a "GetRightVector" instead of "GetForwardVector"
+10. for looking up/down/left/right make a "LookRight" InputAxis and connect it to "AddControllerYawInput" and link its Axis Value too.
+11. same for "LookUp".
+------------------------------------------------------------------------------------------------------------------
