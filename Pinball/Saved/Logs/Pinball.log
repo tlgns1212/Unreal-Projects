@@ -9287,3 +9287,1578 @@ Script Stack (0 frames):
 [2022.02.09-13.58.26:650][ 35]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBand718C852545487E0FFE16D5894AD49ADD.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
 [2022.02.09-13.58.26:669][ 35]AssetCheck: New page: Asset Save: BP_VariableBand
 [2022.02.09-13.58.26:669][ 35]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.03.34:163][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.02.09-14.03.34:165][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.09-14.03.34:195][792]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_Auto49FEE6FC544B6A01D712D6B9A3916F77F.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto4.umap'
+[2022.02.09-14.03.34:196][792]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PinballMap' took 0.054
+[2022.02.09-14.03.34:196][792]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.02.09-14.03.34:196][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/M_SimplePlastic] ([1] browsable assets)...
+[2022.02.09-14.03.34:196][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_SimplePlastic]
+[2022.02.09-14.03.34:196][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimplePlastic" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/M_SimplePlastic_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.02.09-14.03.34:198][792]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/M_SimplePlastic_Auto4537D5FB34C23BA539EA4A6955B31DCB8.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/M_SimplePlastic_Auto4.uasset'
+[2022.02.09-14.03.34:198][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/MI_SimplePlastic_Yellow] ([1] browsable assets)...
+[2022.02.09-14.03.34:198][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/MI_SimplePlastic_Yellow]
+[2022.02.09-14.03.34:200][792]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/MI_SimplePlastic_Yellow_Auto46181E80C403439C0BAEEA1812AACBE75.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/MI_SimplePlastic_Yellow_Auto4.uasset'
+[2022.02.09-14.03.34:200][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_BandExtender] ([1] browsable assets)...
+[2022.02.09-14.03.34:223][792]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_BandExtender.SM_BandExtender]
+[2022.02.09-14.03.34:223][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_BandExtender]
+[2022.02.09-14.03.34:223][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_BandExtender" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/SM_BandExtender_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.02.09-14.03.34:231][792]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/SM_BandExtender_Auto4D867961845AB1067262636BD507497D5.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/SM_BandExtender_Auto4.uasset'
+[2022.02.09-14.03.34:232][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_PostHalf] ([1] browsable assets)...
+[2022.02.09-14.03.34:255][792]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_PostHalf.SM_PostHalf]
+[2022.02.09-14.03.34:255][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_PostHalf]
+[2022.02.09-14.03.34:255][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_PostHalf" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/SM_PostHalf_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.02.09-14.03.34:265][792]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/SM_PostHalf_Auto4821F31A048325DBCDC2C76A4F7A4834D.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/SM_PostHalf_Auto4.uasset'
+[2022.02.09-14.03.34:265][792]LogFileHelpers: Auto-saving content packages took 0.069
+[2022.02.09-14.08.05:092][239]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.08.05:124][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.02.09-14.08.05:512][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.08.05:519][277]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBandA584EE3E4313B60C1F8D0D85FF339240.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.08.05:534][277]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.08.05:534][277]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.08.16:367][506]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.08.16:397][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.02.09-14.08.16:771][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.08.16:778][543]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBandCBB1BA874A1EFE27BFB650B958A8E9D1.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.08.16:796][543]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.08.16:796][543]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.08.21:063][  4]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper12)
+[2022.02.09-14.08.21:693][ 76]Cmd: DELETE
+[2022.02.09-14.08.21:693][ 76]Cmd: ACTOR DELETE
+[2022.02.09-14.08.21:696][ 76]LogEditorActor: Deleted Actor: BP_Bumper_C
+[2022.02.09-14.08.21:716][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.02.09-14.08.21:719][ 76]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.02.09-14.08.23:641][305]LogEditorViewport: Clicking on Actor (LMB): BP_VariableBand_C (BP_VariableBand)
+[2022.02.09-14.08.30:445][ 49]LogEditorViewport: Clicking on Actor (LMB): BP_VariableBand_C (BP_VariableBand)
+[2022.02.09-14.09.21:888][816]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.09.22:161][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.02.09-14.09.22:847][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.09.22:858][890]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBandCC95562D4974549A875717A4CABD31CE.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.09.22:876][890]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.09.22:876][890]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.09.36:483][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-14.09.36:504][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.02.09-14.09.36:539][433]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap7819C0324FF8B56EFD38708FF1DBE4DE.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-14.09.36:544][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-14.09.36:555][433]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltDataB3DF86704DCD0737029BDCA152A35771.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-14.09.36:577][433]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-14.09.36:577][433]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-14.09.36:577][433]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-14.10.29:170][537]LogEditorTransaction: Undo Paste clipboard contents
+[2022.02.09-14.10.36:969][397]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.10.37:008][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.02.09-14.10.37:441][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.10.37:454][439]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBand53688145497071C8C40113A5DF1B6D05.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.10.37:477][439]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.10.37:477][439]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.11.18:485][205]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.11.18:527][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.09-14.11.19:326][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.11.19:340][288]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBandE64D6FA945C6BB3EE1E80BBEEF1D0583.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.11.19:357][288]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.11.19:357][288]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.11.21:700][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-14.11.21:720][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.02.09-14.11.21:751][552]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap28B5F7DC4FBF9A63FBAFADAD7FBC7666.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-14.11.21:757][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-14.11.21:768][552]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltData8A4304A046BC08569D732F909847AEF0.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-14.11.21:790][552]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-14.11.21:790][552]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-14.11.21:790][552]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-14.12.33:991][824]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.12.34:034][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.02.09-14.12.34:553][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.12.34:568][875]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBand6CDBA12E4AC9ED669F82BBB4075BCC4E.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.12.34:585][875]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.12.34:585][875]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.14.38:319][ 32]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.14.38:564][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_87:PersistentLevel.BP_VariableBand_C_0.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:564][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:564][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:565][ 32]LogPhysics: Warning: Scale for /Game/Maps/PinballMap.PinballMap:PersistentLevel.BP_VariableBand_2.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:565][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:565][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:600][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.02.09-14.14.38:603][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_87:PersistentLevel.BP_VariableBand_C_0.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:603][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:603][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:603][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_87:PersistentLevel.BP_VariableBand_C_0.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:603][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:603][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:604][ 32]LogPhysics: Warning: Scale for /Game/Maps/PinballMap.PinballMap:PersistentLevel.BP_VariableBand_2.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:604][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:604][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:604][ 32]LogPhysics: Warning: Scale for /Game/Maps/PinballMap.PinballMap:PersistentLevel.BP_VariableBand_2.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:604][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:604][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:618][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_87:PersistentLevel.BP_VariableBand_C_0.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:618][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:618][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:619][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_87:PersistentLevel.BP_VariableBand_C_0.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:619][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:619][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:619][ 32]LogPhysics: Warning: Scale for /Game/Maps/PinballMap.PinballMap:PersistentLevel.BP_VariableBand_2.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:620][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:620][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:620][ 32]LogPhysics: Warning: Scale for /Game/Maps/PinballMap.PinballMap:PersistentLevel.BP_VariableBand_2.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.38:620][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.38:620][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.38:725][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.14.38:743][ 35]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBand5E56358D499252C539DC6789857BED35.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.14.38:760][ 35]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.14.38:760][ 35]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.14.40:559][242]LogPhysics: Warning: Scale for /Engine/Transient.World_87:PersistentLevel.BP_VariableBand_C_0.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.40:559][242]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.40:559][242]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.40:560][242]LogPhysics: Warning: Scale for /Engine/Transient.World_87:PersistentLevel.BP_VariableBand_C_0.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.14.40:560][242]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.14.40:560][242]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.14.43:584][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-14.14.43:604][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.02.09-14.14.43:634][588]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMapA6B3C13B4AC30E1F7E38B2B45C9C4ECF.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-14.14.43:640][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-14.14.43:651][588]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltData45BB6F534C0FF57D1FE68990BD80DFE0.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-14.14.43:667][588]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-14.14.43:667][588]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-14.14.43:667][588]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-14.15.33:865][ 46]LogPhysics: Warning: Scale for /Game/Maps/PinballMap.PinballMap:PersistentLevel.BP_VariableBand_2.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.15.33:865][ 46]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.15.33:865][ 46]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.15.33:865][ 46]LogPhysics: Warning: Scale for /Game/Maps/PinballMap.PinballMap:PersistentLevel.BP_VariableBand_2.NODE_AddStaticMeshComponent-1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.02.09-14.15.33:865][ 46]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.09-14.15.33:865][ 46]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.02.09-14.15.37:290][456]LogEditorViewport: Clicking on Actor (LMB): BP_VariableBand_C (BP_VariableBand)
+[2022.02.09-14.15.39:335][699]LogEditorViewport: Clicking on Actor (LMB): BP_VariableBand_C (BP_VariableBand)
+[2022.02.09-14.16.04:439][190]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.16.04:481][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.02.09-14.16.04:857][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.16.04:875][223]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBandEA12D4854A69C84CF959FEB5B73E12F2.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.16.04:900][223]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.16.04:900][223]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.16.06:243][359]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-14.16.06:262][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-14.16.06:262][359]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 8:16:06 AM)
+[2022.02.09-14.16.06:262][359]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.16.06:270][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007842s)
+[2022.02.09-14.16.06:271][359]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-14.16.06:272][359]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2022.02.09-14.16.06:272][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.009580s)
+[2022.02.09-14.16.06:290][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.02.09-14.16.06:291][359]LogAudio: Display: Creating Audio Device:                 Id: 102, Scope: Unique, Realtime: True
+[2022.02.09-14.16.06:291][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-14.16.06:291][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-14.16.06:291][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-14.16.06:291][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-14.16.06:291][359]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-14.16.06:291][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-14.16.06:291][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-14.16.06:291][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-14.16.06:291][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-14.16.06:291][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-14.16.06:291][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-14.16.06:291][359]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-14.16.06:298][359]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-14.16.06:298][359]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-14.16.06:313][359]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-14.16.06:313][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-14.16.06:313][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-14.16.06:313][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-14.16.06:314][359]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-14.16.06:314][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-14.16.06:314][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-14.16.06:315][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-14.16.06:315][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-14.16.06:315][359]LogInit: FAudioDevice initialized.
+[2022.02.09-14.16.06:315][359]LogAudio: Display: Audio Device (ID: 102) registered with world 'PinballMap'.
+[2022.02.09-14.16.06:326][359]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-14.16.06:328][359]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-23.16.06
+[2022.02.09-14.16.06:328][359]LogWorld: Bringing up level for play took: 0.001364
+[2022.02.09-14.16.06:328][359]LogOnline: OSS: Creating online subsystem instance for: :Context_163
+[2022.02.09-14.16.06:350][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.16.06:350][359]PIE: Server logged in
+[2022.02.09-14.16.06:351][359]PIE: Play in editor total start time 0.105 seconds.
+[2022.02.09-14.16.07:276][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.16.07:276][464]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.16.07:276][464]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-14.16.07:277][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.16.07:286][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-14.16.07:293][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.16.07:310][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-14.16.07:310][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.16.07:311][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.16.07:313][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.16.07:316][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.02.09-14.16.07:348][465]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2022.02.09-14.16.10:983][872]LogEditorViewport: Clicking on Actor (LMB): BP_VariableBand_C (BP_VariableBand)
+[2022.02.09-14.16.24:718][168]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/SM_BandExtender.SM_BandExtender
+[2022.02.09-14.16.29:735][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_BandExtender" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/SM_BandExtender.uasset" SILENT=true
+[2022.02.09-14.16.29:740][676]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/SM_BandExtender01ECA429494C073A6FA7648520A5403B.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/SM_BandExtender.uasset'
+[2022.02.09-14.16.29:768][676]AssetCheck: New page: Asset Save: SM_BandExtender
+[2022.02.09-14.16.29:768][676]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_BandExtender.SM_BandExtender
+[2022.02.09-14.16.30:670][773]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-14.16.30:670][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.16.32:976][983]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/SM_PostHalf.SM_PostHalf
+[2022.02.09-14.16.56:486][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_PostHalf" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/SM_PostHalf.uasset" SILENT=true
+[2022.02.09-14.16.56:494][600]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/SM_PostHalf97DB64C44B4567D4D242658593BB3845.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/SM_PostHalf.uasset'
+[2022.02.09-14.16.56:508][600]AssetCheck: New page: Asset Save: SM_PostHalf
+[2022.02.09-14.16.56:508][600]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_PostHalf.SM_PostHalf
+[2022.02.09-14.16.57:718][733]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-14.16.57:718][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.17.00:838][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_VariableBand_C (BP_VariableBand)
+[2022.02.09-14.17.21:448][476]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.09-14.17.21:786][511]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper15)
+[2022.02.09-14.17.23:545][709]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper15)
+[2022.02.09-14.17.23:964][755]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper14)
+[2022.02.09-14.17.24:615][829]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper14)
+[2022.02.09-14.17.25:374][918]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper13)
+[2022.02.09-14.17.28:002][223]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper6)
+[2022.02.09-14.17.56:624][191]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b29df908-8b85-4e41-9ae2-620cc3fcf598}.
+[2022.02.09-14.17.56:624][191]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-14.17.56:639][191]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-14.17.56:639][191]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-14.22.16:341][967]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f03eaf0-99ef-4222-9411-99736e3fc871}.
+[2022.02.09-14.22.16:341][967]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-14.22.16:466][967]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-14.22.16:466][967]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-14.22.16:998][969]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.09-14.22.17:320][969]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-14.22.17:347][969]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-14.22.17:347][969]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-14.22.33:058][ 29]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tlgns\Downloads\PinballAssets\PinballAssets\SM_DropTarget.FBX)
+[2022.02.09-14.22.33:068][ 29]LogFbx: Loading FBX Scene from C:\Users\tlgns\Downloads\PinballAssets\PinballAssets\SM_DropTarget.FBX
+[2022.02.09-14.22.33:073][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.09-14.22.36:259][ 29]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.09-14.22.36:293][ 29]LogStaticMesh: Building static mesh SM_DropTarget...
+[2022.02.09-14.22.36:296][ 29]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/SM_DropTarget.SM_DropTarget
+[2022.02.09-14.22.36:306][ 29]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.09-14.22.37:733][155]LogSlate: Window 'Message Log' being destroyed
+[2022.02.09-14.22.37:744][155]LogSlate: Window 'Message Log' being destroyed
+[2022.02.09-14.22.40:532][438]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/SM_DropTarget.SM_DropTarget
+[2022.02.09-14.22.44:292][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/SM_DropTarget.uasset" SILENT=true
+[2022.02.09-14.22.44:298][804]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/SM_DropTarget6EF6E695481CF038F4E0A4ADC810C58C.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/SM_DropTarget.uasset'
+[2022.02.09-14.22.44:320][804]AssetCheck: New page: Asset Save: SM_DropTarget
+[2022.02.09-14.22.44:320][804]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_DropTarget.SM_DropTarget
+[2022.02.09-14.22.45:115][887]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-14.22.45:115][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.22.47:071][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-14.22.47:100][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.09-14.22.47:137][ 97]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMapB36185C642A0F33F806EBDA0DD616F1E.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-14.22.47:143][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-14.22.47:153][ 97]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltDataBEAE8F7B4F126A5109C2048E11F0758A.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-14.22.47:168][ 97]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-14.22.47:168][ 97]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-14.22.47:168][ 97]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-14.22.52:136][593]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.09-14.22.52:140][593]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.09-14.22.53:864][593]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.09-14.22.53:881][593]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.09-14.22.53:895][593]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.09-14.22.59:287][225]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DropTarget
+[2022.02.09-14.22.59:290][225]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.09-14.23.01:230][441]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.23.26:818][427]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.23.26:853][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.02.09-14.23.27:488][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.23.27:492][494]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetEC1D345C47F94846D53A56A65476FB2A.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.23.27:512][494]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.23.27:512][494]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.23.32:332][ 33]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.23.32:365][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.02.09-14.23.32:735][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.23.32:742][ 63]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget7F1FE2A14136C31406248DAC8E3B1AD0.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.23.32:758][ 63]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.23.32:758][ 63]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.23.52:113][287]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.23.52:147][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.02.09-14.23.52:739][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.23.52:747][351]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetDAC598A2412786DDF0D11C8F69DC2A8F.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.23.52:772][351]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.23.52:772][351]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.25.54:207][566]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.25.54:246][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.09-14.25.54:612][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.25.54:625][594]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget02B38D22494A678996B8D898DFF07892.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.25.54:643][594]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.25.54:643][594]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.26.32:638][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.26.32:652][524]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget6695743F4BAC575946476BA95F533F30.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.26.32:670][524]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.26.32:670][524]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.26.33:149][581]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.26.33:185][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.09-14.26.33:939][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.26.33:954][661]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget3386785A405D5796F848EA9A30C0D606.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.26.33:971][661]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.26.33:971][661]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.26.51:328][518]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.26.51:363][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.09-14.26.51:768][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.26.51:781][557]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget65935CD9455A45CE1094C59122895123.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.26.51:797][557]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.26.51:797][557]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.26.56:124][ 72]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2022.02.09-14.27.46:860][786]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.27.46:897][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.02.09-14.27.47:234][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.27.47:249][817]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget255C252046964B132E84E093393A90E2.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.27.47:269][817]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.27.47:269][817]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.28.39:338][528]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.28.39:376][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.09-14.28.39:942][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.28.39:957][570]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetE3A054034FEFB0E63B8FDA8EFF2D46B4.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.28.39:977][570]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.28.39:977][570]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.28.49:145][632]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.28.49:180][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.09-14.28.49:733][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.28.49:748][689]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetE0EF275448B0EE8741B073B1A57561E1.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.28.49:770][689]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.28.49:770][689]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.29.07:659][748]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.29.07:695][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.09-14.29.08:050][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.29.08:064][779]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget299AC4BB408AEBA615082B8F9D2E50C8.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.29.08:084][779]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.29.08:084][779]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.30.31:079][468]Cmd: MODE GRID=0
+[2022.02.09-14.30.41:838][721]Cmd: MODE GRID=1
+[2022.02.09-14.31.01:110][952]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.09-14.31.08:756][629]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.09-14.31.14:381][ 40]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.31.14:431][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.02.09-14.31.14:801][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.31.14:814][ 76]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget4266866945BC955AFB6A2A8A8670860E.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.31.14:841][ 76]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.31.14:841][ 76]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.32.23:332][421]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.32.23:368][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.02.09-14.32.23:779][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.32.23:793][459]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget20AC107A49C77F34D7E53D94DC3F67D5.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.32.23:808][459]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.32.23:808][459]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.32.29:053][ 77]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.32.29:090][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.09-14.32.29:468][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.32.29:482][113]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget4075241D404A0D167C86EA90C85778BD.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.32.29:497][113]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.32.29:497][113]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.32.55:983][179]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.32.56:080][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.09-14.32.56:441][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.32.56:457][215]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget69C8FA6B471616E7BBFBFF8A5BBB609E.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.32.56:474][215]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.32.56:474][215]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.33.23:316][987]BlueprintLog: New page: Compile BP_DropTarget
+[2022.02.09-14.33.23:352][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.09-14.33.23:692][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2022.02.09-14.33.23:707][ 18]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTarget612913A5481A18C1E68091A5970E69DE.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2022.02.09-14.33.23:720][ 18]AssetCheck: New page: Asset Save: BP_DropTarget
+[2022.02.09-14.33.23:720][ 18]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2022.02.09-14.33.29:828][715]LogEditorViewport: Clicking on Actor (LMB): BP_VariableBand_C (BP_VariableBand)
+[2022.02.09-14.33.38:311][599]LogContentBrowser: Deferred new asset file creation: BP_VariableBand_Child
+[2022.02.09-14.33.38:358][599]LogContentBrowser: Creating deferred item: BP_VariableBand_Child
+[2022.02.09-14.33.46:066][234]LogContentBrowser: Attempting asset rename: BP_VariableBand_Child -> BP_DropTargerSet
+[2022.02.09-14.33.46:070][234]LogContentBrowser: End creating deferred item BP_VariableBand_Child
+[2022.02.09-14.33.52:477][786]LogContentBrowser: Attempting asset rename: BP_DropTargerSet -> BP_DropTargetSet
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.SKEL_BP_DropTargetSet_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.SKEL_BP_DropTargetSet_C' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet_C' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:511][786]LogMetaData: Removing '/Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/BP_DropTargerSet.PackageMetaData'
+[2022.02.09-14.33.52:550][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.33.52:558][786]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSetB880EAD14518BF098A92558AB3A51257.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.33.52:643][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.02.09-14.33.52:675][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.02.09-14.33.52:696][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.09-14.33.52:737][786]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.33.52:737][786]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.33.53:861][882]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.34.13:939][212]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.34.13:978][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.02.09-14.34.14:383][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.34.14:392][254]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSetCBC25FD345C7AAA3684DB585E216D37A.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.34.14:411][254]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.34.14:411][254]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.34.19:411][838]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.34.19:452][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.02.09-14.34.19:741][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.34.19:749][863]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSet18E301D04DE9E318AC691BB30659FF77.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.34.19:765][863]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.34.19:765][863]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.36.03:897][102]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.36.04:165][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.02.09-14.36.08:288][576]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.09-14.36.08:306][576]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.09-14.37.02:979][947]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.37.03:031][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.09-14.37.03:761][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.37.03:774][997]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSet417F59C14BE02F51E8DF17B8A2C28234.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.37.03:791][997]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.37.03:791][997]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.37.47:771][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.09-14.37.47:772][159]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PinballMap' took 0.027
+[2022.02.09-14.37.47:772][159]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Ball] ([2] browsable assets)...
+[2022.02.09-14.37.47:784][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ball.BP_Ball]
+[2022.02.09-14.37.47:784][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball]
+[2022.02.09-14.37.47:784][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.02.09-14.37.47:799][159]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_Ball_Auto57ABE3BFB47F00498C23AB5AE1954D19A.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto5.uasset'
+[2022.02.09-14.37.47:800][159]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_DropTargetSet] ([2] browsable assets)...
+[2022.02.09-14.37.47:811][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet]
+[2022.02.09-14.37.47:811][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_DropTargetSet]
+[2022.02.09-14.37.47:811][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_DropTargetSet_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.02.09-14.37.47:822][159]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSet_Auto537A7DE084038F7C70A130E8394DF6C53.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_DropTargetSet_Auto5.uasset'
+[2022.02.09-14.37.47:823][159]LogFileHelpers: Auto-saving content packages took 0.051
+[2022.02.09-14.38.56:552][655]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.38.56:620][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.02.09-14.38.57:020][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.38.57:039][688]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBand5E8B3E58432CB090C728CA897E9E0B1B.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.38.57:067][688]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.38.57:068][688]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.40.49:861][919]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.40.49:924][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.02.09-14.40.50:251][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.40.50:268][948]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSetE07B0B804B8F4BC65C5424896C15ED4B.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.40.50:293][948]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.40.50:293][948]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.41.02:179][295]LogEditorViewport: Clicking on Actor (LMB): BP_VariableBand_C (BP_VariableBand)
+[2022.02.09-14.41.03:228][399]Cmd: DELETE
+[2022.02.09-14.41.03:228][399]Cmd: ACTOR DELETE
+[2022.02.09-14.41.03:231][399]LogEditorActor: Deleted Actor: BP_VariableBand_C
+[2022.02.09-14.41.03:263][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.09-14.41.03:266][399]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.02.09-14.42.01:505][ 53]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.42.01:583][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.02.09-14.42.01:970][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.42.01:987][ 86]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSet79B6F29B494A2E0BC66A78BFE3A0C368.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.42.02:014][ 86]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.42.02:014][ 86]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.42.03:238][227]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.42.03:312][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.02.09-14.42.03:942][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.42.03:959][292]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSetA7D8420F4F38C5411D30A0912ECCDD18.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.42.03:973][292]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.42.03:973][292]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.43.24:473][388]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.43.24:545][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.02.09-14.43.26:099][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.43.26:115][561]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSet41EF36E6413AB482C17DBCB96FEB0EB1.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.43.26:134][561]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.43.26:134][561]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.43.36:971][799]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-14.43.37:427][852]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-14.44.28:223][894]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.44.28:314][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.02.09-14.44.28:627][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.44.28:645][919]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSet6C7AE40946669C86343E1FA8E6104067.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.44.28:668][919]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.44.28:668][919]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.46.48:385][663]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.46.48:462][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.02.09-14.46.48:750][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.46.48:769][687]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSet8F2D55F041197F0EEE107E8DD84D609E.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.46.48:791][687]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.46.48:791][687]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.46.58:086][760]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-14.46.58:108][760]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.09-14.46.58:115][760]LogPlayLevel: [PlayLevel] Compiling BP_Ball before play...
+[2022.02.09-14.46.58:162][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.09-14.46.58:162][760]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2022.02.09-14.46.58:163][760]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 8:46:58 AM)
+[2022.02.09-14.46.58:163][760]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.46.58:171][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008080s)
+[2022.02.09-14.46.58:172][760]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-14.46.58:172][760]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2022.02.09-14.46.58:172][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.009111s)
+[2022.02.09-14.46.58:196][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.02.09-14.46.58:198][760]LogAudio: Display: Creating Audio Device:                 Id: 103, Scope: Unique, Realtime: True
+[2022.02.09-14.46.58:199][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-14.46.58:199][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-14.46.58:199][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-14.46.58:199][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-14.46.58:199][760]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-14.46.58:199][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-14.46.58:199][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-14.46.58:199][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-14.46.58:199][760]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-14.46.58:199][760]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-14.46.58:199][760]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-14.46.58:199][760]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-14.46.58:206][760]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-14.46.58:206][760]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-14.46.58:222][760]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-14.46.58:224][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-14.46.58:224][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-14.46.58:224][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-14.46.58:225][760]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-14.46.58:225][760]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-14.46.58:225][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-14.46.58:225][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-14.46.58:225][760]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-14.46.58:225][760]LogInit: FAudioDevice initialized.
+[2022.02.09-14.46.58:225][760]LogAudio: Display: Audio Device (ID: 103) registered with world 'PinballMap'.
+[2022.02.09-14.46.58:274][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.46.58:274][760]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-14.46.58:277][760]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-23.46.58
+[2022.02.09-14.46.58:277][760]LogWorld: Bringing up level for play took: 0.002283
+[2022.02.09-14.46.58:277][760]LogOnline: OSS: Creating online subsystem instance for: :Context_172
+[2022.02.09-14.46.58:279][760]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.09-14.46.58:280][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.46.58:281][760]PIE: Server logged in
+[2022.02.09-14.46.58:282][760]PIE: Play in editor total start time 0.192 seconds.
+[2022.02.09-14.46.59:836][911]LogSlate: Window 'Pinball Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.09-14.46.59:853][911]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.46.59:854][911]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-14.46.59:855][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.46.59:874][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-14.46.59:882][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.46.59:905][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.46.59:906][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.46.59:910][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.02.09-14.46.59:948][912]LogPlayLevel: Display: Destroying online subsystem :Context_172
+[2022.02.09-14.50.19:120][177]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.50.19:203][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.09-14.50.19:487][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.50.19:509][199]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSet255656DE4F5E5C0F037646B4A7F5ED4A.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.50.19:526][199]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.50.19:526][199]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.50.25:911][939]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.50.25:996][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.02.09-14.50.26:866][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.50.26:887][ 30]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSetE24684894501D3D1DE63838837E5784D.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.50.26:906][ 30]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.50.26:906][ 30]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.51.01:595][499]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.51.01:682][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.02.09-14.51.02:046][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.51.02:068][528]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSet704EC35F4350DED54FA40588996DE291.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.51.02:096][528]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.51.02:096][528]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.51.11:344][576]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-14.51.18:310][331]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-14.51.33:209][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-14.51.33:237][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.02.09-14.51.33:272][ 31]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap8A7FDE534065818E7E5BA8928E406674.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-14.51.33:281][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-14.51.33:293][ 31]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltData386E96D94BBD48A5A4D55BA4DF1A61A6.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-14.51.33:309][ 31]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-14.51.33:309][ 31]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-14.51.33:309][ 31]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-14.53.44:348][231]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.53.44:427][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.02.09-14.54.00:442][968]LogEditorTransaction: Undo Modify Component(s)
+[2022.02.09-14.54.04:049][290]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.54.04:129][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.02.09-14.57.39:698][950]LogSlate: Window 'Delete Variable' being destroyed
+[2022.02.09-14.57.44:095][372]BlueprintLog: New page: Compile BP_VariableBand
+[2022.02.09-14.57.44:165][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.02.09-14.57.44:575][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2022.02.09-14.57.44:593][397]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_VariableBand380C0514464D0923FAE1B58683294456.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2022.02.09-14.57.44:615][397]AssetCheck: New page: Asset Save: BP_VariableBand
+[2022.02.09-14.57.44:615][397]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2022.02.09-14.57.53:089][366]BlueprintLog: New page: Compile BP_DropTargetSet
+[2022.02.09-14.57.53:165][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.02.09-14.57.53:557][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTargetSet" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset" SILENT=true
+[2022.02.09-14.57.53:578][401]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_DropTargetSetA1934F0545EE11747619CFBAC9059245.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_DropTargetSet.uasset'
+[2022.02.09-14.57.53:600][401]AssetCheck: New page: Asset Save: BP_DropTargetSet
+[2022.02.09-14.57.53:600][401]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DropTargetSet.BP_DropTargetSet
+[2022.02.09-14.57.57:282][811]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-14.58.00:935][234]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-14.58.07:075][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-14.58.07:100][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.02.09-14.58.07:134][944]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap271C10AB4157C7EB0F19A5AC1C528BDF.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-14.58.07:140][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-14.58.07:150][944]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltData6CAD8E2144D515702733B2AFAB948E68.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-14.58.07:166][944]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-14.58.07:166][944]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-14.58.07:166][944]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-14.58.07:516][979]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-14.58.07:523][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-14.58.07:523][979]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 8:58:07 AM)
+[2022.02.09-14.58.07:523][979]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.58.07:532][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008368s)
+[2022.02.09-14.58.07:533][979]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-14.58.07:533][979]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2022.02.09-14.58.07:533][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.010018s)
+[2022.02.09-14.58.07:556][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.02.09-14.58.07:556][979]LogAudio: Display: Creating Audio Device:                 Id: 104, Scope: Unique, Realtime: True
+[2022.02.09-14.58.07:556][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-14.58.07:556][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-14.58.07:556][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-14.58.07:556][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-14.58.07:556][979]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-14.58.07:557][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-14.58.07:557][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-14.58.07:557][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-14.58.07:557][979]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-14.58.07:557][979]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-14.58.07:557][979]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-14.58.07:557][979]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-14.58.07:564][979]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-14.58.07:564][979]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-14.58.07:579][979]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-14.58.07:579][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-14.58.07:579][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-14.58.07:579][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-14.58.07:580][979]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-14.58.07:580][979]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-14.58.07:580][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-14.58.07:581][979]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-14.58.07:581][979]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-14.58.07:581][979]LogInit: FAudioDevice initialized.
+[2022.02.09-14.58.07:581][979]LogAudio: Display: Audio Device (ID: 104) registered with world 'PinballMap'.
+[2022.02.09-14.58.07:588][979]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-14.58.07:589][979]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-23.58.07
+[2022.02.09-14.58.07:589][979]LogWorld: Bringing up level for play took: 0.001578
+[2022.02.09-14.58.07:590][979]LogOnline: OSS: Creating online subsystem instance for: :Context_173
+[2022.02.09-14.58.07:592][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.58.07:592][979]PIE: Server logged in
+[2022.02.09-14.58.07:593][979]PIE: Play in editor total start time 0.073 seconds.
+[2022.02.09-14.58.08:274][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.58.12:635][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.58.12:635][567]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.58.12:635][567]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-14.58.12:636][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.58.12:659][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-14.58.12:667][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.58.12:688][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.58.12:688][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.58.12:688][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.58.12:693][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.09-14.58.12:732][568]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2022.02.09-14.58.15:526][900]LogEditorViewport: Clicking on Actor (LMB): BP_Rail_C (BP_Rail)
+[2022.02.09-14.58.16:446][  6]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2022.02.09-14.58.17:436][121]Cmd: DELETE
+[2022.02.09-14.58.17:437][121]Cmd: ACTOR DELETE
+[2022.02.09-14.58.17:440][121]LogEditorActor: Deleted Actor: BP_Ball_C
+[2022.02.09-14.58.17:464][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.02.09-14.58.17:467][121]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.02.09-14.58.18:383][230]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-14.58.25:196][986]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-14.58.30:604][613]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-14.58.30:611][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-14.58.30:611][613]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 8:58:30 AM)
+[2022.02.09-14.58.30:633][613]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.58.30:641][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008481s)
+[2022.02.09-14.58.30:643][613]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-14.58.30:643][613]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2022.02.09-14.58.30:643][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.010229s)
+[2022.02.09-14.58.30:669][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.02.09-14.58.30:671][613]LogAudio: Display: Creating Audio Device:                 Id: 105, Scope: Unique, Realtime: True
+[2022.02.09-14.58.30:672][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-14.58.30:672][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-14.58.30:672][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-14.58.30:672][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-14.58.30:672][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-14.58.30:672][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-14.58.30:672][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-14.58.30:672][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-14.58.30:672][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-14.58.30:672][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-14.58.30:672][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-14.58.30:672][613]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-14.58.30:678][613]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-14.58.30:678][613]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-14.58.30:692][613]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-14.58.30:692][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-14.58.30:692][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-14.58.30:692][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-14.58.30:692][613]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-14.58.30:692][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-14.58.30:692][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-14.58.30:693][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-14.58.30:693][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-14.58.30:693][613]LogInit: FAudioDevice initialized.
+[2022.02.09-14.58.30:693][613]LogAudio: Display: Audio Device (ID: 105) registered with world 'PinballMap'.
+[2022.02.09-14.58.30:700][613]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-14.58.30:702][613]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-23.58.30
+[2022.02.09-14.58.30:702][613]LogWorld: Bringing up level for play took: 0.001518
+[2022.02.09-14.58.30:702][613]LogOnline: OSS: Creating online subsystem instance for: :Context_174
+[2022.02.09-14.58.30:704][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.58.30:704][613]PIE: Server logged in
+[2022.02.09-14.58.30:705][613]PIE: Play in editor total start time 0.097 seconds.
+[2022.02.09-14.58.31:235][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.58.46:055][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.58.46:055][408]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.58.46:055][408]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-14.58.46:056][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.58.46:065][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-14.58.46:078][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.58.46:100][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-14.58.46:100][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.58.46:101][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.58.46:103][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.58.46:106][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.02.09-14.58.46:158][409]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2022.02.09-14.59.13:092][149]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-14.59.13:098][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-14.59.13:098][149]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 8:59:13 AM)
+[2022.02.09-14.59.13:133][149]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.59.13:141][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008463s)
+[2022.02.09-14.59.13:143][149]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-14.59.13:143][149]LogPlayLevel: PIE: World Init took: (0.001824s)
+[2022.02.09-14.59.13:143][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.010530s)
+[2022.02.09-14.59.13:168][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.02.09-14.59.13:171][149]LogAudio: Display: Creating Audio Device:                 Id: 106, Scope: Unique, Realtime: True
+[2022.02.09-14.59.13:171][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-14.59.13:171][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-14.59.13:171][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-14.59.13:171][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-14.59.13:171][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-14.59.13:171][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-14.59.13:171][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-14.59.13:171][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-14.59.13:172][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-14.59.13:172][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-14.59.13:172][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-14.59.13:172][149]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-14.59.13:177][149]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-14.59.13:177][149]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-14.59.13:193][149]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-14.59.13:194][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-14.59.13:194][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-14.59.13:194][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-14.59.13:194][149]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-14.59.13:194][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-14.59.13:194][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-14.59.13:195][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-14.59.13:195][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-14.59.13:195][149]LogInit: FAudioDevice initialized.
+[2022.02.09-14.59.13:195][149]LogAudio: Display: Audio Device (ID: 106) registered with world 'PinballMap'.
+[2022.02.09-14.59.13:201][149]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-14.59.13:204][149]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-23.59.13
+[2022.02.09-14.59.13:204][149]LogWorld: Bringing up level for play took: 0.001631
+[2022.02.09-14.59.13:204][149]LogOnline: OSS: Creating online subsystem instance for: :Context_175
+[2022.02.09-14.59.13:206][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.59.13:207][149]PIE: Server logged in
+[2022.02.09-14.59.13:207][149]PIE: Play in editor total start time 0.112 seconds.
+[2022.02.09-14.59.13:854][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.59.50:815][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.59.50:815][648]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-14.59.50:815][648]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-14.59.50:816][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.59.50:827][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-14.59.50:835][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-14.59.50:856][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-14.59.50:856][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.59.50:857][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-14.59.50:859][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-14.59.50:863][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.02.09-14.59.50:905][649]LogPlayLevel: Display: Destroying online subsystem :Context_175
+[2022.02.09-15.00.01:101][512]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-15.00.20:195][591]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.00.20:195][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.00.26:435][ 86]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinballGameMode.PinballGameMode
+[2022.02.09-15.00.35:365][897]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.00.35:365][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.01.23:899][381]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-15.01.23:907][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-15.01.23:908][381]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 9:01:23 AM)
+[2022.02.09-15.01.23:908][381]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-15.01.23:916][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008257s)
+[2022.02.09-15.01.23:917][381]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-15.01.23:917][381]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2022.02.09-15.01.23:917][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.009384s)
+[2022.02.09-15.01.23:988][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.02.09-15.01.23:991][381]LogAudio: Display: Creating Audio Device:                 Id: 107, Scope: Unique, Realtime: True
+[2022.02.09-15.01.23:992][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-15.01.23:992][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-15.01.23:992][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-15.01.23:992][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-15.01.23:992][381]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-15.01.23:992][381]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-15.01.23:992][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-15.01.23:992][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-15.01.23:992][381]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-15.01.23:992][381]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-15.01.23:992][381]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-15.01.23:992][381]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-15.01.23:999][381]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-15.01.23:999][381]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-15.01.24:014][381]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-15.01.24:014][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-15.01.24:014][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-15.01.24:014][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-15.01.24:014][381]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-15.01.24:014][381]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-15.01.24:014][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-15.01.24:015][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-15.01.24:015][381]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-15.01.24:015][381]LogInit: FAudioDevice initialized.
+[2022.02.09-15.01.24:015][381]LogAudio: Display: Audio Device (ID: 107) registered with world 'PinballMap'.
+[2022.02.09-15.01.24:022][381]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-15.01.24:024][381]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.10-00.01.24
+[2022.02.09-15.01.24:024][381]LogWorld: Bringing up level for play took: 0.001519
+[2022.02.09-15.01.24:024][381]LogOnline: OSS: Creating online subsystem instance for: :Context_178
+[2022.02.09-15.01.24:027][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.01.24:027][381]PIE: Server logged in
+[2022.02.09-15.01.24:028][381]PIE: Play in editor total start time 0.123 seconds.
+[2022.02.09-15.01.24:673][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.02.19:164][429]Cmd: SELECT NONE
+[2022.02.09-15.02.21:745][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.02.21:745][706]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-15.02.21:745][706]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.02.21:746][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.02.21:757][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-15.02.21:766][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.02.21:787][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-15.02.21:787][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-15.02.21:788][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-15.02.21:790][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.02.21:795][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.02.09-15.02.21:831][707]LogPlayLevel: Display: Destroying online subsystem :Context_178
+[2022.02.09-15.02.24:368][901]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinballGameMode.PinballGameMode
+[2022.02.09-15.02.29:240][387]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.09-15.02.29:256][387]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.09-15.02.47:266][ 87]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.02.47:266][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.02.51:889][436]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-15.03.00:236][232]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.03.00:237][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.03.06:376][897]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-15.03.06:381][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-15.03.06:381][897]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 9:03:06 AM)
+[2022.02.09-15.03.06:382][897]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-15.03.06:390][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008125s)
+[2022.02.09-15.03.06:390][897]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-15.03.06:391][897]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2022.02.09-15.03.06:391][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.009654s)
+[2022.02.09-15.03.06:418][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.09-15.03.06:421][897]LogAudio: Display: Creating Audio Device:                 Id: 108, Scope: Unique, Realtime: True
+[2022.02.09-15.03.06:421][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-15.03.06:421][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-15.03.06:421][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-15.03.06:421][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-15.03.06:421][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-15.03.06:421][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-15.03.06:421][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-15.03.06:421][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-15.03.06:421][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-15.03.06:421][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-15.03.06:421][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-15.03.06:421][897]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-15.03.06:427][897]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-15.03.06:427][897]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-15.03.06:442][897]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-15.03.06:443][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-15.03.06:443][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-15.03.06:443][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-15.03.06:443][897]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-15.03.06:443][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-15.03.06:443][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-15.03.06:444][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-15.03.06:444][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-15.03.06:444][897]LogInit: FAudioDevice initialized.
+[2022.02.09-15.03.06:444][897]LogAudio: Display: Audio Device (ID: 108) registered with world 'PinballMap'.
+[2022.02.09-15.03.06:451][897]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-15.03.06:454][897]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.10-00.03.06
+[2022.02.09-15.03.06:454][897]LogWorld: Bringing up level for play took: 0.001647
+[2022.02.09-15.03.06:454][897]LogOnline: OSS: Creating online subsystem instance for: :Context_181
+[2022.02.09-15.03.06:456][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.03.06:457][897]PIE: Server logged in
+[2022.02.09-15.03.06:457][897]PIE: Play in editor total start time 0.078 seconds.
+[2022.02.09-15.03.08:550][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.05.45:757][362]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.09-15.06.05:790][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-15.06.05:813][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.02.09-15.06.05:847][421]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap8CF811B44939FFEAA7064CA1396318A7.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-15.06.05:853][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-15.06.05:863][421]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltData64DF06004E4E661E865F1BB55051FB20.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-15.06.05:869][421]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-15.06.05:869][421]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-15.06.05:869][421]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-15.06.06:925][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.06.06:925][528]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-15.06.06:925][528]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.06.06:926][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.06.06:937][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-15.06.06:945][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.06.06:966][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-15.06.06:966][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-15.06.06:967][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-15.06.06:969][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.06.06:973][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.02.09-15.06.07:008][529]LogPlayLevel: Display: Destroying online subsystem :Context_181
+[2022.02.09-15.06.07:526][578]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-15.06.07:532][578]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.09-15.06.07:536][578]LogPlayLevel: [PlayLevel] Compiling PinballGameMode before play...
+[2022.02.09-15.06.07:576][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.09-15.06.07:576][578]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2022.02.09-15.06.07:576][578]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 9:06:07 AM)
+[2022.02.09-15.06.07:577][578]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-15.06.07:583][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007593s)
+[2022.02.09-15.06.07:584][578]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-15.06.07:585][578]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2022.02.09-15.06.07:585][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.009036s)
+[2022.02.09-15.06.07:607][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.02.09-15.06.07:607][578]LogAudio: Display: Creating Audio Device:                 Id: 109, Scope: Unique, Realtime: True
+[2022.02.09-15.06.07:607][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-15.06.07:607][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-15.06.07:607][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-15.06.07:607][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-15.06.07:607][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-15.06.07:607][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-15.06.07:607][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-15.06.07:607][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-15.06.07:608][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-15.06.07:608][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-15.06.07:608][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-15.06.07:608][578]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-15.06.07:614][578]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-15.06.07:614][578]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-15.06.07:629][578]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-15.06.07:629][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-15.06.07:630][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-15.06.07:630][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-15.06.07:630][578]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-15.06.07:630][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-15.06.07:630][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-15.06.07:631][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-15.06.07:631][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-15.06.07:631][578]LogInit: FAudioDevice initialized.
+[2022.02.09-15.06.07:631][578]LogAudio: Display: Audio Device (ID: 109) registered with world 'PinballMap'.
+[2022.02.09-15.06.07:637][578]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-15.06.07:640][578]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.10-00.06.07
+[2022.02.09-15.06.07:640][578]LogWorld: Bringing up level for play took: 0.001540
+[2022.02.09-15.06.07:640][578]LogOnline: OSS: Creating online subsystem instance for: :Context_182
+[2022.02.09-15.06.07:642][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.06.07:642][578]PIE: Server logged in
+[2022.02.09-15.06.07:643][578]PIE: Play in editor total start time 0.113 seconds.
+[2022.02.09-15.06.08:274][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.06.12:725][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.06.12:725][170]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-15.06.12:725][170]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.06.12:726][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.06.12:737][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-15.06.12:745][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.06.12:766][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-15.06.12:766][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-15.06.12:767][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-15.06.12:772][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.02.09-15.06.12:812][171]LogPlayLevel: Display: Destroying online subsystem :Context_182
+[2022.02.09-15.07.28:968][716]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-15.07.31:318][974]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2022.02.09-15.07.38:340][554]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.09-15.07.38:360][554]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.09-15.07.42:284][ 20]LogContentBrowser: Attempting asset rename: NewFolder -> Bumpers
+[2022.02.09-15.07.42:285][ 20]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.09-15.08.03:572][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.02.09-15.08.06:006][691]LogSlate: Window 'Save Content' being destroyed
+[2022.02.09-15.08.06:060][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Arcade_Enemy_Death_02" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Death_02.uasset" SILENT=true
+[2022.02.09-15.08.06:061][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Arcade_Enemy_Death_02A60841414C20940212C1A691A216F2A5.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Death_02.uasset'
+[2022.02.09-15.08.06:062][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Arcade_Enemy_Death_03_m1" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Death_03_m1.uasset" SILENT=true
+[2022.02.09-15.08.06:063][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Arcade_Enemy_Death_03_m19EAE567145AFDBC39FD69BA47F8491E4.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Death_03_m1.uasset'
+[2022.02.09-15.08.06:063][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Fire_02_m1.uasset" SILENT=true
+[2022.02.09-15.08.06:064][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Arcade_Enemy_Fire_02_m1256C46C4412D2E2858426FA6841F78BF.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Fire_02_m1.uasset'
+[2022.02.09-15.08.06:065][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Fire_03_m1.uasset" SILENT=true
+[2022.02.09-15.08.06:066][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Arcade_Enemy_Fire_03_m1EE44F0EA4258D8C1063337978B8A411E.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Fire_03_m1.uasset'
+[2022.02.09-15.08.06:067][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Arcade_GameStart" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_GameStart.uasset" SILENT=true
+[2022.02.09-15.08.06:068][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Arcade_GameStart8A5F7F9146A4522DF80628BF8D977608.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_GameStart.uasset'
+[2022.02.09-15.08.06:068][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Bell_Impact01" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Bell_Impact01.uasset" SILENT=true
+[2022.02.09-15.08.06:069][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Bell_Impact01829D6DBF4C5481A0C43B7EAC11728514.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Bell_Impact01.uasset'
+[2022.02.09-15.08.06:070][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2022.02.09-15.08.06:081][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_Ball6337A0394B6389CEA08837AD81989B3C.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2022.02.09-15.08.06:093][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Impact_Punch_High01" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High01.uasset" SILENT=true
+[2022.02.09-15.08.06:094][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Impact_Punch_High01E724D0C24D4C8489864273A534942DE4.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High01.uasset'
+[2022.02.09-15.08.06:094][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Impact_Punch_High02" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High02.uasset" SILENT=true
+[2022.02.09-15.08.06:095][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Impact_Punch_High0277A9EC5C4AB94D0E26DD2393B121D4A0.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High02.uasset'
+[2022.02.09-15.08.06:096][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Impact_Punch_High03" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High03.uasset" SILENT=true
+[2022.02.09-15.08.06:097][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Impact_Punch_High035BF8CE8D41E23A68011C2C89665ABA2F.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High03.uasset'
+[2022.02.09-15.08.06:097][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Impact_Punch_High04" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High04.uasset" SILENT=true
+[2022.02.09-15.08.06:098][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Impact_Punch_High040E00C8F7446AA0474D2202BE441BD3BF.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High04.uasset'
+[2022.02.09-15.08.06:099][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimpleMetal" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset" SILENT=true
+[2022.02.09-15.08.06:101][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/M_SimpleMetalD4841C784F78C83405F19F9258DF2065.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset'
+[2022.02.09-15.08.06:102][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimplePlastic" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/M_SimplePlastic.uasset" SILENT=true
+[2022.02.09-15.08.06:104][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/M_SimplePlasticAE79662D45836F33C8876D988124C8FB.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/M_SimplePlastic.uasset'
+[2022.02.09-15.08.06:104][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/MI_SimplePlastic_Yellow" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/MI_SimplePlastic_Yellow.uasset" SILENT=true
+[2022.02.09-15.08.06:106][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/MI_SimplePlastic_YellowBF72A53B4D074271127B68AAE786D25B.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/MI_SimplePlastic_Yellow.uasset'
+[2022.02.09-15.08.06:107][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BallAdded" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallAdded.uasset" SILENT=true
+[2022.02.09-15.08.06:108][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BallAdded5368CB9E45FEB25177CD92AFD69469D7.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallAdded.uasset'
+[2022.02.09-15.08.06:109][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BallDropFromSlide" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallDropFromSlide.uasset" SILENT=true
+[2022.02.09-15.08.06:110][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BallDropFromSlide22F9A68D4EBDB342AD117590278AC586.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallDropFromSlide.uasset'
+[2022.02.09-15.08.06:110][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BallKickout" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallKickout.uasset" SILENT=true
+[2022.02.09-15.08.06:111][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BallKickoutC884959D44D71669B36B359C28E1CB8A.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallKickout.uasset'
+[2022.02.09-15.08.06:112][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BallLaunch" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallLaunch.uasset" SILENT=true
+[2022.02.09-15.08.06:113][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BallLaunch64F4885C4B59148DA83A48BF58136469.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallLaunch.uasset'
+[2022.02.09-15.08.06:113][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BallLoose" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallLoose.uasset" SILENT=true
+[2022.02.09-15.08.06:114][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BallLoose70B1549C4EB2CA3CC9C0048AC6A16CA9.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallLoose.uasset'
+[2022.02.09-15.08.06:115][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BallRelease" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallRelease.uasset" SILENT=true
+[2022.02.09-15.08.06:116][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BallRelease0592099B402F80069FA4E7BB38DC1915.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallRelease.uasset'
+[2022.02.09-15.08.06:117][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Bell01" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Bell01.uasset" SILENT=true
+[2022.02.09-15.08.06:118][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_Bell01C2258045467A8AE879BFABBA153548BA.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Bell01.uasset'
+[2022.02.09-15.08.06:118][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BumperImpact01" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact01.uasset" SILENT=true
+[2022.02.09-15.08.06:119][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BumperImpact01039A670E4F9C2D1B4B21ECA19CDEF8FE.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact01.uasset'
+[2022.02.09-15.08.06:120][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BumperImpact02" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact02.uasset" SILENT=true
+[2022.02.09-15.08.06:121][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BumperImpact02BD0B70DF4D105E7B1D78BFB44830FC34.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact02.uasset'
+[2022.02.09-15.08.06:121][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BumperImpact03" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact03.uasset" SILENT=true
+[2022.02.09-15.08.06:122][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BumperImpact03C0668A4340E148BFB1BE6B8363C27082.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact03.uasset'
+[2022.02.09-15.08.06:123][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BumperImpact04" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact04.uasset" SILENT=true
+[2022.02.09-15.08.06:124][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BumperImpact040900524549C63F649EB358B24559050C.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact04.uasset'
+[2022.02.09-15.08.06:124][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BumperImpact05" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact05.uasset" SILENT=true
+[2022.02.09-15.08.06:125][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_BumperImpact058D40DB2E440869E51C9A47A9A89D4822.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact05.uasset'
+[2022.02.09-15.08.06:126][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Error01" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Error01.uasset" SILENT=true
+[2022.02.09-15.08.06:127][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_Error018B1755A94DB4727F9502E5A02FA2AD9D.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Error01.uasset'
+[2022.02.09-15.08.06:127][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_FlipperLeft" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_FlipperLeft.uasset" SILENT=true
+[2022.02.09-15.08.06:128][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_FlipperLeft6B9B2F104A5E00C3F3EF9EB7376B61B5.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_FlipperLeft.uasset'
+[2022.02.09-15.08.06:129][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_FlipperRight" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_FlipperRight.uasset" SILENT=true
+[2022.02.09-15.08.06:130][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_FlipperRight11C8F1BA4ABEFA15B5AD3DA190BDC498.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_FlipperRight.uasset'
+[2022.02.09-15.08.06:130][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Popup01" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup01.uasset" SILENT=true
+[2022.02.09-15.08.06:131][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_Popup01E6330BA949552058A7F4D7A6BF13BD0B.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup01.uasset'
+[2022.02.09-15.08.06:132][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Popup02" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup02.uasset" SILENT=true
+[2022.02.09-15.08.06:133][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_Popup023886596F48587FDE5E1C279C15DCD518.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup02.uasset'
+[2022.02.09-15.08.06:133][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Popup03" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup03.uasset" SILENT=true
+[2022.02.09-15.08.06:134][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_Popup03B1EF1CC041223EB919BBC484B8EEA6EF.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup03.uasset'
+[2022.02.09-15.08.06:135][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Reset01" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Reset01.uasset" SILENT=true
+[2022.02.09-15.08.06:136][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_Reset01D496B32847CFF6A6ECB5968F96CB3773.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Reset01.uasset'
+[2022.02.09-15.08.06:137][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Reset02" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Reset02.uasset" SILENT=true
+[2022.02.09-15.08.06:138][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_Reset02EBCE49744218B0FE56416996C874A6BD.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Reset02.uasset'
+[2022.02.09-15.08.06:138][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Rolling01" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Rolling01.uasset" SILENT=true
+[2022.02.09-15.08.06:140][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Pinball_Rolling0192BFC852476560069FC302B5F4C0A356.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Rolling01.uasset'
+[2022.02.09-15.08.06:140][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameMode" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballGameMode.uasset" SILENT=true
+[2022.02.09-15.08.06:181][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballGameMode831B760547A615D57EA260AE554F97FE.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballGameMode.uasset'
+[2022.02.09-15.08.06:182][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/SP08_Convoy_Chase_exp" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/SP08_Convoy_Chase_exp.uasset" SILENT=true
+[2022.02.09-15.08.06:192][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/SP08_Convoy_Chase_exp56E9A241408B93B656C6D481980A856C.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/SP08_Convoy_Chase_exp.uasset'
+[2022.02.09-15.08.06:193][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/victoryMusic_loop" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/victoryMusic_loop.uasset" SILENT=true
+[2022.02.09-15.08.06:194][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/victoryMusic_loopA178E9514B8D6A2B46F3E09ED88A0F5B.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/victoryMusic_loop.uasset'
+[2022.02.09-15.08.06:194][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/victoryMusic_loop_01_01" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/victoryMusic_loop_01_01.uasset" SILENT=true
+[2022.02.09-15.08.06:204][691]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/victoryMusic_loop_01_01727E7646423130360AF302A11542106C.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/Sounds/victoryMusic_loop_01_01.uasset'
+[2022.02.09-15.08.06:272][691]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.09-15.08.06:272][691]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.06:272][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.08.06:350][691]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.09-15.08.06:350][691]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.06:351][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.08.06:497][691]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.09-15.08.06:497][691]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.06:497][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-15.08.06:704][691]LogSlate: Window 'Pinball - Unreal Editor' being destroyed
+[2022.02.09-15.08.06:954][691]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-15.08.06:954][691]LogContentValidation: Display: Validating Material /Game/Assets/M_SimpleMetal.M_SimpleMetal
+[2022.02.09-15.08.06:954][691]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2022.02.09-15.08.06:954][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_Popup02.Pinball_Popup02
+[2022.02.09-15.08.06:954][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_Popup01.Pinball_Popup01
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_FlipperRight.Pinball_FlipperRight
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_FlipperLeft.Pinball_FlipperLeft
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_Error01.Pinball_Error01
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BumperImpact05.Pinball_BumperImpact05
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BumperImpact04.Pinball_BumperImpact04
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BumperImpact03.Pinball_BumperImpact03
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BumperImpact02.Pinball_BumperImpact02
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BumperImpact01.Pinball_BumperImpact01
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating Material /Game/Assets/M_SimplePlastic.M_SimplePlastic
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_Bell01.Pinball_Bell01
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BallRelease.Pinball_BallRelease
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/MI_SimplePlastic_Yellow.MI_SimplePlastic_Yellow
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BallLoose.Pinball_BallLoose
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BallLaunch.Pinball_BallLaunch
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BallKickout.Pinball_BallKickout
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BallDropFromSlide.Pinball_BallDropFromSlide
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_BallAdded.Pinball_BallAdded
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Impact_Punch_High04.Impact_Punch_High04
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Impact_Punch_High03.Impact_Punch_High03
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Impact_Punch_High02.Impact_Punch_High02
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Impact_Punch_High01.Impact_Punch_High01
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Bell_Impact01.Bell_Impact01
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Arcade_GameStart.Arcade_GameStart
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1.Arcade_Enemy_Fire_03_m1
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1.Arcade_Enemy_Fire_02_m1
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Arcade_Enemy_Death_03_m1.Arcade_Enemy_Death_03_m1
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Arcade_Enemy_Death_02.Arcade_Enemy_Death_02
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/victoryMusic_loop_01_01.victoryMusic_loop_01_01
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Sounds/victoryMusic_loop.victoryMusic_loop
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/SP08_Convoy_Chase_exp.SP08_Convoy_Chase_exp
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_Rolling01.Pinball_Rolling01
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_Reset02.Pinball_Reset02
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_Reset01.Pinball_Reset01
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Pinball_Popup03.Pinball_Popup03
+[2022.02.09-15.08.06:955][691]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballGameMode.PinballGameMode
+[2022.02.09-15.08.06:959][692]Cmd: QUIT_EDITOR
+[2022.02.09-15.08.06:959][692]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.09-15.08.06:981][692]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.09-15.08.07:112][692]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.09-15.08.07:112][692]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.09-15.08.07:112][692]LogAudio: Display: Audio Device unregistered from world 'PinballMap'.
+[2022.02.09-15.08.07:112][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-15.08.07:114][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-15.08.07:176][692]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.09-15.08.07:186][692]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2022.02.09-15.08.07:198][692]LogExit: Preparing to exit.
+[2022.02.09-15.08.08:187][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.02.09-15.08.08:692][692]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:694][692]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:696][692]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:698][692]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:701][692]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:703][692]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:706][692]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:708][692]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:710][692]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:711][692]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:822][692]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.09-15.08.08:957][692]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-15.08.08:957][692]LogExit: Editor shut down
+[2022.02.09-15.08.08:959][692]LogExit: Transaction tracking system shut down
+[2022.02.09-15.08.10:032][692]LogExit: Object subsystem successfully closed.
+[2022.02.09-15.08.10:047][692]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.09-15.08.10:047][692]LogShaderCompilers: Display: Total job queries 513, among them cache hits 367 (71.54%)
+[2022.02.09-15.08.10:047][692]LogShaderCompilers: Display: Tracking 116 distinct input hashes that result in 71 distinct outputs (61.21%)
+[2022.02.09-15.08.10:047][692]LogShaderCompilers: Display: RAM used: 0.43 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2022.02.09-15.08.10:047][692]LogShaderCompilers: Display: ================================================
+[2022.02.09-15.08.10:818][692]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module SequencerWidgets (884)
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (882)
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (880)
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (878)
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (876)
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module Voice (874)
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.02.09-15.08.12:518][692]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.02.09-15.08.12:521][692]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.02.09-15.08.12:521][692]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.02.09-15.08.12:521][692]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.02.09-15.08.12:521][692]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.02.09-15.08.12:521][692]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.02.09-15.08.12:521][692]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.02.09-15.08.12:521][692]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.02.09-15.08.12:521][692]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.02.09-15.08.12:521][692]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.02.09-15.08.12:538][692]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.02.09-15.08.12:613][692]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.02.09-15.08.12:613][692]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.02.09-15.08.12:613][692]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.02.09-15.08.12:613][692]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.02.09-15.08.12:613][692]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.02.09-15.08.12:613][692]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.02.09-15.08.12:627][692]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.02.09-15.08.12:627][692]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.02.09-15.08.12:637][692]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.02.09-15.08.12:637][692]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.02.09-15.08.12:637][692]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.02.09-15.08.12:637][692]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.02.09-15.08.12:637][692]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.02.09-15.08.12:637][692]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.02.09-15.08.12:644][692]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.02.09-15.08.12:691][692]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.02.09-15.08.12:717][692]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module PlanarCut (796)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.02.09-15.08.12:718][692]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.02.09-15.08.12:734][692]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.02.09-15.08.12:734][692]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.02.09-15.08.12:766][692]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.02.09-15.08.12:775][692]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.02.09-15.08.12:776][692]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.02.09-15.08.12:797][692]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.02.09-15.08.12:797][692]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.02.09-15.08.12:797][692]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.02.09-15.08.12:797][692]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.02.09-15.08.12:797][692]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.02.09-15.08.12:797][692]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.02.09-15.08.12:797][692]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.02.09-15.08.12:797][692]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.02.09-15.08.12:854][692]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.02.09-15.08.13:097][692]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.02.09-15.08.13:111][692]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.02.09-15.08.13:112][692]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.02.09-15.08.13:120][692]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.02.09-15.08.13:120][692]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.02.09-15.08.13:120][692]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.02.09-15.08.13:120][692]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.02.09-15.08.14:532][692]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.02.09-15.08.14:532][692]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.02.09-15.08.14:532][692]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.02.09-15.08.14:532][692]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.02.09-15.08.14:532][692]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.02.09-15.08.14:620][692]MemoryProfiler: Shutdown
+[2022.02.09-15.08.14:620][692]NetworkingProfiler: Shutdown
+[2022.02.09-15.08.14:620][692]LoadingProfiler: Shutdown
+[2022.02.09-15.08.14:627][692]TimingProfiler: Shutdown
+[2022.02.09-15.08.14:629][692]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.02.09-15.08.14:641][692]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.02.09-15.08.14:641][692]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.02.09-15.08.14:641][692]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.02.09-15.08.14:641][692]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.02.09-15.08.14:655][692]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.02.09-15.08.14:678][692]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.02.09-15.08.14:678][692]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.02.09-15.08.14:678][692]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.02.09-15.08.14:678][692]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.02.09-15.08.14:678][692]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.02.09-15.08.14:678][692]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.02.09-15.08.14:678][692]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.02.09-15.08.14:678][692]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.02.09-15.08.14:679][692]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.02.09-15.08.14:679][692]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.02.09-15.08.14:679][692]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.02.09-15.08.14:679][692]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.02.09-15.08.14:689][692]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.02.09-15.08.14:697][692]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.02.09-15.08.14:697][692]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.02.09-15.08.14:702][692]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.02.09-15.08.14:734][692]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.02.09-15.08.14:734][692]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.02.09-15.08.14:742][692]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.02.09-15.08.14:757][692]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.02.09-15.08.14:757][692]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.02.09-15.08.14:757][692]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.02.09-15.08.14:757][692]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.02.09-15.08.14:764][692]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.02.09-15.08.14:828][692]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.02.09-15.08.14:828][692]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.02.09-15.08.14:829][692]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.02.09-15.08.14:861][692]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.02.09-15.08.14:861][692]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.02.09-15.08.14:861][692]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.02.09-15.08.14:861][692]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.02.09-15.08.14:863][692]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.02.09-15.08.14:863][692]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.02.09-15.08.14:869][692]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.02.09-15.08.14:897][692]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.02.09-15.08.14:897][692]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.02.09-15.08.14:903][692]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.02.09-15.08.14:904][692]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.02.09-15.08.14:904][692]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.02.09-15.08.14:904][692]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.02.09-15.08.14:918][692]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.02.09-15.08.14:918][692]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.02.09-15.08.14:918][692]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.02.09-15.08.14:918][692]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.02.09-15.08.14:918][692]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.02.09-15.08.14:918][692]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.02.09-15.08.14:918][692]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.02.09-15.08.14:918][692]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.02.09-15.08.14:918][692]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.02.09-15.08.14:928][692]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.02.09-15.08.14:928][692]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.02.09-15.08.14:928][692]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.02.09-15.08.14:928][692]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.02.09-15.08.14:933][692]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.02.09-15.08.15:014][692]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.02.09-15.08.15:057][692]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.02.09-15.08.15:057][692]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.02.09-15.08.15:105][692]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.02.09-15.08.15:105][692]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.02.09-15.08.15:105][692]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.02.09-15.08.15:105][692]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.02.09-15.08.15:105][692]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.02.09-15.08.15:112][692]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.02.09-15.08.15:112][692]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.02.09-15.08.15:112][692]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2022.02.09-15.08.15:112][692]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.02.09-15.08.15:112][692]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.02.09-15.08.15:136][692]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.02.09-15.08.15:136][692]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.02.09-15.08.15:136][692]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2022.02.09-15.08.15:136][692]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.02.09-15.08.15:136][692]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.02.09-15.08.15:136][692]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module ImgMedia (542)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (540)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (538)
+[2022.02.09-15.08.15:154][692]LogOpenImageDenoise: OIDN shutting down
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (536)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module MotoSynth (534)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (532)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (530)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (528)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (526)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module MeshConversion (524)
+[2022.02.09-15.08.15:154][692]LogModuleManager: Shutting down and abandoning module DynamicMesh (522)
+[2022.02.09-15.08.15:164][692]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (520)
+[2022.02.09-15.08.15:169][692]LogModuleManager: Shutting down and abandoning module GeometricObjects (518)
+[2022.02.09-15.08.15:200][692]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (516)
+[2022.02.09-15.08.15:201][692]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (515)
+[2022.02.09-15.08.15:201][692]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (512)
+[2022.02.09-15.08.15:201][692]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (510)
+[2022.02.09-15.08.15:201][692]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (508)
+[2022.02.09-15.08.15:201][692]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (506)
+[2022.02.09-15.08.15:201][692]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (504)
+[2022.02.09-15.08.15:201][692]LogModuleManager: Shutting down and abandoning module ChaosNiagara (502)
+[2022.02.09-15.08.15:201][692]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (499)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (496)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module BackChannel (494)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (492)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module AutomationUtils (490)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module AlembicImporter (488)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module AlembicLibrary (487)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module GeometryCache (486)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (485)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (480)
+[2022.02.09-15.08.15:216][692]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (478)
+[2022.02.09-15.08.15:262][692]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (476)
+[2022.02.09-15.08.15:262][692]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (474)
+[2022.02.09-15.08.15:262][692]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (472)
+[2022.02.09-15.08.15:262][692]LogModuleManager: Shutting down and abandoning module UObjectPlugin (470)
+[2022.02.09-15.08.15:262][692]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (468)
+[2022.02.09-15.08.15:262][692]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (466)
+[2022.02.09-15.08.15:262][692]LogModuleManager: Shutting down and abandoning module PluginUtils (464)
+[2022.02.09-15.08.15:262][692]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (462)
+[2022.02.09-15.08.15:262][692]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (460)
+[2022.02.09-15.08.15:363][692]LogModuleManager: Shutting down and abandoning module GitSourceControl (458)
+[2022.02.09-15.08.15:363][692]LogModuleManager: Shutting down and abandoning module SourceControl (457)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (454)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (452)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (450)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module PluginBrowser (448)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (446)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (444)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module CurveEditorTools (442)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.02.09-15.08.15:377][692]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2022.02.09-15.08.15:401][692]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2022.02.09-15.08.15:401][692]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2022.02.09-15.08.15:532][692]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.02.09-15.08.15:532][692]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.02.09-15.08.15:532][692]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.02.09-15.08.15:833][692]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.02.09-15.08.15:849][692]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2022.02.09-15.08.15:950][692]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (384)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2022.02.09-15.08.16:051][692]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.02.09-15.08.16:051][692]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.02.09-15.08.16:082][692]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.02.09-15.08.16:082][692]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.02.09-15.08.16:099][692]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.02.09-15.08.16:099][692]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.02.09-15.08.16:099][692]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2022.02.09-15.08.16:099][692]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2022.02.09-15.08.16:099][692]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (342)
+[2022.02.09-15.08.16:099][692]LogModuleManager: Shutting down and abandoning module FacialAnimation (340)
+[2022.02.09-15.08.16:099][692]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2022.02.09-15.08.16:099][692]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2022.02.09-15.08.16:106][692]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2022.02.09-15.08.16:118][692]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2022.02.09-15.08.16:118][692]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2022.02.09-15.08.16:118][692]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2022.02.09-15.08.16:119][692]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2022.02.09-15.08.16:119][692]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2022.02.09-15.08.16:119][692]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2022.02.09-15.08.16:119][692]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2022.02.09-15.08.16:119][692]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2022.02.09-15.08.16:119][692]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.02.09-15.08.16:119][692]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.02.09-15.08.16:119][692]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.02.09-15.08.16:123][692]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.02.09-15.08.16:123][692]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.02.09-15.08.16:124][692]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.02.09-15.08.16:133][692]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.02.09-15.08.16:133][692]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.02.09-15.08.16:148][692]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.02.09-15.08.16:153][692]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.02.09-15.08.16:154][692]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.02.09-15.08.16:154][692]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.02.09-15.08.16:154][692]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.02.09-15.08.16:154][692]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.02.09-15.08.16:154][692]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.02.09-15.08.16:202][692]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.02.09-15.08.16:203][692]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.02.09-15.08.16:220][692]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.02.09-15.08.16:220][692]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.02.09-15.08.16:231][692]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.02.09-15.08.16:233][692]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.02.09-15.08.16:233][692]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.02.09-15.08.16:233][692]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.02.09-15.08.16:233][692]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.02.09-15.08.16:267][692]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.02.09-15.08.16:267][692]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.02.09-15.08.16:267][692]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.02.09-15.08.16:267][692]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.02.09-15.08.16:279][692]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.02.09-15.08.16:279][692]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.02.09-15.08.16:279][692]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.02.09-15.08.16:279][692]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.02.09-15.08.16:289][692]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.02.09-15.08.16:290][692]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.02.09-15.08.16:291][692]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.02.09-15.08.16:291][692]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.02.09-15.08.16:291][692]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.02.09-15.08.16:295][692]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.02.09-15.08.16:295][692]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.02.09-15.08.16:295][692]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.02.09-15.08.16:295][692]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.02.09-15.08.16:295][692]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.02.09-15.08.16:301][692]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.02.09-15.08.16:301][692]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.02.09-15.08.16:302][692]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.02.09-15.08.16:302][692]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.02.09-15.08.16:302][692]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.02.09-15.08.16:302][692]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.02.09-15.08.16:302][692]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.02.09-15.08.16:302][692]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.02.09-15.08.16:302][692]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.02.09-15.08.16:306][692]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.02.09-15.08.16:321][692]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.02.09-15.08.16:321][692]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.02.09-15.08.16:321][692]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.02.09-15.08.16:321][692]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.02.09-15.08.16:321][692]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.02.09-15.08.16:321][692]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.02.09-15.08.16:321][692]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.02.09-15.08.16:333][692]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.02.09-15.08.16:333][692]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.02.09-15.08.16:333][692]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.02.09-15.08.16:333][692]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.02.09-15.08.16:333][692]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.02.09-15.08.16:333][692]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.02.09-15.08.16:333][692]LogHMD: Freeing OpenVRDLLHandle.
+[2022.02.09-15.08.16:333][692]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.02.09-15.08.16:333][692]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.02.09-15.08.16:344][692]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.02.09-15.08.16:344][692]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.02.09-15.08.16:344][692]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.02.09-15.08.16:344][692]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.02.09-15.08.16:344][692]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.02.09-15.08.16:345][692]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.02.09-15.08.16:345][692]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.02.09-15.08.16:345][692]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.02.09-15.08.16:345][692]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.02.09-15.08.16:346][692]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.02.09-15.08.16:357][692]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.02.09-15.08.16:397][692]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.02.09-15.08.16:397][692]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.02.09-15.08.16:397][692]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB86B55FD-4F43-F252-BB27-82A2749CF569%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=6e42641e45e9b0b251eae493d0d7b435%7C2c9a6fc36c894245bd2f0dae3f3873eb%7C005b0951-fdd8-4da6-a74a-25991f4c348d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.02.09-15.08.16:397][692]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.02.09-15.08.16:424][692]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.02.09-15.08.16:426][692]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.02.09-15.08.16:426][692]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.02.09-15.08.16:450][692]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.02.09-15.08.16:451][692]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.02.09-15.08.16:451][692]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.02.09-15.08.16:451][692]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.02.09-15.08.16:451][692]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.02.09-15.08.16:452][692]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.02.09-15.08.16:459][692]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.02.09-15.08.16:459][692]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.02.09-15.08.16:459][692]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.02.09-15.08.16:459][692]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.02.09-15.08.16:459][692]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.02.09-15.08.16:467][692]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.02.09-15.08.16:468][692]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.02.09-15.08.16:468][692]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.02.09-15.08.16:468][692]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.02.09-15.08.16:468][692]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.02.09-15.08.16:468][692]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.02.09-15.08.16:765][692]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.02.09-15.08.16:774][692]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.02.09-15.08.16:778][692]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.02.09-15.08.16:785][692]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.02.09-15.08.16:785][692]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.02.09-15.08.16:785][692]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.02.09-15.08.16:785][692]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.02.09-15.08.16:785][692]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.02.09-15.08.16:785][692]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.02.09-15.08.16:785][692]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.02.09-15.08.16:788][692]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.02.09-15.08.16:805][692]LogD3D11RHI: Shutdown
+[2022.02.09-15.08.16:805][692]LogD3D11RHI: CleanupD3DDevice
+[2022.02.09-15.08.16:845][692]LogExit: Exiting.
+[2022.02.09-15.08.16:861][692]Log file closed, 02/10/22 00:08:16
