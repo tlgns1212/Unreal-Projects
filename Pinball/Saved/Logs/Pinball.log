@@ -2069,3 +2069,1848 @@ Please see Output Log for details.
 [2022.02.09-04.11.14:533][ 82]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_Auto2CF90B34B495F918ADFEC92A6DEFF0AED.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto2.umap'
 [2022.02.09-04.11.14:534][ 82]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PinballMap' took 0.069
 [2022.02.09-04.11.14:534][ 82]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2022.02.09-04.23.25:320][393]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f03eaf0-99ef-4222-9411-99736e3fc871}.
+[2022.02.09-04.23.25:320][393]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-04.23.25:485][393]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.23.25:485][393]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.23.26:390][395]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.09-04.23.26:390][395]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-04.23.26:407][395]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.23.26:407][395]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.23.39:567][575]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper5)
+[2022.02.09-04.23.40:497][683]Cmd: DELETE
+[2022.02.09-04.23.40:497][683]Cmd: ACTOR DELETE
+[2022.02.09-04.23.40:498][683]LogEditorActor: Deleted Actor: BP_Bumper_C
+[2022.02.09-04.23.40:530][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.02.09-04.23.40:532][683]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.02.09-04.23.40:635][694]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2022.02.09-04.23.40:726][702]Cmd: DELETE
+[2022.02.09-04.23.40:726][702]Cmd: ACTOR DELETE
+[2022.02.09-04.23.40:727][702]LogEditorActor: Deleted Actor: BP_Bumper_C
+[2022.02.09-04.23.40:754][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.02.09-04.23.40:755][702]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.02.09-04.23.41:115][744]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper4)
+[2022.02.09-04.23.41:167][747]Cmd: DELETE
+[2022.02.09-04.23.41:167][747]Cmd: ACTOR DELETE
+[2022.02.09-04.23.41:168][747]LogEditorActor: Deleted Actor: BP_Bumper_C
+[2022.02.09-04.23.41:195][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.02.09-04.23.41:195][747]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.02.09-04.23.41:522][785]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper7)
+[2022.02.09-04.23.41:603][792]Cmd: DELETE
+[2022.02.09-04.23.41:603][792]Cmd: ACTOR DELETE
+[2022.02.09-04.23.41:605][792]LogEditorActor: Deleted Actor: BP_Bumper_C
+[2022.02.09-04.23.41:633][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.02.09-04.23.41:633][792]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.02.09-04.23.43:841][ 35]LogActorFactory: Actor Factory created Flipper
+[2022.02.09-04.23.45:177][194]LogActorFactory: Actor Factory created Flipper
+[2022.02.09-04.23.49:224][645]LogActorFactory: Actor Factory created Flipper
+[2022.02.09-04.23.50:547][802]LogActorFactory: Actor Factory created Flipper
+[2022.02.09-04.23.50:949][846]Cmd: TRANSACTION UNDO
+[2022.02.09-04.23.50:949][846]LogEditorTransaction: Undo Create Actors
+[2022.02.09-04.23.50:963][846]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 8BF6687C13A52C2331E4A143F2F1BC8758500C45), compiling. 
+[2022.02.09-04.23.51:027][846]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: 78E9F5828429D7C7D134D38692E25E7A343ADB8A), compiling. 
+[2022.02.09-04.23.51:073][846]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.23.51:073][846]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.23.51:073][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.23.51:073][846]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.23.51:216][848]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.09-04.23.51:216][848]LogShaderCompilers: Display: Total job queries 184, among them cache hits 102 (55.43%)
+[2022.02.09-04.23.51:216][848]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 40 distinct outputs (64.52%)
+[2022.02.09-04.23.51:216][848]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.02.09-04.23.51:216][848]LogShaderCompilers: Display: ================================================
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.09-04.23.51:257][849]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-04.23.51:338][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.23.56:781][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.24.00:464][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper2)
+[2022.02.09-04.24.30:136][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper2)
+[2022.02.09-04.24.37:752][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.24.38:716][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper2)
+[2022.02.09-04.24.59:931][699]BlueprintLog: New page: Compile Flipper
+[2022.02.09-04.24.59:975][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.02.09-04.25.00:390][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Flipper" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/Flipper.uasset" SILENT=true
+[2022.02.09-04.25.00:407][741]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/Flipper097D71DC42A72EDC79DF8F9F2D083E4F.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/Flipper.uasset'
+[2022.02.09-04.25.00:425][741]AssetCheck: New page: Asset Save: Flipper
+[2022.02.09-04.25.00:425][741]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Flipper.Flipper
+[2022.02.09-04.25.38:235][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper2)
+[2022.02.09-04.25.38:728][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.25.50:609][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.25.51:671][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.25.53:479][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.25.53:532][680]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.09-04.25.54:557][800]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.09-04.25.54:617][806]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Flipper)
+[2022.02.09-04.25.55:194][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.25.55:246][877]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.09-04.26.02:401][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.26.06:839][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FlipType" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/FlipType.uasset" SILENT=true
+[2022.02.09-04.26.06:840][133]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/FlipTypeE4B3A90D41EF3F9FC577D2BF6AFB8CE4.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/FlipType.uasset'
+[2022.02.09-04.26.06:856][133]AssetCheck: New page: Asset Save: FlipType
+[2022.02.09-04.26.06:856][133]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/FlipType.FlipType
+[2022.02.09-04.26.09:480][440]BlueprintLog: New page: Compile Flipper
+[2022.02.09-04.26.09:527][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.02.09-04.26.11:821][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper)
+[2022.02.09-04.26.12:753][783]Cmd: DELETE
+[2022.02.09-04.26.12:753][783]Cmd: ACTOR DELETE
+[2022.02.09-04.26.12:754][783]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.09-04.26.12:783][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.02.09-04.26.12:785][783]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.02.09-04.26.13:898][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flipper2)
+[2022.02.09-04.26.14:562][991]Cmd: DELETE
+[2022.02.09-04.26.14:562][991]Cmd: ACTOR DELETE
+[2022.02.09-04.26.14:563][991]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.09-04.26.14:588][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.09-04.26.14:590][991]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.02.09-04.26.22:532][899]LogEditorViewport: Clicking on Actor (LMB): Flipper_C (Flipper)
+[2022.02.09-04.26.28:593][454]Cmd: TRANSACTION UNDO
+[2022.02.09-04.26.28:593][454]LogEditorTransaction: Undo Move Actors
+[2022.02.09-04.26.28:595][454]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 605DB01FEE343AC039A8F65E5D2305B297D0166F), compiling. 
+[2022.02.09-04.26.28:660][454]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: FC5B5716D6C1A7F3CD700349762ECF1AB0F64589), compiling. 
+[2022.02.09-04.26.28:704][454]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.26.28:704][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.26.28:704][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.26.28:704][454]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.09-04.26.28:836][457]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-04.26.29:209][476]LogEditorViewport: Clicking on Actor (CTRL LMB): Flipper_C (Flipper2)
+[2022.02.09-04.26.44:720][315]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.09-04.26.53:450][336]Cmd: TRANSACTION UNDO
+[2022.02.09-04.26.53:451][336]LogEditorTransaction: Undo Move Actors
+[2022.02.09-04.26.53:492][336]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: D55898F5174F7E4E8B1E2CE6572AC2300EA604B1), compiling. 
+[2022.02.09-04.26.53:553][336]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: 127615C21138E290005D556F568F172BBED907D2), compiling. 
+[2022.02.09-04.26.53:600][336]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.26.53:600][336]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.26.53:600][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.26.53:600][336]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.26.53:702][338]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.09-04.26.53:703][338]LogShaderCompilers: Display: Total job queries 224, among them cache hits 142 (63.39%)
+[2022.02.09-04.26.53:703][338]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 40 distinct outputs (64.52%)
+[2022.02.09-04.26.53:703][338]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.02.09-04.26.53:703][338]LogShaderCompilers: Display: ================================================
+[2022.02.09-04.26.53:740][339]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.02.09-04.26.53:740][339]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.02.09-04.26.53:741][339]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.09-04.26.53:741][339]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.09-04.26.53:741][339]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.26.53:741][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.26.53:741][339]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.09-04.26.53:741][339]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.09-04.26.53:741][339]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.09-04.26.53:741][339]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-04.28.00:988][740]Cmd: ACTOR MIRROR X=-1
+[2022.02.09-04.28.05:172][223]Cmd: TRANSACTION UNDO
+[2022.02.09-04.28.05:172][223]LogEditorTransaction: Undo Move Actors
+[2022.02.09-04.28.05:191][223]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 7E741E84633AC189347CE6290D40022B57D585BE), compiling. 
+[2022.02.09-04.28.05:252][223]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: 9CF03BAB84C26101A0B0C025B3696D75272A014C), compiling. 
+[2022.02.09-04.28.05:298][223]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.05:298][223]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.05:298][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.05:298][223]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.09-04.28.05:451][226]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-04.28.05:665][232]Cmd: TRANSACTION UNDO
+[2022.02.09-04.28.05:665][232]LogEditorTransaction: Undo Mirroring Actors
+[2022.02.09-04.28.05:687][232]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: ADE32D9C0AD069A6E1B1178601BD388D19C5D795), compiling. 
+[2022.02.09-04.28.05:745][232]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: 1B1E32A6D759803A97902188E90F37BB7125340C), compiling. 
+[2022.02.09-04.28.05:784][232]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.05:784][232]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.05:784][232]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.05:784][232]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.05:886][235]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.02.09-04.28.05:886][235]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.02.09-04.28.05:886][235]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.09-04.28.05:886][235]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.09-04.28.05:886][235]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.05:886][235]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.05:907][236]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.09-04.28.05:907][236]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.09-04.28.05:907][236]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.09-04.28.05:907][236]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-04.28.06:155][265]Cmd: TRANSACTION UNDO
+[2022.02.09-04.28.06:155][265]LogEditorTransaction: Undo Select Surfaces
+[2022.02.09-04.28.06:170][265]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 5BD8ED86866AACA6DE8EB01FECF15F1D045F422D), compiling. 
+[2022.02.09-04.28.06:228][265]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: C0574BE8B9E1967F031715A09934655EF358A423), compiling. 
+[2022.02.09-04.28.06:269][265]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.06:269][265]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.06:269][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.06:269][265]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.06:333][268]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.02.09-04.28.06:333][268]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.02.09-04.28.06:333][268]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.09-04.28.06:333][268]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.09-04.28.06:333][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.06:333][268]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.06:353][269]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.09-04.28.06:353][269]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.09-04.28.06:353][269]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.09-04.28.06:353][269]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-04.28.06:944][339]Cmd: TRANSACTION UNDO
+[2022.02.09-04.28.06:944][339]LogEditorTransaction: Undo Select Surfaces
+[2022.02.09-04.28.06:955][339]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 629B52155243BA1BD7B66DAF58F50DA5DF2D6ABD), compiling. 
+[2022.02.09-04.28.07:015][339]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: E8D3312F12283A6E06C75125E8E66305B4D7C187), compiling. 
+[2022.02.09-04.28.07:054][339]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.07:054][339]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.07:054][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.07:054][339]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.07:110][342]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.02.09-04.28.07:110][342]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.02.09-04.28.07:110][342]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.09-04.28.07:110][342]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.09-04.28.07:110][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.07:110][342]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.07:123][343]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.09-04.28.07:123][343]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.09-04.28.07:123][343]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.09-04.28.07:123][343]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-04.28.07:528][391]Cmd: TRANSACTION UNDO
+[2022.02.09-04.28.07:529][391]LogEditorTransaction: Undo Move Actors
+[2022.02.09-04.28.07:548][391]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: D7AA8E669A81E5E482A7989CE03EF6005BA67412), compiling. 
+[2022.02.09-04.28.07:608][391]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: 48C15A9D12E28FB36AE290C8DD0D41077C5E4EAB), compiling. 
+[2022.02.09-04.28.07:648][391]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.07:648][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.07:648][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.07:648][391]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-04.28.07:719][394]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.09-04.28.07:719][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.07:719][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.09-04.28.07:738][395]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-04.28.12:420][908]Cmd: ACTOR MIRROR X=-1
+[2022.02.09-04.28.16:258][320]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2022.02.09-04.28.16:916][396]Cmd: DELETE
+[2022.02.09-04.28.16:916][396]Cmd: ACTOR DELETE
+[2022.02.09-04.28.16:919][396]LogEditorActor: Deleted Actor: BP_Bumper_C
+[2022.02.09-04.28.16:950][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.02.09-04.28.16:954][396]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.02.09-04.28.39:380][ 49]LogEditorViewport: Clicking on Actor (LMB): Flipper_C (Flipper)
+[2022.02.09-04.28.50:248][339]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper6)
+[2022.02.09-04.28.56:838][121]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-04.28.56:849][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-04.28.56:849][121]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 10:28:56 PM)
+[2022.02.09-04.28.56:849][121]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.28.56:860][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010707s)
+[2022.02.09-04.28.56:860][121]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-04.28.56:861][121]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2022.02.09-04.28.56:861][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.011730s)
+[2022.02.09-04.28.56:890][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.02.09-04.28.56:893][121]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.02.09-04.28.56:893][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-04.28.56:893][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-04.28.56:893][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-04.28.56:893][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-04.28.56:893][121]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-04.28.56:893][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-04.28.56:893][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-04.28.56:893][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-04.28.56:894][121]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-04.28.56:894][121]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-04.28.56:894][121]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-04.28.56:894][121]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-04.28.56:900][121]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.28.56:900][121]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.28.56:916][121]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-04.28.56:916][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-04.28.56:916][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-04.28.56:917][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-04.28.56:917][121]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-04.28.56:917][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-04.28.56:917][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-04.28.56:918][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-04.28.56:918][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-04.28.56:918][121]LogInit: FAudioDevice initialized.
+[2022.02.09-04.28.56:918][121]LogAudio: Display: Audio Device (ID: 10) registered with world 'PinballMap'.
+[2022.02.09-04.28.56:925][121]LogLoad: Game class is 'GameModeBase'
+[2022.02.09-04.28.56:927][121]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-13.28.56
+[2022.02.09-04.28.56:927][121]LogWorld: Bringing up level for play took: 0.001098
+[2022.02.09-04.28.56:927][121]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.02.09-04.28.56:950][121]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+Flipper_C.ReceiveBeginPlay
+
+[2022.02.09-04.28.57:084][121]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.133 s
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: 
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 904]
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: Type mismatch: Expected Flipper_C, Found REINST_Flipper_C_192
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: Stack: 
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdfa56b517 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf8e2ee54 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf77fd44e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf7c4fe5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffe09f35b01 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffe09f41630 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffe09f14c4d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffe09f14044 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffe09c31894 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffe09f13b63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf8b293ea UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf8af73f5 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf8b00bdf UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf9f09e25 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf924c961 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf9eadece UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf926ea49 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf79107b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf7933d6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf79114ed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf79512b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf7954871 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf7954138 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf73ae98c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffdf7cb06e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ff71da287a0 UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ff71da40fbc UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ff71da410aa UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ff71da440cd UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ff71da55984 UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ff71da5853a UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffe52267034 KERNEL32.DLL!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: [Callstack] 0x00007ffe523a2651 ntdll.dll!UnknownFunction []
+[2022.02.09-04.28.57:084][121]LogOutputDevice: Error: 
+[2022.02.09-04.28.57:086][121]LogStats:                SubmitErrorReport -  0.000 s
+[2022.02.09-04.29.00:983][121]LogStats:                    SendNewReport -  3.898 s
+[2022.02.09-04.29.00:983][121]LogStats:             FDebug::EnsureFailed -  4.033 s
+[2022.02.09-04.29.00:984][121]PIE: Server logged in
+[2022.02.09-04.29.00:984][121]PIE: Play in editor total start time 4.143 seconds.
+[2022.02.09-04.29.00:990][121]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-04.29.01:002][121]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.29.01:002][121]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.29.01:030][121]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-04.29.01:036][121]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.29.01:036][121]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.29.08:684][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.29.08:684][ 23]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.29.08:684][ 23]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.29.08:685][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.29.08:690][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-04.29.08:702][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.29.08:728][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-04.29.08:728][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.29.08:729][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.29.08:732][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.29.08:736][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.02.09-04.29.08:758][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.02.09-04.29.21:986][320]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.09-04.29.22:000][320]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.09-04.29.22:019][320]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.09-04.29.32:689][582]LogContentBrowser: Attempting asset rename: NewBlueprint -> PinballPlayerController
+[2022.02.09-04.29.32:692][582]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.09-04.29.32:993][614]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-04.30.19:427][ 35]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.09-04.30.19:445][ 35]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.09-04.31.40:606][567]BlueprintLog: New page: Compile PinballPlayerController
+[2022.02.09-04.31.40:661][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.02.09-04.31.41:702][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2022.02.09-04.31.41:709][681]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballPlayerController65A004D14758D972803908956AD6AD6C.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2022.02.09-04.31.41:727][681]AssetCheck: New page: Asset Save: PinballPlayerController
+[2022.02.09-04.31.41:728][681]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-04.31.50:816][753]BlueprintLog: New page: Compile PinballPlayerController
+[2022.02.09-04.31.50:867][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.02.09-04.31.51:274][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2022.02.09-04.31.51:280][796]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballPlayerControllerF569B6924F58AFBEAD150C8FA7E3AEE2.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2022.02.09-04.31.51:298][796]AssetCheck: New page: Asset Save: PinballPlayerController
+[2022.02.09-04.31.51:299][796]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-04.32.58:822][273]BlueprintLog: New page: Compile PinballPlayerController
+[2022.02.09-04.32.58:875][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2022.02.09-04.32.59:634][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2022.02.09-04.32.59:643][357]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballPlayerControllerABFE0D6046FAEE3E911FA19DFEC5E4CA.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2022.02.09-04.32.59:667][357]AssetCheck: New page: Asset Save: PinballPlayerController
+[2022.02.09-04.32.59:667][357]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-04.33.03:424][550]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.09-04.34.51:241][687]BlueprintLog: New page: Compile PinballPlayerController
+[2022.02.09-04.34.51:323][687]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2022.02.09-04.34.53:610][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2022.02.09-04.34.53:622][956]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballPlayerController1434A4E8462C9A5CDA13AF92F3CBC6F0.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2022.02.09-04.34.53:641][956]AssetCheck: New page: Asset Save: PinballPlayerController
+[2022.02.09-04.34.53:641][956]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-04.35.00:001][490]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.09-04.35.00:013][490]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.09-04.35.00:031][490]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.09-04.35.16:321][963]LogContentBrowser: Attempting asset rename: NewBlueprint -> PinballGameMode
+[2022.02.09-04.35.16:325][963]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.09-04.35.18:582][162]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PinballGameMode.PinballGameMode
+[2022.02.09-04.35.27:652][200]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.09-04.35.27:669][200]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.09-04.35.39:321][443]BlueprintLog: New page: Compile PinballGameMode
+[2022.02.09-04.35.39:386][443]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2022.02.09-04.35.39:767][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameMode" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballGameMode.uasset" SILENT=true
+[2022.02.09-04.35.39:771][481]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballGameMode81CC898D4D1EE56A506AFB915B6D31FA.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballGameMode.uasset'
+[2022.02.09-04.35.39:794][481]AssetCheck: New page: Asset Save: PinballGameMode
+[2022.02.09-04.35.39:794][481]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballGameMode.PinballGameMode
+[2022.02.09-04.35.44:970][ 38]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.09-04.35.46:775][228]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.09-04.35.46:791][228]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.09-04.36.10:750][ 16]BlueprintLog: New page: Compile PinballPlayerController
+[2022.02.09-04.36.10:816][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.02.09-04.36.11:297][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2022.02.09-04.36.11:309][ 65]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballPlayerController11F2EB804C9EC06BF7C858B0D7405C94.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2022.02.09-04.36.11:333][ 65]AssetCheck: New page: Asset Save: PinballPlayerController
+[2022.02.09-04.36.11:334][ 65]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-04.36.14:356][422]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.36.14:356][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.36.17:756][553]LogSlate: Window 'Message' being destroyed
+[2022.02.09-04.36.17:768][553]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/M_Bumper.M_Bumper
+(Selecting 'No' will cause all changes to be lost!)
+[2022.02.09-04.36.19:886][760]LogMaterialEditor: Saving and Compiling material M_Bumper
+[2022.02.09-04.36.20:161][760]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 36BD723173EE8DA2DBCD10F4B77253711D1CE873), compiling. 
+[2022.02.09-04.36.20:189][760]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: CF01C4DD5FAA0F4E221BC8D85BB3F512649335A4), compiling. 
+[2022.02.09-04.36.20:232][760]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2022.02.09-04.36.20:232][760]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.02.09-04.36.20:233][760]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.02.09-04.36.20:233][760]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.09-04.36.20:233][760]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.02.09-04.36.20:265][760]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2022.02.09-04.36.20:376][760]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.09-04.36.20:376][760]LogShaderCompilers: Display: Total job queries 350, among them cache hits 262 (74.86%)
+[2022.02.09-04.36.20:376][760]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 40 distinct outputs (64.52%)
+[2022.02.09-04.36.20:376][760]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.02.09-04.36.20:376][760]LogShaderCompilers: Display: ================================================
+[2022.02.09-04.36.20:766][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.02.09-04.36.21:010][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_Bumper" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/M_Bumper.uasset" SILENT=true
+[2022.02.09-04.36.21:019][760]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/M_Bumper7C721BD94CDC335CF33A1E9FE53A0CEF.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/M_Bumper.uasset'
+[2022.02.09-04.36.21:034][760]AssetCheck: New page: Asset Save: M_Bumper
+[2022.02.09-04.36.21:034][760]LogContentValidation: Display: Validating Material /Game/Assets/M_Bumper.M_Bumper
+[2022.02.09-04.36.21:044][760]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.02.09-04.36.21:044][760]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2022.02.09-04.36.21:044][760]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.09-04.36.21:044][760]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.09-04.36.21:044][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.09-04.36.21:044][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.09-04.36.21:444][806]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.36.21:444][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.36.23:676][ 63]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.09-04.36.23:676][ 63]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.36.23:676][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.36.28:196][165]LogSlate: Window 'Message' being destroyed
+[2022.02.09-04.36.28:216][165]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/M_SimplePlastic.M_SimplePlastic
+(Selecting 'No' will cause all changes to be lost!)
+[2022.02.09-04.36.28:491][165]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: 31540D3EE7A62BB08B676D7911C9B931B5BE5B82), compiling. 
+[2022.02.09-04.36.28:527][165]LogMaterial: Display: Missing cached shadermap for M_SimplePlastic in PCD3D_SM5, Default, SM5 (DDC key hash: FFE075F961A247C9DEE1DC06E396ECA7DBFD38DF), compiling. 
+[2022.02.09-04.36.28:588][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.02.09-04.36.28:761][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.02.09-04.36.28:822][165]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.36.28:822][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.36.38:626][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Flipper.Flipper
+[2022.02.09-04.36.48:440][885]BlueprintLog: New page: Compile Flipper
+[2022.02.09-04.36.48:494][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.02.09-04.36.48:846][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Flipper" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/Flipper.uasset" SILENT=true
+[2022.02.09-04.36.48:865][918]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/FlipperD45A589A4516F3676958319ED490C6A4.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/Flipper.uasset'
+[2022.02.09-04.36.48:880][918]AssetCheck: New page: Asset Save: Flipper
+[2022.02.09-04.36.48:880][918]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Flipper.Flipper
+[2022.02.09-04.36.53:176][405]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-04.36.53:183][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-04.36.53:183][405]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 10:36:53 PM)
+[2022.02.09-04.36.53:183][405]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.36.53:188][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005244s)
+[2022.02.09-04.36.53:190][405]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-04.36.53:190][405]LogPlayLevel: PIE: World Init took: (0.001977s)
+[2022.02.09-04.36.53:190][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.007347s)
+[2022.02.09-04.36.53:219][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.02.09-04.36.53:222][405]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.02.09-04.36.53:222][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-04.36.53:222][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-04.36.53:222][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-04.36.53:222][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-04.36.53:222][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-04.36.53:222][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-04.36.53:222][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-04.36.53:222][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-04.36.53:223][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-04.36.53:223][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-04.36.53:223][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-04.36.53:223][405]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-04.36.53:229][405]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.36.53:229][405]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.36.53:246][405]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-04.36.53:246][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-04.36.53:246][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-04.36.53:246][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-04.36.53:246][405]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-04.36.53:246][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-04.36.53:246][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-04.36.53:247][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-04.36.53:247][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-04.36.53:247][405]LogInit: FAudioDevice initialized.
+[2022.02.09-04.36.53:247][405]LogAudio: Display: Audio Device (ID: 11) registered with world 'PinballMap'.
+[2022.02.09-04.36.53:254][405]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-04.36.53:255][405]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-13.36.53
+[2022.02.09-04.36.53:255][405]LogWorld: Bringing up level for play took: 0.000725
+[2022.02.09-04.36.53:255][405]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.02.09-04.36.53:647][405]PIE: Server logged in
+[2022.02.09-04.36.53:647][405]PIE: Play in editor total start time 0.468 seconds.
+[2022.02.09-04.36.59:434][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.36.59:434][ 95]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.36.59:434][ 95]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.36.59:434][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.36.59:441][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-04.36.59:451][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.36.59:476][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-04.36.59:476][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.36.59:477][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.36.59:479][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.36.59:483][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.09-04.36.59:510][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.02.09-04.37.48:097][415]BlueprintLog: New page: Compile PinballPlayerController
+[2022.02.09-04.37.48:149][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.02.09-04.37.48:489][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2022.02.09-04.37.48:504][446]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballPlayerController447F4CCF45B857CFEF06E182C44379E2.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2022.02.09-04.37.48:520][446]AssetCheck: New page: Asset Save: PinballPlayerController
+[2022.02.09-04.37.48:520][446]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-04.37.50:142][619]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-04.37.50:148][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-04.37.50:148][619]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 10:37:50 PM)
+[2022.02.09-04.37.50:172][619]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.37.50:177][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005436s)
+[2022.02.09-04.37.50:179][619]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-04.37.50:179][619]LogPlayLevel: PIE: World Init took: (0.001826s)
+[2022.02.09-04.37.50:179][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.007481s)
+[2022.02.09-04.37.50:207][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.02.09-04.37.50:208][619]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.02.09-04.37.50:208][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-04.37.50:208][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-04.37.50:208][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-04.37.50:208][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-04.37.50:208][619]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-04.37.50:208][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-04.37.50:208][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-04.37.50:208][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-04.37.50:209][619]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-04.37.50:209][619]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-04.37.50:209][619]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-04.37.50:209][619]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-04.37.50:216][619]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.37.50:216][619]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.37.50:231][619]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-04.37.50:232][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-04.37.50:232][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-04.37.50:232][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-04.37.50:232][619]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-04.37.50:232][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-04.37.50:232][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-04.37.50:233][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-04.37.50:233][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-04.37.50:233][619]LogInit: FAudioDevice initialized.
+[2022.02.09-04.37.50:233][619]LogAudio: Display: Audio Device (ID: 12) registered with world 'PinballMap'.
+[2022.02.09-04.37.50:241][619]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-04.37.50:243][619]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-13.37.50
+[2022.02.09-04.37.50:243][619]LogWorld: Bringing up level for play took: 0.001114
+[2022.02.09-04.37.50:243][619]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.02.09-04.37.50:245][619]PIE: Server logged in
+[2022.02.09-04.37.50:245][619]PIE: Play in editor total start time 0.099 seconds.
+[2022.02.09-04.38.04:514][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.38.04:514][248]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.38.04:514][248]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.38.04:514][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.38.04:521][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-04.38.04:533][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.38.04:559][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-04.38.04:559][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.38.04:560][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.38.04:563][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.38.04:566][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.02.09-04.38.04:595][249]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.02.09-04.38.11:916][ 71]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.09-04.38.18:831][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-04.38.18:859][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.02.09-04.38.18:877][859]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMapFA0E61DD4D93DB9A741BF3B045C8DA37.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-04.38.18:891][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-04.38.18:965][859]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltData466655BF48682B5370163585DC6E1D81.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-04.38.19:006][859]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-04.38.19:006][859]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-04.38.19:006][859]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-04.38.19:516][910]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-04.38.19:523][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-04.38.19:523][910]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 10:38:19 PM)
+[2022.02.09-04.38.19:523][910]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.38.19:528][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005163s)
+[2022.02.09-04.38.19:529][910]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-04.38.19:529][910]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2022.02.09-04.38.19:529][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.006740s)
+[2022.02.09-04.38.19:564][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.02.09-04.38.19:566][910]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.02.09-04.38.19:566][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-04.38.19:566][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-04.38.19:566][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-04.38.19:566][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-04.38.19:566][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-04.38.19:566][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-04.38.19:566][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-04.38.19:566][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-04.38.19:567][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-04.38.19:567][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-04.38.19:567][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-04.38.19:567][910]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-04.38.19:574][910]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.38.19:575][910]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.38.19:590][910]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-04.38.19:591][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-04.38.19:591][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-04.38.19:591][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-04.38.19:591][910]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-04.38.19:591][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-04.38.19:591][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-04.38.19:592][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-04.38.19:592][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-04.38.19:592][910]LogInit: FAudioDevice initialized.
+[2022.02.09-04.38.19:592][910]LogAudio: Display: Audio Device (ID: 13) registered with world 'PinballMap'.
+[2022.02.09-04.38.19:598][910]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-04.38.19:599][910]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-13.38.19
+[2022.02.09-04.38.19:599][910]LogWorld: Bringing up level for play took: 0.000741
+[2022.02.09-04.38.19:599][910]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.02.09-04.38.19:601][910]PIE: Server logged in
+[2022.02.09-04.38.19:602][910]PIE: Play in editor total start time 0.081 seconds.
+[2022.02.09-04.38.21:784][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.38.21:784][166]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.38.21:784][166]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.38.21:785][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.38.21:795][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-04.38.21:805][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.38.21:829][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-04.38.21:830][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.38.21:831][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.38.21:833][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.38.21:836][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.02.09-04.38.21:864][167]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.02.09-04.38.22:699][259]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-04.38.22:704][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-04.38.22:704][259]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 10:38:22 PM)
+[2022.02.09-04.38.22:742][259]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.38.22:747][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005168s)
+[2022.02.09-04.38.22:749][259]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-04.38.22:749][259]LogPlayLevel: PIE: World Init took: (0.001675s)
+[2022.02.09-04.38.22:749][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.007071s)
+[2022.02.09-04.38.22:777][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.09-04.38.22:778][259]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.02.09-04.38.22:778][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-04.38.22:778][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-04.38.22:778][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-04.38.22:778][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-04.38.22:778][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-04.38.22:778][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-04.38.22:778][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-04.38.22:778][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-04.38.22:779][259]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-04.38.22:779][259]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-04.38.22:779][259]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-04.38.22:779][259]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-04.38.22:785][259]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.38.22:785][259]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.38.22:800][259]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-04.38.22:801][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-04.38.22:801][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-04.38.22:801][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-04.38.22:801][259]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-04.38.22:801][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-04.38.22:801][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-04.38.22:802][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-04.38.22:802][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-04.38.22:802][259]LogInit: FAudioDevice initialized.
+[2022.02.09-04.38.22:802][259]LogAudio: Display: Audio Device (ID: 14) registered with world 'PinballMap'.
+[2022.02.09-04.38.22:808][259]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-04.38.22:809][259]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-13.38.22
+[2022.02.09-04.38.22:809][259]LogWorld: Bringing up level for play took: 0.000706
+[2022.02.09-04.38.22:809][259]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.02.09-04.38.22:811][259]PIE: Server logged in
+[2022.02.09-04.38.22:811][259]PIE: Play in editor total start time 0.11 seconds.
+[2022.02.09-04.38.31:304][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.38.31:304][249]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.38.31:304][249]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.38.31:305][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.38.31:312][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-04.38.31:323][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.38.31:348][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-04.38.31:348][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.38.31:349][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.38.31:351][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.38.31:354][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.02.09-04.38.31:380][250]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.02.09-04.38.35:314][710]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2022.02.09-04.38.38:599][903]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2022.02.09-04.39.54:625][779]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.39.54:625][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.39.56:496][985]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-04.39.56:501][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-04.39.56:501][985]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 10:39:56 PM)
+[2022.02.09-04.39.56:522][985]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.39.56:527][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005272s)
+[2022.02.09-04.39.56:528][985]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-04.39.56:529][985]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2022.02.09-04.39.56:529][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.007053s)
+[2022.02.09-04.39.56:559][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.09-04.39.56:562][985]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.02.09-04.39.56:562][985]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-04.39.56:562][985]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-04.39.56:562][985]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-04.39.56:562][985]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-04.39.56:562][985]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-04.39.56:562][985]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-04.39.56:562][985]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-04.39.56:562][985]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-04.39.56:562][985]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-04.39.56:563][985]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-04.39.56:563][985]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-04.39.56:563][985]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-04.39.56:568][985]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.39.56:568][985]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.39.56:584][985]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-04.39.56:584][985]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-04.39.56:584][985]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-04.39.56:584][985]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-04.39.56:584][985]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-04.39.56:584][985]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-04.39.56:584][985]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-04.39.56:585][985]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-04.39.56:585][985]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-04.39.56:585][985]LogInit: FAudioDevice initialized.
+[2022.02.09-04.39.56:585][985]LogAudio: Display: Audio Device (ID: 15) registered with world 'PinballMap'.
+[2022.02.09-04.39.56:594][985]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-04.39.56:595][985]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-13.39.56
+[2022.02.09-04.39.56:595][985]LogWorld: Bringing up level for play took: 0.000689
+[2022.02.09-04.39.56:595][985]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.02.09-04.39.56:597][985]PIE: Server logged in
+[2022.02.09-04.39.56:598][985]PIE: Play in editor total start time 0.098 seconds.
+[2022.02.09-04.40.05:954][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.40.05:954][101]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-04.40.05:954][101]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.40.05:954][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.40.05:963][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-04.40.05:973][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.40.05:997][101]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-04.40.05:997][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.40.05:998][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-04.40.06:000][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-04.40.06:003][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.02.09-04.40.06:029][102]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.02.09-04.40.53:104][336]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tlgns\Downloads\PinballAssets\PinballAssets\SM_Plunger.FBX)
+[2022.02.09-04.40.53:112][336]LogFbx: Loading FBX Scene from C:\Users\tlgns\Downloads\PinballAssets\PinballAssets\SM_Plunger.FBX
+[2022.02.09-04.40.53:135][336]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.09-04.41.07:383][336]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.09-04.41.07:414][336]LogStaticMesh: Building static mesh SM_Plunger...
+[2022.02.09-04.41.07:434][336]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/SM_Plunger.SM_Plunger
+[2022.02.09-04.41.07:448][336]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.09-04.41.08:987][481]LogSlate: Window 'Message Log' being destroyed
+[2022.02.09-04.41.08:997][481]LogSlate: Window 'Message Log' being destroyed
+[2022.02.09-04.41.10:071][584]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/SM_Plunger.SM_Plunger
+[2022.02.09-04.41.40:803][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SM_Plunger" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/SM_Plunger.uasset" SILENT=true
+[2022.02.09-04.41.40:814][162]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/SM_Plunger931300C1410253B3247CD49BDB5C39D5.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/SM_Plunger.uasset'
+[2022.02.09-04.41.40:831][162]AssetCheck: New page: Asset Save: SM_Plunger
+[2022.02.09-04.41.40:831][162]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/SM_Plunger.SM_Plunger
+[2022.02.09-04.41.43:557][471]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-04.41.43:557][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-04.42.22:433][989]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2022.02.09-04.42.49:243][141]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.09-04.43.44:070][203]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2022.02.09-04.44.11:435][372]Cmd: DELETE
+[2022.02.09-04.44.11:435][372]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.02.09-04.44.11:435][372]LogGeometryMode: Warning: Unable to resolve BoxBrush5 Brush in new BSP, see above
+[2022.02.09-04.44.11:435][372]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.09-04.44.32:733][286]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2022.02.09-04.44.32:733][286]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.02.09-04.44.33:881][286]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.147 s
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: 
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: Stack: 
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffe04d192e6 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffe046326ce UE4Editor-Core.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffdf8a8833b UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffdf93fb722 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffdf94432e7 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffdf7411f75 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffdf7411d47 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffdc40127ff UE4Editor-GeometryMode.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffdc3ff4aa6 UE4Editor-GeometryMode.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffdc40056dd UE4Editor-GeometryMode.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffe096f20ed UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffe096cca87 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffe0976a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffe0978280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffe095d421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffe0964e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.09-04.44.33:881][286]LogOutputDevice: Error: [Callstack] 0x00007ffe09637097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe09629b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe41b0c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe41af92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe41b0e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe41af4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe5101e7e8 USER32.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe5101e229 USER32.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe41b0fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ff71da27621 UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ff71da40fbc UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ff71da410aa UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ff71da440cd UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ff71da55984 UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ff71da5853a UE4Editor.exe!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe52267034 KERNEL32.DLL!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: [Callstack] 0x00007ffe523a2651 ntdll.dll!UnknownFunction []
+[2022.02.09-04.44.33:882][286]LogOutputDevice: Error: 
+[2022.02.09-04.44.33:885][286]LogStats:                SubmitErrorReport -  0.000 s
+[2022.02.09-04.44.34:852][286]LogStats:                    SendNewReport -  0.967 s
+[2022.02.09-04.44.34:852][286]LogStats:             FDebug::EnsureFailed -  2.118 s
+[2022.02.09-04.44.36:482][463]Cmd: TRANSACTION UNDO
+[2022.02.09-04.44.36:482][463]LogEditorTransaction: Undo Modifier [Create]
+[2022.02.09-04.45.31:304][872]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2022.02.09-04.45.41:060][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Plunger" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/SM_Plunger.uasset" SILENT=true
+[2022.02.09-04.45.41:095][930]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/SM_Plunger13955D4549A6559DE263E8A040FE3135.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/SM_Plunger.uasset'
+[2022.02.09-04.45.41:213][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.02.09-04.45.41:257][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.09-04.45.41:283][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.09-04.45.41:326][930]AssetCheck: New page: Asset Save: SM_Plunger
+[2022.02.09-04.45.41:326][930]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_Plunger.SM_Plunger
+[2022.02.09-04.45.45:269][188]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.09-04.45.45:291][188]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.09-04.45.45:307][188]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.09-04.45.48:609][575]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Plunger
+[2022.02.09-04.45.48:613][575]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.09-04.45.50:189][743]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Plunger.BP_Plunger
+[2022.02.09-04.45.54:873][757]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b29df908-8b85-4e41-9ae2-620cc3fcf598}.
+[2022.02.09-04.45.54:873][757]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-04.45.54:884][757]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-04.45.54:884][757]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-04.48.39:415][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.02.09-04.48.39:418][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.09-04.48.39:433][248]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_Auto378008C8042AB99312FB1378DFB477C8B.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto3.umap'
+[2022.02.09-04.48.39:434][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PinballMap' took 0.050
+[2022.02.09-04.48.39:434][248]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2022.02.09-04.48.39:434][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_SimplePlastic] ([1] browsable assets)...
+[2022.02.09-04.48.39:456][248]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_SimplePlastic.M_SimplePlastic]
+[2022.02.09-04.48.39:456][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_SimplePlastic]
+[2022.02.09-04.48.39:456][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimplePlastic" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/M_SimplePlastic_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.02.09-04.48.39:461][248]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/M_SimplePlastic_Auto3A065D0514E2FE7DC3151BEB971C4CE73.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/M_SimplePlastic_Auto3.uasset'
+[2022.02.09-04.48.39:461][248]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.02.09-05.33.06:325][209]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f03eaf0-99ef-4222-9411-99736e3fc871}.
+[2022.02.09-05.33.06:325][209]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-05.33.06:420][209]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.33.06:420][209]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.33.07:224][211]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.09-05.33.07:224][211]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-05.33.07:250][211]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.33.07:250][211]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.35.23:672][266]LogEditorTransaction: Undo Select Interpolation Mode
+[2022.02.09-05.35.24:012][273]LogEditorTransaction: Undo Select Interpolation Mode
+[2022.02.09-05.36.02:845][188]BlueprintLog: New page: Compile BP_Plunger
+[2022.02.09-05.36.02:898][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.02.09-05.37.49:064][701]BlueprintLog: New page: Compile BP_Plunger
+[2022.02.09-05.37.49:112][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.02.09-05.37.49:480][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2022.02.09-05.37.49:491][737]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_PlungerAB1894DA41E6E7F81DC0B7B624675CF5.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2022.02.09-05.37.49:509][737]AssetCheck: New page: Asset Save: BP_Plunger
+[2022.02.09-05.37.49:509][737]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Plunger.BP_Plunger
+[2022.02.09-05.38.16:160][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-05.38.16:192][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.02.09-05.38.16:210][865]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap991FC3744D9AD4D62913B890CDA30FC7.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-05.38.16:217][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-05.38.16:228][865]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltData5CB4568642163950810F61A7BDB6C963.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-05.38.16:244][865]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-05.38.16:244][865]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-05.38.16:245][865]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-05.39.06:438][102]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.09-05.39.06:456][102]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.09-05.39.38:697][196]BlueprintLog: New page: Compile PinballPlayerController
+[2022.02.09-05.39.38:753][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.02.09-05.39.39:135][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2022.02.09-05.39.39:151][232]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballPlayerController22389D324117E5E6EECFC6A0D1063A77.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2022.02.09-05.39.39:167][232]AssetCheck: New page: Asset Save: PinballPlayerController
+[2022.02.09-05.39.39:167][232]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-05.41.03:417][ 54]BlueprintLog: New page: Compile PinballPlayerController
+[2022.02.09-05.41.03:473][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.02.09-05.41.04:037][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2022.02.09-05.41.04:054][116]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballPlayerController8AE44A9F4530AF0E9F0CC3A32F89FE6C.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2022.02.09-05.41.04:078][116]AssetCheck: New page: Asset Save: PinballPlayerController
+[2022.02.09-05.41.04:078][116]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PinballPlayerController.PinballPlayerController
+[2022.02.09-05.41.09:054][693]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.09-05.41.11:320][959]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b29df908-8b85-4e41-9ae2-620cc3fcf598}.
+[2022.02.09-05.41.11:320][959]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-05.41.11:468][959]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.41.11:468][959]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.45.43:401][914]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f03eaf0-99ef-4222-9411-99736e3fc871}.
+[2022.02.09-05.45.43:444][914]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-05.45.43:465][914]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.45.43:465][914]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.45.43:952][958]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.09-05.45.43:952][958]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-05.45.44:078][958]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.45.44:078][958]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.45.48:003][ 91]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.09-05.45.52:207][237]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2022.02.09-05.46.13:023][684]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2022.02.09-05.46.26:564][558]LogEditorViewport: Clicking on Actor (LMB): BP_Plunger_C (BP_Plunger)
+[2022.02.09-05.46.32:592][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-05.46.32:630][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.02.09-05.46.32:650][198]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap5F3F2AE146CE2FE8F9C8A5BE38A272E2.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-05.46.32:655][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-05.46.32:666][198]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltDataC960DD2447D733A10253509DFC4EA4FE.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-05.46.32:687][198]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-05.46.32:687][198]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-05.46.32:687][198]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-05.46.43:450][448]BlueprintLog: New page: Compile BP_Plunger
+[2022.02.09-05.46.43:510][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.02.09-05.47.14:461][111]BlueprintLog: New page: Compile BP_Plunger
+[2022.02.09-05.47.14:515][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.02.09-05.47.14:918][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plunger" FILE="../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_Plunger.uasset" SILENT=true
+[2022.02.09-05.47.14:931][151]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_PlungerA4AB96C846A8526641F3218962C452E4.tmp' to '../../../../../Unreal Projects/Pinball/Content/Blueprints/BP_Plunger.uasset'
+[2022.02.09-05.47.14:945][151]AssetCheck: New page: Asset Save: BP_Plunger
+[2022.02.09-05.47.14:945][151]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Plunger.BP_Plunger
+[2022.02.09-05.47.16:565][334]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.47.16:575][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-05.47.16:575][334]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:47:16 PM)
+[2022.02.09-05.47.16:575][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.47.16:581][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006334s)
+[2022.02.09-05.47.16:583][334]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.47.16:584][334]LogPlayLevel: PIE: World Init took: (0.002103s)
+[2022.02.09-05.47.16:584][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.008597s)
+[2022.02.09-05.47.16:616][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.09-05.47.16:618][334]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.02.09-05.47.16:618][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.47.16:618][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.47.16:618][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.47.16:618][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.47.16:618][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.47.16:618][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.47.16:618][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.47.16:618][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.47.16:618][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.47.16:618][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.47.16:618][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.47.16:618][334]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.47.16:625][334]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.47.16:625][334]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.47.16:641][334]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.47.16:642][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.47.16:642][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.47.16:642][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.47.16:642][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.47.16:642][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.47.16:642][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.47.16:643][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.47.16:643][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.47.16:643][334]LogInit: FAudioDevice initialized.
+[2022.02.09-05.47.16:643][334]LogAudio: Display: Audio Device (ID: 16) registered with world 'PinballMap'.
+[2022.02.09-05.47.16:655][334]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.47.16:657][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.47.16
+[2022.02.09-05.47.16:657][334]LogWorld: Bringing up level for play took: 0.000791
+[2022.02.09-05.47.16:657][334]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.02.09-05.47.16:659][334]PIE: Server logged in
+[2022.02.09-05.47.16:659][334]PIE: Play in editor total start time 0.091 seconds.
+[2022.02.09-05.47.24:323][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.47.24:323][248]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.47.24:324][248]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.47.24:324][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.47.24:335][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.47.24:344][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.47.24:372][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-05.47.24:372][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.47.24:373][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.47.24:376][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.47.24:379][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.02.09-05.47.24:409][249]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.02.09-05.47.46:635][721]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.47.46:643][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-05.47.46:643][721]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:47:46 PM)
+[2022.02.09-05.47.46:671][721]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.47.46:676][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005513s)
+[2022.02.09-05.47.46:678][721]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.47.46:679][721]LogPlayLevel: PIE: World Init took: (0.002061s)
+[2022.02.09-05.47.46:679][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.007760s)
+[2022.02.09-05.47.46:709][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.02.09-05.47.46:713][721]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.02.09-05.47.46:713][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.47.46:713][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.47.46:713][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.47.46:713][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.47.46:713][721]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.47.46:713][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.47.46:713][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.47.46:713][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.47.46:714][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.47.46:714][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.47.46:714][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.47.46:714][721]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.47.46:719][721]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.47.46:720][721]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.47.46:737][721]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.47.46:737][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.47.46:737][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.47.46:737][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.47.46:738][721]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.47.46:738][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.47.46:738][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.47.46:739][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.47.46:739][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.47.46:739][721]LogInit: FAudioDevice initialized.
+[2022.02.09-05.47.46:739][721]LogAudio: Display: Audio Device (ID: 17) registered with world 'PinballMap'.
+[2022.02.09-05.47.46:745][721]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.47.46:746][721]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.47.46
+[2022.02.09-05.47.46:746][721]LogWorld: Bringing up level for play took: 0.000816
+[2022.02.09-05.47.46:746][721]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.02.09-05.47.46:748][721]PIE: Server logged in
+[2022.02.09-05.47.46:749][721]PIE: Play in editor total start time 0.111 seconds.
+[2022.02.09-05.48.13:123][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.48.13:123][880]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.48.13:123][880]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.48.13:123][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.48.13:129][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.48.13:139][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.48.13:167][880]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-05.48.13:167][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.48.13:168][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.48.13:170][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.48.13:173][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.09-05.48.13:204][881]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.02.09-05.48.27:155][348]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.48.27:161][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-05.48.27:161][348]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:48:27 PM)
+[2022.02.09-05.48.27:190][348]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.48.27:201][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010423s)
+[2022.02.09-05.48.27:201][348]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.48.27:202][348]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2022.02.09-05.48.27:202][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.011423s)
+[2022.02.09-05.48.27:230][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.09-05.48.27:233][348]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.02.09-05.48.27:233][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.48.27:233][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.48.27:233][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.48.27:233][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.48.27:233][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.48.27:233][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.48.27:233][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.48.27:233][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.48.27:234][348]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.48.27:234][348]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.48.27:234][348]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.48.27:234][348]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.48.27:240][348]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.48.27:240][348]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.48.27:255][348]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.48.27:255][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.48.27:255][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.48.27:255][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.48.27:255][348]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.48.27:255][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.48.27:255][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.48.27:256][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.48.27:256][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.48.27:256][348]LogInit: FAudioDevice initialized.
+[2022.02.09-05.48.27:256][348]LogAudio: Display: Audio Device (ID: 18) registered with world 'PinballMap'.
+[2022.02.09-05.48.27:265][348]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.48.27:266][348]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.48.27
+[2022.02.09-05.48.27:266][348]LogWorld: Bringing up level for play took: 0.000733
+[2022.02.09-05.48.27:266][348]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.02.09-05.48.27:268][348]PIE: Server logged in
+[2022.02.09-05.48.27:269][348]PIE: Play in editor total start time 0.111 seconds.
+[2022.02.09-05.48.34:593][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.48.34:593][181]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.48.34:593][181]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.48.34:593][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.48.34:603][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.48.34:612][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.48.34:638][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-05.48.34:638][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.48.34:639][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.48.34:640][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.48.34:643][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.09-05.48.34:674][182]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.02.09-05.48.37:180][451]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.48.37:187][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-05.48.37:187][451]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:48:37 PM)
+[2022.02.09-05.48.37:211][451]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.48.37:216][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005293s)
+[2022.02.09-05.48.37:218][451]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.48.37:218][451]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2022.02.09-05.48.37:218][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.007282s)
+[2022.02.09-05.48.37:248][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.09-05.48.37:250][451]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.02.09-05.48.37:250][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.48.37:250][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.48.37:250][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.48.37:250][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.48.37:250][451]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.48.37:250][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.48.37:250][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.48.37:250][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.48.37:250][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.48.37:250][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.48.37:250][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.48.37:250][451]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.48.37:256][451]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.48.37:256][451]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.48.37:271][451]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.48.37:271][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.48.37:271][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.48.37:271][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.48.37:271][451]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.48.37:271][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.48.37:271][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.48.37:272][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.48.37:272][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.48.37:272][451]LogInit: FAudioDevice initialized.
+[2022.02.09-05.48.37:272][451]LogAudio: Display: Audio Device (ID: 19) registered with world 'PinballMap'.
+[2022.02.09-05.48.37:279][451]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.48.37:280][451]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.48.37
+[2022.02.09-05.48.37:281][451]LogWorld: Bringing up level for play took: 0.000766
+[2022.02.09-05.48.37:281][451]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.02.09-05.48.37:282][451]PIE: Server logged in
+[2022.02.09-05.48.37:282][451]PIE: Play in editor total start time 0.099 seconds.
+[2022.02.09-05.48.44:443][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.48.44:443][303]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.48.44:443][303]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.48.44:443][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.48.44:451][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.48.44:460][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.48.44:486][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.48.44:486][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.48.44:487][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.48.44:493][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.02.09-05.48.44:521][304]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.02.09-05.49.06:978][907]Cmd: TRANSACTION UNDO
+[2022.02.09-05.49.06:978][907]LogEditorTransaction: Undo Move Actors
+[2022.02.09-05.49.12:010][413]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2022.02.09-05.49.12:643][475]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2022.02.09-05.49.23:952][826]LogEditorViewport: Clicking Background
+[2022.02.09-05.49.24:782][925]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2022.02.09-05.49.25:890][ 55]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2022.02.09-05.49.37:699][383]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2022.02.09-05.50.00:201][  7]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2022.02.09-05.50.27:247][105]Cmd: DELETE
+[2022.02.09-05.50.27:247][105]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2022.02.09-05.50.27:247][105]LogGeometryMode: Warning: Unable to resolve BoxBrush5 Brush in new BSP, see above
+[2022.02.09-05.50.27:247][105]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2022.02.09-05.50.38:642][431]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.38:642][431]LogEditorTransaction: Undo Modifier [Create]
+[2022.02.09-05.50.39:191][440]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.39:191][440]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.39:691][471]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.39:691][471]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.40:128][509]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.40:128][509]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.40:527][543]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.40:527][543]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.40:924][577]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.40:924][577]LogEditorTransaction: Undo Modifier [Delete]
+[2022.02.09-05.50.44:405][949]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.44:405][949]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.44:975][965]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.44:975][965]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.45:362][993]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.45:362][993]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.45:783][ 29]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.45:783][ 29]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.46:133][ 57]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.46:133][ 57]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.46:444][ 80]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.46:444][ 80]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.46:754][103]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.46:755][103]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.47:095][130]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.47:095][130]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.47:454][159]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.47:454][159]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.47:810][187]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.47:810][187]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.48:525][258]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.48:525][258]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.48:917][291]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.48:917][291]LogEditorTransaction: Undo Select Brush Surface
+[2022.02.09-05.50.49:268][300]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.49:268][300]LogEditorTransaction: Undo Select Brush Surface
+[2022.02.09-05.50.49:962][369]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.49:962][369]LogEditorTransaction: Undo Move Actors
+[2022.02.09-05.50.50:369][393]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.50:369][393]LogEditorTransaction: Undo Move Actors
+[2022.02.09-05.50.51:633][520]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.51:633][520]LogEditorTransaction: Undo Move Actors
+[2022.02.09-05.50.52:091][549]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.52:091][549]LogEditorTransaction: Undo Modifier [Edit]
+[2022.02.09-05.50.52:502][572]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.52:502][572]LogEditorTransaction: Undo Move Actors
+[2022.02.09-05.50.53:183][627]Cmd: TRANSACTION UNDO
+[2022.02.09-05.50.53:183][627]LogEditorTransaction: Undo Move Actors
+[2022.02.09-05.50.58:665][236]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.50.58:671][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-05.50.58:671][236]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:50:58 PM)
+[2022.02.09-05.50.58:671][236]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.50.58:683][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010953s)
+[2022.02.09-05.50.58:683][236]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.50.58:683][236]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2022.02.09-05.50.58:683][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.011896s)
+[2022.02.09-05.50.58:714][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.02.09-05.50.58:718][236]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.02.09-05.50.58:718][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.50.58:718][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.50.58:718][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.50.58:718][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.50.58:718][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.50.58:718][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.50.58:718][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.50.58:718][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.50.58:718][236]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.50.58:718][236]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.50.58:718][236]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.50.58:718][236]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.50.58:725][236]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.50.58:725][236]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.50.58:740][236]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.50.58:740][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.50.58:740][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.50.58:740][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.50.58:741][236]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.50.58:741][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.50.58:741][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.50.58:742][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.50.58:742][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.50.58:742][236]LogInit: FAudioDevice initialized.
+[2022.02.09-05.50.58:742][236]LogAudio: Display: Audio Device (ID: 20) registered with world 'PinballMap'.
+[2022.02.09-05.50.58:747][236]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.50.58:748][236]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.50.58
+[2022.02.09-05.50.58:748][236]LogWorld: Bringing up level for play took: 0.000744
+[2022.02.09-05.50.58:748][236]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.02.09-05.50.58:750][236]PIE: Server logged in
+[2022.02.09-05.50.58:751][236]PIE: Play in editor total start time 0.082 seconds.
+[2022.02.09-05.51.03:613][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.51.03:613][810]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.51.03:613][810]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.51.03:613][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.51.03:619][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.51.03:632][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.51.03:658][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-05.51.03:658][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.51.03:659][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.51.03:661][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.51.03:664][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.09-05.51.03:692][811]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.02.09-05.51.04:711][922]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.51.04:717][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-05.51.04:717][922]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:51:04 PM)
+[2022.02.09-05.51.04:751][922]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.51.04:756][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005028s)
+[2022.02.09-05.51.04:757][922]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.51.04:757][922]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2022.02.09-05.51.04:757][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.006607s)
+[2022.02.09-05.51.04:786][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.09-05.51.04:787][922]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.02.09-05.51.04:787][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.51.04:787][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.51.04:787][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.51.04:787][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.51.04:787][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.51.04:787][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.51.04:787][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.51.04:787][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.51.04:787][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.51.04:787][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.51.04:787][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.51.04:787][922]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.51.04:793][922]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.51.04:793][922]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.51.04:808][922]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.51.04:808][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.51.04:808][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.51.04:809][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.51.04:809][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.51.04:809][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.51.04:809][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.51.04:810][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.51.04:810][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.51.04:810][922]LogInit: FAudioDevice initialized.
+[2022.02.09-05.51.04:810][922]LogAudio: Display: Audio Device (ID: 21) registered with world 'PinballMap'.
+[2022.02.09-05.51.04:817][922]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.51.04:819][922]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.51.04
+[2022.02.09-05.51.04:819][922]LogWorld: Bringing up level for play took: 0.000929
+[2022.02.09-05.51.04:819][922]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.02.09-05.51.04:821][922]PIE: Server logged in
+[2022.02.09-05.51.04:822][922]PIE: Play in editor total start time 0.108 seconds.
+[2022.02.09-05.51.12:833][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.51.12:833][875]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.51.12:833][875]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.51.12:833][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.51.12:839][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.51.12:852][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.51.12:878][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.51.12:878][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.51.12:879][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.51.12:884][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.09-05.51.12:913][876]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.02.09-05.51.34:559][395]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2022.02.09-05.51.55:013][839]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2022.02.09-05.52.05:021][445]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/M_SimpleMetal.M_SimpleMetal
+[2022.02.09-05.52.05:022][445]LogMaterial: Display: Missing cached shadermap for M_SimpleMetal in PCD3D_SM5, Default, SM5 (DDC key hash: 1CB117A198374DDFEBF6F9F4A4D2997989038F7C), compiling. 
+[2022.02.09-05.52.05:029][445]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.02.09-05.52.05:080][445]LogMaterial: Display: Missing cached shadermap for M_SimpleMetal in PCD3D_SM5, Default, SM5 (DDC key hash: F0EED453292EB62AF10511803EE7AF1C305BF2B4), compiling. 
+[2022.02.09-05.52.05:082][445]LogMaterial: Display: Missing cached shadermap for M_SimpleMetal in PCD3D_SM5, Default, SM5 (DDC key hash: 500FC686A1F24BAAF6073ECE7ED1E11E26C13DC6), compiling. 
+[2022.02.09-05.52.05:083][445]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 315164E56DDADA800D98D63DFD7045E88FC161EB), compiling. 
+[2022.02.09-05.52.05:092][445]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.09-05.52.05:152][446]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.09-05.52.05:152][446]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.09-05.52.05:152][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.09-05.52.05:152][446]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.09-05.52.05:152][446]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.02.09-05.52.05:152][446]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.02.09-05.52.05:152][446]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.02.09-05.52.05:152][446]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.02.09-05.52.05:242][452]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.09-05.52.05:242][452]LogShaderCompilers: Display: Total job queries 398, among them cache hits 290 (72.86%)
+[2022.02.09-05.52.05:242][452]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 45 distinct outputs (66.18%)
+[2022.02.09-05.52.05:242][452]LogShaderCompilers: Display: RAM used: 0.26 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.02.09-05.52.05:242][452]LogShaderCompilers: Display: ================================================
+[2022.02.09-05.52.05:844][524]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.02.09-05.52.05:844][524]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.09-05.52.05:973][539]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.02.09-05.52.05:974][539]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.09-05.52.05:984][540]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-05.52.06:720][628]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.09-05.52.06:720][628]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.09-05.52.06:720][628]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.09-05.52.06:720][628]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.09-05.52.16:710][969]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/BallSphere.BallSphere
+[2022.02.09-05.54.58:533][940]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.54.58:540][940]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.09-05.54.58:541][940]LogPlayLevel: [PlayLevel] Compiling BP_Ball before play...
+[2022.02.09-05.54.58:614][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.02.09-05.54.58:618][940]LogPlayLevel: PlayLevel: Blueprint regeneration took 77 ms (1 blueprints)
+[2022.02.09-05.54.58:618][940]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:54:58 PM)
+[2022.02.09-05.54.58:618][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.54.58:625][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006436s)
+[2022.02.09-05.54.58:626][940]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.54.58:627][940]LogPlayLevel: PIE: World Init took: (0.002044s)
+[2022.02.09-05.54.58:627][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.008687s)
+[2022.02.09-05.54.58:658][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.09-05.54.58:658][940]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.02.09-05.54.58:658][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.54.58:658][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.54.58:658][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.54.58:659][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.54.58:659][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.54.58:659][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.54.58:659][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.54.58:659][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.54.58:659][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.54.58:659][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.54.58:659][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.54.58:659][940]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.54.58:665][940]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.54.58:665][940]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.54.58:680][940]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.54.58:681][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.54.58:681][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.54.58:681][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.54.58:681][940]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.54.58:681][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.54.58:681][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.54.58:682][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.54.58:682][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.54.58:682][940]LogInit: FAudioDevice initialized.
+[2022.02.09-05.54.58:682][940]LogAudio: Display: Audio Device (ID: 22) registered with world 'PinballMap'.
+[2022.02.09-05.54.58:725][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.54.58:725][940]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.54.58:726][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.54.58
+[2022.02.09-05.54.58:727][940]LogWorld: Bringing up level for play took: 0.001047
+[2022.02.09-05.54.58:727][940]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.02.09-05.54.58:728][940]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.09-05.54.58:730][940]PIE: Server logged in
+[2022.02.09-05.54.58:731][940]PIE: Play in editor total start time 0.193 seconds.
+[2022.02.09-05.55.07:433][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.55.07:433][943]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.55.07:434][943]LogSlate: Window 'Pinball Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.09-05.55.07:447][943]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.55.07:447][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.55.07:463][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.55.07:473][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.55.07:504][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.55.07:505][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.55.07:511][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.02.09-05.55.07:554][944]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.02.09-05.56.14:228][614]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2022.02.09-05.56.17:143][912]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2022.02.09-05.56.24:547][177]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.56.24:554][177]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.09-05.56.24:555][177]LogPlayLevel: [PlayLevel] Compiling BP_Ball before play...
+[2022.02.09-05.56.24:626][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.02.09-05.56.24:629][177]LogPlayLevel: PlayLevel: Blueprint regeneration took 74 ms (1 blueprints)
+[2022.02.09-05.56.24:629][177]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:56:24 PM)
+[2022.02.09-05.56.24:629][177]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.56.24:634][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004362s)
+[2022.02.09-05.56.24:634][177]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.56.24:635][177]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2022.02.09-05.56.24:635][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.005289s)
+[2022.02.09-05.56.24:668][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.02.09-05.56.24:668][177]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.02.09-05.56.24:668][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.56.24:668][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.56.24:668][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.56.24:668][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.56.24:668][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.56.24:668][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.56.24:668][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.56.24:668][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.56.24:668][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.56.24:668][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.56.24:668][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.56.24:668][177]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.56.24:673][177]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.56.24:673][177]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.56.24:688][177]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.56.24:689][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.56.24:689][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.56.24:689][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.56.24:689][177]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.56.24:689][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.56.24:689][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.56.24:690][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.56.24:691][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.56.24:691][177]LogInit: FAudioDevice initialized.
+[2022.02.09-05.56.24:691][177]LogAudio: Display: Audio Device (ID: 23) registered with world 'PinballMap'.
+[2022.02.09-05.56.24:699][177]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.56.24:700][177]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.56.24
+[2022.02.09-05.56.24:700][177]LogWorld: Bringing up level for play took: 0.000947
+[2022.02.09-05.56.24:701][177]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.02.09-05.56.24:702][177]PIE: Server logged in
+[2022.02.09-05.56.24:703][177]PIE: Play in editor total start time 0.152 seconds.
+[2022.02.09-05.56.26:824][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.56.26:824][405]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.56.26:824][405]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.56.26:824][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.56.26:835][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.56.26:846][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.56.26:876][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.56.26:876][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.56.26:877][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.56.26:883][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.02.09-05.56.26:906][406]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.02.09-05.56.42:409][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BallSphere" FILE="../../../../../Unreal Projects/Pinball/Content/Assets/BallSphere.uasset" SILENT=true
+[2022.02.09-05.56.42:420][ 26]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BallSphere90ED41FD415B56168102AC998DC8DB67.tmp' to '../../../../../Unreal Projects/Pinball/Content/Assets/BallSphere.uasset'
+[2022.02.09-05.56.42:436][ 26]AssetCheck: New page: Asset Save: BallSphere
+[2022.02.09-05.56.42:436][ 26]LogContentValidation: Display: Validating StaticMesh /Game/Assets/BallSphere.BallSphere
+[2022.02.09-05.56.45:652][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.09-05.56.45:684][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.02.09-05.56.45:703][347]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMapA3349FCF4B3E5496ACDFB2A8734C6919.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap.umap'
+[2022.02.09-05.56.45:708][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap_BuiltData" FILE="../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset" SILENT=true
+[2022.02.09-05.56.45:719][347]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_BuiltDataEC83B2C249B80328056DD18ADB2384BF.tmp' to '../../../../../Unreal Projects/Pinball/Content/Maps/PinballMap_BuiltData.uasset'
+[2022.02.09-05.56.45:745][347]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.09-05.56.45:745][347]LogContentValidation: Display: Validating World /Game/Maps/PinballMap.PinballMap
+[2022.02.09-05.56.45:745][347]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/PinballMap_BuiltData.PinballMap_BuiltData
+[2022.02.09-05.56.46:441][419]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.56.46:448][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-05.56.46:448][419]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:56:46 PM)
+[2022.02.09-05.56.46:449][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.56.46:453][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004312s)
+[2022.02.09-05.56.46:454][419]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.56.46:454][419]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2022.02.09-05.56.46:454][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.005165s)
+[2022.02.09-05.56.46:484][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.09-05.56.46:485][419]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.02.09-05.56.46:485][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.56.46:485][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.56.46:485][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.56.46:485][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.56.46:485][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.56.46:485][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.56.46:485][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.56.46:485][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.56.46:486][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.56.46:486][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.56.46:486][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.56.46:486][419]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.56.46:492][419]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.56.46:492][419]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.56.46:508][419]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.56.46:508][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.56.46:508][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.56.46:508][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.56.46:508][419]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.56.46:508][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.56.46:508][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.56.46:509][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.56.46:509][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.56.46:509][419]LogInit: FAudioDevice initialized.
+[2022.02.09-05.56.46:509][419]LogAudio: Display: Audio Device (ID: 24) registered with world 'PinballMap'.
+[2022.02.09-05.56.46:519][419]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.56.46:520][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.56.46
+[2022.02.09-05.56.46:520][419]LogWorld: Bringing up level for play took: 0.000811
+[2022.02.09-05.56.46:520][419]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.02.09-05.56.46:522][419]PIE: Server logged in
+[2022.02.09-05.56.46:523][419]PIE: Play in editor total start time 0.078 seconds.
+[2022.02.09-05.56.51:623][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.56.51:623][ 13]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.56.51:623][ 13]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.56.51:623][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.56.51:633][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.56.51:643][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.56.51:672][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-05.56.51:672][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.56.51:674][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.56.51:675][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.56.51:679][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.09-05.56.51:708][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.02.09-05.56.54:471][278]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-05.56.54:479][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-05.56.54:479][278]PIE: New page: PIE session: PinballMap (Feb 9, 2022, 11:56:54 PM)
+[2022.02.09-05.56.54:511][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.56.54:516][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005418s)
+[2022.02.09-05.56.54:518][278]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-05.56.54:519][278]LogPlayLevel: PIE: World Init took: (0.002029s)
+[2022.02.09-05.56.54:519][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.007682s)
+[2022.02.09-05.56.54:550][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.09-05.56.54:553][278]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.02.09-05.56.54:553][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-05.56.54:553][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-05.56.54:553][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-05.56.54:553][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-05.56.54:553][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-05.56.54:553][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-05.56.54:553][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-05.56.54:553][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-05.56.54:554][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-05.56.54:554][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-05.56.54:554][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-05.56.54:554][278]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-05.56.54:560][278]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.56.54:560][278]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-05.56.54:576][278]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.09-05.56.54:576][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-05.56.54:576][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-05.56.54:576][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-05.56.54:576][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-05.56.54:576][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-05.56.54:576][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-05.56.54:577][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-05.56.54:577][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-05.56.54:577][278]LogInit: FAudioDevice initialized.
+[2022.02.09-05.56.54:577][278]LogAudio: Display: Audio Device (ID: 25) registered with world 'PinballMap'.
+[2022.02.09-05.56.54:583][278]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-05.56.54:585][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-14.56.54
+[2022.02.09-05.56.54:585][278]LogWorld: Bringing up level for play took: 0.001063
+[2022.02.09-05.56.54:585][278]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.02.09-05.56.54:587][278]PIE: Server logged in
+[2022.02.09-05.56.54:588][278]PIE: Play in editor total start time 0.112 seconds.
+[2022.02.09-05.57.11:114][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.57.11:114][256]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-05.57.11:114][256]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-05.57.11:114][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.57.11:122][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-05.57.11:133][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-05.57.11:163][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-05.57.11:163][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.57.11:164][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-05.57.11:166][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-05.57.11:169][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.02.09-05.57.11:198][257]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.02.09-05.59.28:930][728]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.09-05.59.42:580][180]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b29df908-8b85-4e41-9ae2-620cc3fcf598}.
+[2022.02.09-05.59.42:580][180]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-05.59.42:663][180]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-05.59.42:663][180]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-06.07.07:766][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.02.09-06.07.07:770][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.09-06.07.07:786][510]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_Auto44D42218D4400AD4AFBE1098A7D1A2382.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto4.umap'
+[2022.02.09-06.07.07:787][510]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PinballMap' took 0.058
+[2022.02.09-06.07.07:787][510]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2022.02.09-06.07.07:787][510]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Ball] ([2] browsable assets)...
+[2022.02.09-06.07.07:808][510]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ball.BP_Ball]
+[2022.02.09-06.07.07:808][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball]
+[2022.02.09-06.07.07:808][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.02.09-06.07.07:823][510]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/BP_Ball_Auto4DB42E1944EA3A3B51996D695586CFB41.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto4.uasset'
+[2022.02.09-06.07.07:824][510]LogFileHelpers: Auto-saving content packages took 0.037
+[2022.02.09-06.08.47:789][809]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f03eaf0-99ef-4222-9411-99736e3fc871}.
+[2022.02.09-06.08.47:789][809]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-06.08.47:835][809]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-06.08.47:835][809]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-06.08.48:741][811]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.09-06.08.48:741][811]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-06.08.49:279][811]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-06.08.49:280][811]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-06.12.34:340][483]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.09-06.12.34:726][483]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-06.12.34:761][483]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-06.12.34:761][483]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-06.12.35:360][485]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b29df908-8b85-4e41-9ae2-620cc3fcf598}.
+[2022.02.09-06.12.35:360][485]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-06.12.35:389][485]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-06.12.35:389][485]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-06.12.35:696][486]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b29df908-8b85-4e41-9ae2-620cc3fcf598}.
+[2022.02.09-06.12.35:696][486]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-06.12.35:737][486]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-06.12.35:737][486]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-07.55.07:956][681]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{48974e44-cea0-42ea-a165-3e4ab94c5f2e}.
+[2022.02.09-07.55.07:956][681]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-07.55.08:959][681]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-07.55.08:959][681]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-07.55.09:128][682]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-07.55.09:140][682]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-07.55.09:140][682]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-07.57.07:924][146]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.09-07.57.09:438][278]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-07.57.09:446][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-07.57.09:446][278]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 1:57:09 AM)
+[2022.02.09-07.57.09:447][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-07.57.09:455][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008030s)
+[2022.02.09-07.57.09:456][278]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-07.57.09:456][278]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2022.02.09-07.57.09:456][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.009359s)
+[2022.02.09-07.57.09:517][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.02.09-07.57.09:524][278]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.02.09-07.57.09:524][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-07.57.09:524][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-07.57.09:524][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-07.57.09:524][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-07.57.09:524][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-07.57.09:524][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-07.57.09:524][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-07.57.09:524][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-07.57.09:525][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-07.57.09:525][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-07.57.09:525][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-07.57.09:525][278]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-07.57.09:532][278]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-07.57.09:532][278]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-07.57.09:552][278]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.02.09-07.57.09:552][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-07.57.09:552][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-07.57.09:552][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-07.57.09:553][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-07.57.09:553][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-07.57.09:553][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-07.57.09:554][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-07.57.09:554][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-07.57.09:554][278]LogInit: FAudioDevice initialized.
+[2022.02.09-07.57.09:554][278]LogAudio: Display: Audio Device (ID: 26) registered with world 'PinballMap'.
+[2022.02.09-07.57.09:561][278]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-07.57.09:563][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-16.57.09
+[2022.02.09-07.57.09:563][278]LogWorld: Bringing up level for play took: 0.001186
+[2022.02.09-07.57.09:563][278]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.02.09-07.57.09:565][278]PIE: Server logged in
+[2022.02.09-07.57.09:566][278]PIE: Play in editor total start time 0.123 seconds.
+[2022.02.09-07.57.15:685][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-07.57.15:685][  1]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-07.57.15:686][  1]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-07.57.15:686][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-07.57.15:695][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-07.57.15:704][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-07.57.15:735][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-07.57.15:735][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-07.57.15:736][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-07.57.15:742][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.02.09-07.57.15:770][  2]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.02.09-07.57.16:600][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-07.57.16:608][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-07.57.16:608][ 76]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 1:57:16 AM)
+[2022.02.09-07.57.16:633][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-07.57.16:639][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005233s)
+[2022.02.09-07.57.16:640][ 76]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-07.57.16:640][ 76]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2022.02.09-07.57.16:640][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.007014s)
+[2022.02.09-07.57.16:672][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.02.09-07.57.16:673][ 76]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.02.09-07.57.16:673][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-07.57.16:673][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-07.57.16:673][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-07.57.16:673][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-07.57.16:673][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-07.57.16:673][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-07.57.16:673][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-07.57.16:673][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-07.57.16:674][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-07.57.16:674][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-07.57.16:674][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-07.57.16:674][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-07.57.16:680][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-07.57.16:680][ 76]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-07.57.16:698][ 76]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.02.09-07.57.16:698][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-07.57.16:698][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-07.57.16:698][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-07.57.16:699][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-07.57.16:699][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-07.57.16:699][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-07.57.16:700][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-07.57.16:700][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-07.57.16:700][ 76]LogInit: FAudioDevice initialized.
+[2022.02.09-07.57.16:700][ 76]LogAudio: Display: Audio Device (ID: 27) registered with world 'PinballMap'.
+[2022.02.09-07.57.16:707][ 76]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-07.57.16:708][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-16.57.16
+[2022.02.09-07.57.16:708][ 76]LogWorld: Bringing up level for play took: 0.000733
+[2022.02.09-07.57.16:708][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.02.09-07.57.16:710][ 76]PIE: Server logged in
+[2022.02.09-07.57.16:711][ 76]PIE: Play in editor total start time 0.107 seconds.
+[2022.02.09-07.57.35:626][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-07.57.35:626][336]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-07.57.35:626][336]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-07.57.35:626][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-07.57.35:634][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-07.57.35:642][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-07.57.35:672][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-07.57.35:672][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-07.57.35:673][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-07.57.35:676][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-07.57.35:679][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.09-07.57.35:711][337]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.02.09-07.57.36:290][383]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper6)
+[2022.02.09-07.57.53:112][981]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-07.57.53:119][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-07.57.53:119][981]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 1:57:53 AM)
+[2022.02.09-07.57.53:119][981]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-07.57.53:127][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006763s)
+[2022.02.09-07.57.53:128][981]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-07.57.53:128][981]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2022.02.09-07.57.53:128][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.007815s)
+[2022.02.09-07.57.53:167][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.02.09-07.57.53:170][981]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.02.09-07.57.53:170][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-07.57.53:170][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-07.57.53:170][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-07.57.53:170][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-07.57.53:170][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-07.57.53:170][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-07.57.53:170][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-07.57.53:170][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-07.57.53:171][981]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-07.57.53:171][981]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-07.57.53:171][981]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-07.57.53:171][981]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-07.57.53:177][981]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-07.57.53:177][981]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-07.57.53:197][981]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.02.09-07.57.53:197][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-07.57.53:197][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-07.57.53:197][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-07.57.53:198][981]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-07.57.53:198][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-07.57.53:198][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-07.57.53:199][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-07.57.53:199][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-07.57.53:199][981]LogInit: FAudioDevice initialized.
+[2022.02.09-07.57.53:199][981]LogAudio: Display: Audio Device (ID: 28) registered with world 'PinballMap'.
+[2022.02.09-07.57.53:206][981]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-07.57.53:208][981]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-16.57.53
+[2022.02.09-07.57.53:208][981]LogWorld: Bringing up level for play took: 0.001604
+[2022.02.09-07.57.53:208][981]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.02.09-07.57.53:210][981]PIE: Server logged in
+[2022.02.09-07.57.53:211][981]PIE: Play in editor total start time 0.094 seconds.
+[2022.02.09-07.58.17:225][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-07.58.17:225][855]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-07.58.17:225][855]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-07.58.17:225][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-07.58.17:236][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-07.58.17:247][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-07.58.17:277][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-07.58.17:277][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-07.58.17:278][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-07.58.17:281][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-07.58.17:285][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.09-07.58.17:320][856]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.02.09-07.58.17:980][904]LogEditorViewport: Clicking on Actor (LMB): Flipper_C (Flipper2)
+[2022.02.09-07.58.18:679][967]LogEditorViewport: Clicking on Actor (CTRL LMB): Flipper_C (Flipper)
+[2022.02.09-07.58.20:713][157]LogEditorViewport: Clicking on Actor (CTRL LMB): Flipper_C (Flipper2)
+[2022.02.09-07.58.27:897][837]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.09-07.58.27:924][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.09-07.58.27:924][837]PIE: New page: PIE session: PinballMap (Feb 10, 2022, 1:58:27 AM)
+[2022.02.09-07.58.27:925][837]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-07.58.27:935][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009969s)
+[2022.02.09-07.58.27:936][837]LogAIModule: Creating AISystem for world PinballMap
+[2022.02.09-07.58.27:937][837]LogPlayLevel: PIE: World Init took: (0.001813s)
+[2022.02.09-07.58.27:937][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PinballMap.PinballMap to /Game/Maps/UEDPIE_0_PinballMap.PinballMap (0.012006s)
+[2022.02.09-07.58.27:969][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.09-07.58.27:973][837]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.02.09-07.58.27:973][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-07.58.27:973][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-07.58.27:973][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-07.58.27:973][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-07.58.27:973][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-07.58.27:973][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-07.58.27:973][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-07.58.27:973][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-07.58.27:973][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-07.58.27:973][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-07.58.27:973][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-07.58.27:973][837]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-07.58.27:979][837]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-07.58.27:979][837]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-07.58.27:999][837]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.02.09-07.58.28:000][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-07.58.28:000][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-07.58.28:000][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-07.58.28:000][837]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-07.58.28:000][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-07.58.28:000][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-07.58.28:001][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-07.58.28:001][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-07.58.28:001][837]LogInit: FAudioDevice initialized.
+[2022.02.09-07.58.28:001][837]LogAudio: Display: Audio Device (ID: 29) registered with world 'PinballMap'.
+[2022.02.09-07.58.28:009][837]LogLoad: Game class is 'PinballGameMode_C'
+[2022.02.09-07.58.28:011][837]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PinballMap.PinballMap up for play (max tick rate 0) at 2022.02.09-16.58.28
+[2022.02.09-07.58.28:011][837]LogWorld: Bringing up level for play took: 0.001429
+[2022.02.09-07.58.28:011][837]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2022.02.09-07.58.28:013][837]PIE: Server logged in
+[2022.02.09-07.58.28:014][837]PIE: Play in editor total start time 0.113 seconds.
+[2022.02.09-07.59.10:155][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-07.59.10:155][875]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PinballMap
+[2022.02.09-07.59.10:155][875]LogWorld: UWorld::CleanupWorld for PinballMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-07.59.10:156][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-07.59.10:166][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.09-07.59.10:173][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-07.59.10:202][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-07.59.10:202][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-07.59.10:203][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.09-07.59.10:207][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-07.59.10:210][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.02.09-07.59.10:240][876]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.02.09-08.00.20:736][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.02.09-08.00.20:738][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.09-08.00.20:766][218]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_Auto57B3E805B4CD4E8ADAA0F7EB7C2419793.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto5.umap'
+[2022.02.09-08.00.20:766][218]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PinballMap' took 0.064
+[2022.02.09-08.00.20:766][218]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2022.02.09-08.01.34:679][514]LogEditorViewport: Clicking on Actor (LMB): Flipper_C (Flipper)
+[2022.02.09-08.01.39:042][918]LogEditorViewport: Clicking on Actor (LMB): Flipper_C (Flipper)
+[2022.02.09-08.01.39:841][999]LogEditorViewport: Clicking on Actor (LMB): Flipper_C (Flipper2)
+[2022.02.09-08.01.40:774][ 95]LogEditorViewport: Clicking on Actor (CTRL LMB): Flipper_C (Flipper)
+[2022.02.09-08.01.43:342][351]Cmd: MODE GRID=0
+[2022.02.09-08.01.50:617][ 86]Cmd: MODE GRID=1
+[2022.02.09-08.01.53:039][317]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2022.02.09-08.10.21:444][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.02.09-08.10.21:449][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PinballMap" FILE="../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.09-08.10.21:475][996]LogSavePackage: Moving '../../../../../Unreal Projects/Pinball/Saved/PinballMap_Auto6154DA8644A759CB0F33F6D84B626E93D.tmp' to '../../../../../Unreal Projects/Pinball/Saved/Autosaves/Game/Maps/PinballMap_Auto6.umap'
+[2022.02.09-08.10.21:476][996]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PinballMap' took 0.072
+[2022.02.09-08.10.21:476][996]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2022.02.09-08.30.00:313][827]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b29df908-8b85-4e41-9ae2-620cc3fcf598}.
+[2022.02.09-08.30.00:314][827]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.09-08.30.00:341][827]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-08.30.00:342][827]LogAudioMixer: Display: 1: FrontRight
