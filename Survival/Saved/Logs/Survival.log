@@ -1357,3 +1357,154 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.11-11.27.23:658][819]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 1.138ms to complete.
 [2022.02.11-11.27.27:670][831]LogSlate: Window 'Message Log' being destroyed
 [2022.02.11-11.27.27:682][831]LogSlate: Window 'Message Log' being destroyed
+[2022.02.11-11.31.07:393][309]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.02.11-11.31.08:993][493]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_Scrap_Bridge2)
+[2022.02.11-11.31.09:871][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge01)
+[2022.02.11-11.31.23:333][527]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2022.02.11-11.31.39:808][279]LogActorFactory: Actor Factory created SM_Plains_LargeRock02
+[2022.02.11-11.31.41:634][477]LogActorFactory: Actor Factory created SM_Plains_LargeRock02
+[2022.02.11-11.34.03:570][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.11-11.34.03:831][224]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/SihoonCastleLevel_Auto406CB947C4FFACFCF35F5B9BFAB976C07.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Maps/SihoonCastleLevel_Auto4.umap'
+[2022.02.11-11.34.03:832][224]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SihoonCastleLevel' took 0.270
+[2022.02.11-11.34.03:832][224]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.270
+[2022.02.11-11.36.23:745][316]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{86069992-299b-4979-9d48-a3d53d698b44}.
+[2022.02.11-11.36.23:745][316]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.11-11.36.23:755][316]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-11.36.23:755][316]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-11.44.03:994][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.02.11-11.44.03:996][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SihoonCastleLevel' took 0.007
+[2022.02.11-11.51.17:960][986]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2022.02.11-11.51.17:960][986]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.11-11.51.17:961][986]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.02.11-11.54.04:674][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.02.11-11.54.04:674][483]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SihoonCastleLevel' took 0.005
+[2022.02.11-12.02.46:507][ 39]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2022.02.11-12.02.46:508][ 39]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.11-12.02.46:508][ 39]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.02.11-12.02.46:530][ 39]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-12.02.46:530][ 39]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-12.04.05:260][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.02.11-12.04.05:262][274]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SihoonCastleLevel' took 0.007
+[2022.02.11-12.04.28:356][343]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2022.02.11-12.04.35:411][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock02)
+[2022.02.11-12.04.43:894][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock02)
+[2022.02.11-12.06.59:957][753]Cmd: TRANSACTION UNDO
+[2022.02.11-12.06.59:957][753]LogEditorTransaction: Undo Move Actors
+[2022.02.11-12.08.06:244][659]Cmd: TRANSACTION UNDO
+[2022.02.11-12.08.06:244][659]LogEditorTransaction: Undo Move Actors
+[2022.02.11-12.08.40:063][746]LogActorFactory: Actor Factory created SM_Plains_LargeRock02
+[2022.02.11-12.08.43:841][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock4)
+[2022.02.11-12.08.49:140][672]Cmd: TRANSACTION UNDO
+[2022.02.11-12.08.49:140][672]LogEditorTransaction: Undo Move Actors
+[2022.02.11-12.09.01:498][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock6)
+[2022.02.11-12.09.31:720][128]Cmd: TRANSACTION UNDO
+[2022.02.11-12.09.31:720][128]LogEditorTransaction: Undo Move Actors
+[2022.02.11-12.09.52:788][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock4)
+[2022.02.11-12.10.45:588][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock10)
+[2022.02.11-12.10.56:894][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock7)
+[2022.02.11-12.10.57:280][925]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock8)
+[2022.02.11-12.10.57:781][975]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock9)
+[2022.02.11-12.10.58:195][ 16]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock10)
+[2022.02.11-12.12.17:059][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock22)
+[2022.02.11-12.12.35:844][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock21)
+[2022.02.11-12.12.36:376][434]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock20)
+[2022.02.11-12.12.36:716][471]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock19)
+[2022.02.11-12.12.38:516][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock15)
+[2022.02.11-12.12.39:113][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock22)
+[2022.02.11-12.12.46:067][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock21)
+[2022.02.11-12.12.46:740][618]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock20)
+[2022.02.11-12.12.50:285][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock19)
+[2022.02.11-12.13.03:251][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock02)
+[2022.02.11-12.13.23:008][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock24)
+[2022.02.11-12.14.11:908][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock20)
+[2022.02.11-12.14.12:469][968]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock19)
+[2022.02.11-12.14.13:364][ 54]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock21)
+[2022.02.11-12.14.40:611][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock28)
+[2022.02.11-12.14.40:964][957]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock27)
+[2022.02.11-12.14.41:344][995]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_LargeRock26)
+[2022.02.11-12.14.51:179][927]Cmd: TRANSACTION UNDO
+[2022.02.11-12.14.51:179][927]LogEditorTransaction: Undo Move Actors
+[2022.02.11-12.14.52:117][988]Cmd: TRANSACTION UNDO
+[2022.02.11-12.14.52:117][988]LogEditorTransaction: Undo Rotate Actors
+[2022.02.11-12.15.08:891][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock28)
+[2022.02.11-12.15.18:810][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock32)
+[2022.02.11-12.15.42:677][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock22)
+[2022.02.11-12.16.01:975][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock30)
+[2022.02.11-12.16.19:318][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock10)
+[2022.02.11-12.16.49:083][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock33)
+[2022.02.11-12.16.59:056][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock35)
+[2022.02.11-12.17.20:936][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock35)
+[2022.02.11-12.18.06:546][  8]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f03eaf0-99ef-4222-9411-99736e3fc871}.
+[2022.02.11-12.18.06:546][  8]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.11-12.18.06:627][  8]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-12.18.06:627][  8]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-12.18.07:517][ 11]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.11-12.18.07:517][ 11]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.11-12.18.07:531][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-12.18.07:531][ 11]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-12.18.10:899][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.11-12.18.11:167][ 21]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/SihoonCastleLevel_Auto58D27FDC84870D949061428928AAFEFB3.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Maps/SihoonCastleLevel_Auto5.umap'
+[2022.02.11-12.18.11:169][ 21]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SihoonCastleLevel' took 0.277
+[2022.02.11-12.18.11:169][ 21]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.277
+[2022.02.11-12.19.06:796][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock28)
+[2022.02.11-12.19.10:496][ 77]Cmd: TRANSACTION UNDO
+[2022.02.11-12.19.10:496][ 77]LogEditorTransaction: Undo Move Actors
+[2022.02.11-12.19.25:264][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock9)
+[2022.02.11-12.19.25:891][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock10)
+[2022.02.11-12.19.55:999][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock35)
+[2022.02.11-12.20.09:652][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_LargeRock36)
+[2022.02.11-12.20.59:184][380]LogActorFactory: Actor Factory created SM_Plains_CastleTower_Ruin_01
+[2022.02.11-12.21.00:132][483]LogActorFactory: Actor Factory created SM_Plains_CastleTower_Ruin_01
+[2022.02.11-12.21.34:497][413]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.02.11-12.21.35:434][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_01)
+[2022.02.11-12.21.51:637][ 85]LogActorFactory: Actor Factory created SM_Plains_Column_Large_Broken_02
+[2022.02.11-12.21.53:095][249]LogActorFactory: Actor Factory created SM_Plains_Column_Large_Broken_02
+[2022.02.11-12.27.59:540][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_3)
+[2022.02.11-12.28.13:094][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_12)
+[2022.02.11-12.29.04:434][445]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_CastleWall_Ruin_14)
+[2022.02.11-12.29.08:536][873]Cmd: ACTOR MIRROR X=-1
+[2022.02.11-12.29.18:260][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_13)
+[2022.02.11-12.29.19:617][139]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_14)
+[2022.02.11-12.29.32:726][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_12)
+[2022.02.11-12.30.03:934][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_13)
+[2022.02.11-12.30.25:433][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_14)
+[2022.02.11-12.30.42:502][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_12)
+[2022.02.11-12.30.43:035][949]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_13)
+[2022.02.11-12.30.44:269][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_14)
+[2022.02.11-12.31.13:496][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_15)
+[2022.02.11-12.31.16:850][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_16)
+[2022.02.11-12.31.19:032][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_17)
+[2022.02.11-12.31.22:334][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_16)
+[2022.02.11-12.31.23:522][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_17)
+[2022.02.11-12.31.24:972][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_15)
+[2022.02.11-12.31.39:485][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_16)
+[2022.02.11-12.31.44:902][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_17)
+[2022.02.11-12.31.54:371][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_17)
+[2022.02.11-12.32.01:077][661]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_18)
+[2022.02.11-12.32.01:696][703]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_16)
+[2022.02.11-12.32.02:959][822]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_15)
+[2022.02.11-12.32.32:327][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_10)
+[2022.02.11-12.32.42:655][296]Cmd: TRANSACTION UNDO
+[2022.02.11-12.32.42:655][296]LogEditorTransaction: Undo Move Actors
+[2022.02.11-12.32.43:266][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_10)
+[2022.02.11-12.32.54:175][554]Cmd: TRANSACTION UNDO
+[2022.02.11-12.32.54:175][554]LogEditorTransaction: Undo Set Scale
+[2022.02.11-12.32.59:974][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_23)
+[2022.02.11-12.33.03:399][528]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_CastleWall_Ruin_23)
+[2022.02.11-12.33.27:670][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_12)
+[2022.02.11-12.33.28:209][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_13)
+[2022.02.11-12.33.29:272][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_23)
+[2022.02.11-12.34.34:351][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.11-12.34.34:622][435]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/SihoonCastleLevel_Auto692D34E784C089F88D98A3F82DACAB6FF.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Maps/SihoonCastleLevel_Auto6.umap'
+[2022.02.11-12.34.34:623][435]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SihoonCastleLevel' took 0.279
+[2022.02.11-12.34.34:623][435]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.279
+[2022.02.11-12.44.34:436][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.11-12.44.34:437][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SihoonCastleLevel' took 0.007
+[2022.02.11-12.51.55:465][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SihoonCastleLevel" FILE="../../../../../Unreal Projects/Survival/Content/Maps/SihoonCastleLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.11-12.51.55:471][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.11-12.51.55:768][544]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/SihoonCastleLevel6A1E2909415E3EB98BE2AE9BD4E9BBFB.tmp' to '../../../../../Unreal Projects/Survival/Content/Maps/SihoonCastleLevel.umap'
+[2022.02.11-12.51.55:777][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SihoonCastleLevel_BuiltData" FILE="../../../../../Unreal Projects/Survival/Content/Maps/SihoonCastleLevel_BuiltData.uasset" SILENT=true
+[2022.02.11-12.51.55:984][544]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/SihoonCastleLevel_BuiltData492133D34E443CE88B3E79A7138356C5.tmp' to '../../../../../Unreal Projects/Survival/Content/Maps/SihoonCastleLevel_BuiltData.uasset'
+[2022.02.11-12.51.56:002][544]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-12.51.56:002][544]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/SihoonCastleLevel_BuiltData.SihoonCastleLevel_BuiltData
+[2022.02.11-12.51.56:002][544]LogContentValidation: Display: Validating World /Game/Maps/SihoonCastleLevel.SihoonCastleLevel
