@@ -900,3 +900,821 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.20-12.34.01:108][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2022.02.20-12.34.01:109][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.02.20-12.34.02:414][  4]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.20-12.50.34:332][190]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f03eaf0-99ef-4222-9411-99736e3fc871}.
+[2022.02.20-12.50.34:333][190]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-12.50.34:385][190]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-12.50.34:385][190]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-12.50.35:644][194]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.20-12.50.35:644][194]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-12.50.36:639][194]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-12.50.36:639][194]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-12.50.36:761][195]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-12.50.36:791][195]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-12.50.36:792][195]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-12.50.54:937][525]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.20-12.50.54:956][525]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.20-12.50.59:248][ 40]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2022.02.20-12.50.59:248][ 40]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.20-12.51.03:033][475]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.20-12.51.03:046][475]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.20-12.51.05:648][787]LogContentBrowser: Attempting asset rename: NewFolder -> Knight
+[2022.02.20-12.51.05:648][787]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.20-12.52.43:769][744]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tlgns\Downloads\SurvivalAssets\S_Player_Character2.FBX)
+[2022.02.20-12.52.43:960][744]LogFbx: Loading FBX Scene from C:\Users\tlgns\Downloads\SurvivalAssets\S_Player_Character2.FBX
+[2022.02.20-12.52.44:001][744]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.20-12.52.59:648][744]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.20-12.52.59:700][744]LogFbx: Valid bind pose for Pose (S_Player_Character2) - S_Player_Character21
+[2022.02.20-12.52.59:759][744]LogMaterial: Display: Material /Game/Assets/Knight/M_Player_Main_Inst.M_Player_Main_Inst needed to have new flag set bUsedWithSkeletalMesh !
+[2022.02.20-12.52.59:760][744]LogMaterial: Display: Missing cached shadermap for M_Player_Main_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 689CA445355B2BC72CE7DE1362881E7F354CDAF1), compiling. 
+[2022.02.20-12.52.59:822][744]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.02.20-12.52.59:825][744]LogMaterial: Display: Missing cached shadermap for M_Player_Main_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: B330CEAD027E6666434B6282149229FAC6496ED0), compiling. 
+[2022.02.20-12.52.59:838][744]LogFbx: Warning: Bones digested - 58  Depth of hierarchy - 12
+[2022.02.20-12.52.59:967][744]LogSkeletalMesh: Section 0: Material=0, 6650 triangles
+[2022.02.20-12.52.59:984][744]LogSkeletalMesh: Building Skeletal Mesh S_Player_Character2...
+[2022.02.20-12.53.00:080][744]LogSkeletalMesh: Section 0: Material=0, 6650 triangles
+[2022.02.20-12.53.00:089][744]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/Assets/Knight/S_Player_Character2.S_Player_Character2
+[2022.02.20-12.53.00:113][744]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.20-12.53.00:113][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.20-12.53.00:126][744]FBXImport: FBX File Loading: Found name clash, node 'S_Player_Character2' was renamed to 'S_Player_Character21' 
+[2022.02.20-12.53.00:126][744]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.20-12.53.00:344][744]LogSlate: Took 0.021395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.20-12.53.00:461][748]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.53.00:465][748]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.53.00:465][748]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-12.53.00:465][748]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.53.00:626][750]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.53.00:626][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.20-12.53.00:626][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.02.20-12.53.00:626][750]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.53.00:644][751]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.01:751][880]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2022.02.20-12.53.01:751][880]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.01:755][880]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.20-12.53.01:755][880]LogShaderCompilers: Display: Total job queries 64, among them cache hits 0 (0.00%)
+[2022.02.20-12.53.01:755][880]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.02.20-12.53.01:755][880]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.02.20-12.53.01:755][880]LogShaderCompilers: Display: ================================================
+[2022.02.20-12.53.01:800][886]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2022.02.20-12.53.01:800][886]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.01:818][888]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.02.20-12.53.01:818][888]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.01:903][898]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.02.20-12.53.01:903][898]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.02:646][987]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.02.20-12.53.02:646][987]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.02:685][992]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.02.20-12.53.02:685][992]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.03:195][ 53]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.20-12.53.03:195][ 53]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.03:365][ 70]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.20-12.53.03:366][ 70]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.03:423][ 77]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.02.20-12.53.03:423][ 77]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.53.06:387][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.02.20-12.53.06:389][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SihoonCastleLevel' took 0.010
+[2022.02.20-12.53.06:468][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Knight/S_Player_Character2] ([1] browsable assets)...
+[2022.02.20-12.53.06:477][427]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Assets/Knight/S_Player_Character2.S_Player_Character2]
+[2022.02.20-12.53.06:477][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Knight/S_Player_Character2]
+[2022.02.20-12.53.06:501][427]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/S_Player_Character2_Auto18679F43643C1F1F02ED8A9A63FDE7332.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Assets/Knight/S_Player_Character2_Auto1.uasset'
+[2022.02.20-12.53.06:502][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Knight/S_Player_Character2_Skeleton] ([1] browsable assets)...
+[2022.02.20-12.53.06:502][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Knight/S_Player_Character2_Skeleton]
+[2022.02.20-12.53.06:504][427]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/S_Player_Character2_Skeleton_AutD308E0C7499B079B372EB09F070C8F4B.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Assets/Knight/S_Player_Character2_Skeleton_Auto1.uasset'
+[2022.02.20-12.53.06:504][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Knight/S_Player_Character2_PhysicsAsset] ([1] browsable assets)...
+[2022.02.20-12.53.06:512][427]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Assets/Knight/S_Player_Character2_PhysicsAsset.S_Player_Character2_PhysicsAsset]
+[2022.02.20-12.53.06:512][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Knight/S_Player_Character2_PhysicsAsset]
+[2022.02.20-12.53.06:521][427]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/S_Player_Character2_PhysicsAsset8483BBD148CB72BC668A8C970CC254C6.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Assets/Knight/S_Player_Character2_PhysicsAsset_Auto1.uasset'
+[2022.02.20-12.53.06:521][427]LogFileHelpers: Auto-saving content packages took 0.133
+[2022.02.20-12.53.14:362][367]LogSlate: Window 'Message Log' being destroyed
+[2022.02.20-12.53.14:376][367]LogSlate: Window 'Message Log' being destroyed
+[2022.02.20-12.53.19:035][769]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Assets/Knight/S_Player_Character2_PhysicsAsset.S_Player_Character2_PhysicsAsset
+[2022.02.20-12.53.19:345][769]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 8 classes and 3 folders.
+[2022.02.20-12.53.19:393][769]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.02.20-12.53.19:426][769]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.02.20-12.53.19:597][769]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.20-12.53.19:795][769]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.02.20-12.53.19:824][769]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.02.20-12.53.20:216][769]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.20-12.53.27:284][451]LogSlate: Window 'S_Player_Character2_PhysicsAsset' being destroyed
+[2022.02.20-12.53.27:291][451]LogSlate: Window 'S_Player_Character2_PhysicsAsset' being destroyed
+[2022.02.20-12.53.27:291][451]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.20-12.53.27:292][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.20-12.53.34:932][169]LogContentBrowser: Attempting asset rename: M_Player_Main_Inst -> M_Player_Main_Inst
+[2022.02.20-12.53.39:438][597]LogContentBrowser: Attempting asset rename: M_Player_Main_Inst -> M_KnightMaster
+[2022.02.20-12.53.39:504][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Knight/M_KnightMaster" FILE="../../../../../Unreal Projects/Survival/Content/Assets/Knight/M_KnightMaster.uasset" SILENT=true
+[2022.02.20-12.53.39:510][597]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/M_KnightMaster3A0239EE47D418F07FB2DD882C9A8EF9.tmp' to '../../../../../Unreal Projects/Survival/Content/Assets/Knight/M_KnightMaster.uasset'
+[2022.02.20-12.53.39:610][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.02.20-12.53.39:627][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.20-12.53.39:631][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.02.20-12.53.39:659][597]AssetCheck: New page: Asset Save: M_KnightMaster
+[2022.02.20-12.53.39:659][597]LogContentValidation: Display: Validating Material /Game/Assets/Knight/M_KnightMaster.M_KnightMaster
+[2022.02.20-12.53.42:686][892]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Knight/S_Player_Character2.S_Player_Character2
+[2022.02.20-12.53.42:689][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.20-12.53.42:952][892]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.20-12.53.52:814][730]LogRenderer: Reallocating scene render targets to support 1144x1004 Format 10 NumSamples 1 (Frame:849).
+[2022.02.20-12.53.52:992][750]LogSlate: Window 'S_Player_Character2' being destroyed
+[2022.02.20-12.54.24:624][727]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlgns\Downloads\SurvivalAssets\T_Player_D.TGA)
+[2022.02.20-12.54.24:724][727]LogTexture: Display: Building textures: T_Player_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.20-12.54.24:851][727]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.20-12.54.24:851][727]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.20-12.54.24:892][727]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlgns\Downloads\SurvivalAssets\T_Player_M.TGA)
+[2022.02.20-12.54.24:930][727]LogTexture: Display: Building textures: T_Player_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.20-12.54.25:046][727]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.20-12.54.25:046][727]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.20-12.54.25:046][727]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tlgns\Downloads\SurvivalAssets\T_Player_Med_N.TGA)
+[2022.02.20-12.54.25:081][727]LogTexture: Display: Building textures: T_Player_Med_N (OODLE_BC5, 2048X2048)
+[2022.02.20-12.54.25:156][727]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.20-12.54.25:156][727]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.20-12.54.41:437][250]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Assets/Knight/S_Player_Character2_PhysicsAsset.S_Player_Character2_PhysicsAsset
+[2022.02.20-12.54.41:440][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.02.20-12.54.43:886][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Knight/S_Player_Character2_PhysicsAsset" FILE="../../../../../Unreal Projects/Survival/Content/Assets/Knight/S_Player_Character2_PhysicsAsset.uasset" SILENT=true
+[2022.02.20-12.54.43:891][480]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/S_Player_Character2_PhysicsAssetD16205834F8A0AD3B6B5B2A25A348FF7.tmp' to '../../../../../Unreal Projects/Survival/Content/Assets/Knight/S_Player_Character2_PhysicsAsset.uasset'
+[2022.02.20-12.54.43:903][480]AssetCheck: New page: Asset Save: S_Player_Character2_PhysicsAsset
+[2022.02.20-12.54.43:903][480]LogContentValidation: Display: Validating PhysicsAsset /Game/Assets/Knight/S_Player_Character2_PhysicsAsset.S_Player_Character2_PhysicsAsset
+[2022.02.20-12.54.46:059][730]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.20-12.54.46:059][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.20-12.54.47:373][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Knight/S_Player_Character2" FILE="../../../../../Unreal Projects/Survival/Content/Assets/Knight/S_Player_Character2.uasset" SILENT=true
+[2022.02.20-12.54.47:391][869]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/S_Player_Character2DF55BE7D4AA73B7889FFD5A17AF23007.tmp' to '../../../../../Unreal Projects/Survival/Content/Assets/Knight/S_Player_Character2.uasset'
+[2022.02.20-12.54.47:406][869]AssetCheck: New page: Asset Save: S_Player_Character2
+[2022.02.20-12.54.47:406][869]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Knight/S_Player_Character2.S_Player_Character2
+[2022.02.20-12.54.48:080][939]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.02.20-12.54.48:080][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.20-12.55.10:646][201]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Knight/M_KnightMaster.M_KnightMaster
+[2022.02.20-12.55.10:867][201]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: F8005FF0106399BF8E1B17F22A5C168C266ABA10), compiling. 
+[2022.02.20-12.55.10:878][201]LogShaderCompilers: Display: Submitted 20 shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.11:035][201]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: DAB5F934F56A6D65C76EC7D984D7574B94D84703), compiling. 
+[2022.02.20-12.55.11:042][201]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: C2919193088BF1F8992437E6D6BCC50D7CE5453F), compiling. 
+[2022.02.20-12.55.11:044][201]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C638370F692909AA34FFB4353BD41370F0E5F5F6), compiling. 
+[2022.02.20-12.55.11:062][201]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-12.55.11:197][202]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.55.11:197][202]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.55.11:197][202]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-12.55.11:197][202]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.55.11:197][202]LogShaderCompilers: Display: Submitted 18 shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.11:197][202]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2022.02.20-12.55.11:197][202]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2022.02.20-12.55.11:197][202]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.11:232][203]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.55.11:690][238]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.02.20-12.55.11:690][238]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.55.11:798][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.02.20-12.55.11:798][249]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.55.11:812][250]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.20-12.55.12:099][278]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.20-12.55.12:099][278]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.12:137][282]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.02.20-12.55.12:137][282]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.12:880][341]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.02.20-12.55.12:880][341]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.12:962][347]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.02.20-12.55.12:962][347]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.13:023][347]LogSlate: Window 'M_KnightMaster' being destroyed
+[2022.02.20-12.55.13:051][350]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.02.20-12.55.13:051][350]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.13:369][386]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.20-12.55.13:369][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.20-12.55.13:369][386]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.20-12.55.13:369][386]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2022.02.20-12.55.13:369][386]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.20-12.55.17:540][877]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 9556F7A0C3B0018B4F53CE091189C2B1579DB59C), compiling. 
+[2022.02.20-12.55.17:542][877]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-12.55.17:559][878]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.55.17:559][878]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.55.17:559][878]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-12.55.17:559][878]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.55.17:559][878]LogShaderCompilers: Display: Submitted 18 shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.17:559][878]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2022.02.20-12.55.17:559][878]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2022.02.20-12.55.17:559][878]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.17:873][916]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.20-12.55.17:873][916]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.17:965][927]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.02.20-12.55.17:965][927]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.18:261][962]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.20-12.55.18:600][  3]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.02.20-12.55.18:600][  3]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.18:632][  7]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.02.20-12.55.18:632][  7]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.18:809][ 28]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.02.20-12.55.18:809][ 28]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.55.19:244][ 80]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.02.20-12.55.19:244][ 80]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.02.20-12.55.19:244][ 80]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.20-12.55.19:244][ 80]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2022.02.20-12.55.19:244][ 80]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.20-12.55.22:124][419]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 38985ABDB619654A82A93DEF9FCE3A4F9D2B7EE6), compiling. 
+[2022.02.20-12.55.22:126][419]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 59336F3E8085690EFF2BE269E903E6FBF173F643), compiling. 
+[2022.02.20-12.55.22:128][419]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-12.55.22:165][421]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.02.20-12.55.22:165][421]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.02.20-12.55.22:165][421]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.20-12.55.22:165][421]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2022.02.20-12.55.22:165][421]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.20-12.55.40:963][243]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 86D230EBCF554EA4003C7AB214BBEAD0F53A1F8C), compiling. 
+[2022.02.20-12.55.40:965][243]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 86D8D1570D234134A30B7BF78C320E750FCF874F), compiling. 
+[2022.02.20-12.55.40:983][243]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 0EA25D2DC8312628237753CCAF0A04D3BCC229A8), compiling. 
+[2022.02.20-12.55.40:985][243]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-12.55.40:990][244]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.20-12.55.41:004][245]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.55.41:013][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.55.41:013][245]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-12.55.41:013][245]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.55.41:013][245]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.02.20-12.55.41:013][245]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.02.20-12.55.41:013][245]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.20-12.55.41:013][245]MaterialEditorStats: Base pass vertex shader: 96 instructions
+[2022.02.20-12.55.41:013][245]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.20-12.55.50:312][294]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Knight/S_Player_Character2.S_Player_Character2
+[2022.02.20-12.55.50:315][294]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.20-12.55.54:659][761]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.02.20-12.55.54:659][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.20-12.55.57:316][ 51]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7A6B5F2E5EBA32303FA009A293B6BBDA1AEFC480), compiling. 
+[2022.02.20-12.55.57:317][ 51]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-12.55.57:332][ 53]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.20-12.56.10:774][660]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 5EDEBCBA3A3782FA54B71594AE8B390EF30ABFB6), compiling. 
+[2022.02.20-12.56.10:775][660]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B691FFFB1F519AB27AEDEBBD544D57E5F5F65BD), compiling. 
+[2022.02.20-12.56.10:779][660]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-12.56.10:779][660]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-12.56.10:779][660]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-12.56.10:784][661]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.10:784][661]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.56.10:784][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-12.56.10:784][661]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.10:794][662]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.20-12.56.10:794][662]LogShaderCompilers: Display: Total job queries 178, among them cache hits 48 (26.97%)
+[2022.02.20-12.56.10:794][662]LogShaderCompilers: Display: Tracking 76 distinct input hashes that result in 38 distinct outputs (50.00%)
+[2022.02.20-12.56.10:794][662]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.02.20-12.56.10:794][662]LogShaderCompilers: Display: ================================================
+[2022.02.20-12.56.11:148][701]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-12.56.11:148][701]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-12.56.11:149][701]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-12.56.16:294][259]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: DD273B81FDCE7DE054F4DDF534C4C2BA2FAF0F81), compiling. 
+[2022.02.20-12.56.16:296][259]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 35DFDE4775DFB09A6F8A9BAB827E6140DADFC7C2), compiling. 
+[2022.02.20-12.56.16:297][259]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-12.56.16:297][259]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-12.56.16:297][259]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-12.56.16:317][260]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-12.56.16:317][260]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-12.56.16:317][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-12.56.16:329][261]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.16:329][261]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.56.16:329][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-12.56.16:329][261]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.20:314][728]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: A211AF3018F83A098CA97A26F69E7E7AB99C94AE), compiling. 
+[2022.02.20-12.56.20:316][728]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C96B1B4583E4C539F75B3D6B54775739C6DAC139), compiling. 
+[2022.02.20-12.56.20:320][728]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-12.56.20:320][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-12.56.20:320][728]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-12.56.20:325][729]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.20:325][729]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.56.20:325][729]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-12.56.20:325][729]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.20:602][759]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.20-12.56.20:602][759]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-12.56.20:602][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-12.56.38:953][950]LogMaterialEditor: Saving and Compiling material M_KnightMaster
+[2022.02.20-12.56.39:231][950]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 63D95A80044AF38000A309F02139B87AD787F842), compiling. 
+[2022.02.20-12.56.39:261][950]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 81C19323865E42BD9825C1671EAFEDC70EAA8D83), compiling. 
+[2022.02.20-12.56.39:279][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.02.20-12.56.39:285][950]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.39:489][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.56.39:489][950]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-12.56.39:489][950]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.39:495][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.20-12.56.39:541][950]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.39:551][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.56.39:551][950]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-12.56.39:551][950]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-12.56.39:573][950]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.02.20-12.56.39:573][950]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Normal' priority
+[2022.02.20-12.56.39:573][950]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2022.02.20-12.56.39:573][950]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.56.39:580][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Knight/M_KnightMaster" FILE="../../../../../Unreal Projects/Survival/Content/Assets/Knight/M_KnightMaster.uasset" SILENT=true
+[2022.02.20-12.56.39:586][950]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/M_KnightMasterB2DB541D4D064418A49D86A21AA90526.tmp' to '../../../../../Unreal Projects/Survival/Content/Assets/Knight/M_KnightMaster.uasset'
+[2022.02.20-12.56.39:594][950]AssetCheck: New page: Asset Save: M_KnightMaster
+[2022.02.20-12.56.39:594][950]LogContentValidation: Display: Validating Material /Game/Assets/Knight/M_KnightMaster.M_KnightMaster
+[2022.02.20-12.56.39:890][986]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.02.20-12.56.39:890][986]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.56.39:998][999]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2022.02.20-12.56.39:998][999]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.56.41:010][119]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.02.20-12.56.41:010][119]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.56.41:021][120]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-12.56.41:021][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-12.56.41:021][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-12.56.41:026][121]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.02.20-12.56.41:026][121]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.56.41:046][123]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.02.20-12.56.41:046][123]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.56.41:597][189]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-12.56.41:597][189]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.56.41:614][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.02.20-12.56.41:614][191]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-12.56.41:940][230]MaterialEditorStats: Base pass shader: 126 instructions
+[2022.02.20-12.56.41:940][230]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2022.02.20-12.56.41:940][230]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.20-12.56.41:940][230]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2022.02.20-12.56.41:940][230]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-12.56.41:940][230]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-12.56.41:940][230]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-12.56.52:316][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/KGCharacterBase.KGCharacterBase
+[2022.02.20-12.56.52:465][364]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.02.20-12.57.14:913][557]BlueprintLog: New page: Compile KGCharacterBase
+[2022.02.20-12.57.14:957][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.02.20-12.57.48:342][499]BlueprintLog: New page: Compile KGCharacterBase
+[2022.02.20-12.57.48:385][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.20-12.57.48:834][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KGCharacterBase" FILE="../../../../../Unreal Projects/Survival/Content/Blueprints/KGCharacterBase.uasset" SILENT=true
+[2022.02.20-12.57.48:844][545]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/KGCharacterBaseBD12C6AA4E13241AC01FEF8595D2D1B7.tmp' to '../../../../../Unreal Projects/Survival/Content/Blueprints/KGCharacterBase.uasset'
+[2022.02.20-12.57.48:868][545]AssetCheck: New page: Asset Save: KGCharacterBase
+[2022.02.20-12.57.48:869][545]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KGCharacterBase.KGCharacterBase
+[2022.02.20-12.57.53:628][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.20-12.57.53:628][ 68]PIE: New page: SIE session: SihoonCastleLevel (Feb 21, 2022, 6:57:53 AM)
+[2022.02.20-12.57.53:629][ 68]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.20-12.57.53:630][ 68]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.20-12.57.53:631][ 68]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SihoonCastleLevel
+[2022.02.20-12.57.53:662][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031448s)
+[2022.02.20-12.57.53:663][ 68]LogAIModule: Creating AISystem for world SihoonCastleLevel
+[2022.02.20-12.57.53:664][ 68]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2022.02.20-12.57.53:664][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SihoonCastleLevel.SihoonCastleLevel to /Game/Maps/UEDPIE_0_SihoonCastleLevel.SihoonCastleLevel (0.033347s)
+[2022.02.20-12.57.53:680][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.02.20-12.57.53:681][ 68]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.20-12.57.53:681][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.20-12.57.53:681][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.20-12.57.53:681][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.20-12.57.53:681][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.20-12.57.53:681][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.20-12.57.53:681][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.20-12.57.53:681][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.20-12.57.53:681][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.20-12.57.53:681][ 68]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.20-12.57.53:681][ 68]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.20-12.57.53:681][ 68]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.20-12.57.53:681][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.20-12.57.53:688][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-12.57.53:688][ 68]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-12.57.53:704][ 68]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.20-12.57.53:704][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.20-12.57.53:705][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.20-12.57.53:705][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.20-12.57.53:705][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.20-12.57.53:705][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.20-12.57.53:705][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.20-12.57.53:706][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.20-12.57.53:706][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.20-12.57.53:706][ 68]LogInit: FAudioDevice initialized.
+[2022.02.20-12.57.53:706][ 68]LogAudio: Display: Audio Device (ID: 2) registered with world 'SihoonCastleLevel'.
+[2022.02.20-12.57.53:711][ 68]LogLoad: Game class is 'GameModeBase'
+[2022.02.20-12.57.53:715][ 68]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SihoonCastleLevel.SihoonCastleLevel up for play (max tick rate 0) at 2022.02.20-21.57.53
+[2022.02.20-12.57.53:716][ 68]LogWorld: Bringing up level for play took: 0.004304
+[2022.02.20-12.57.53:716][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.02.20-12.57.53:719][ 68]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.20-12.57.53:719][ 68]PIE: Server logged in
+[2022.02.20-12.57.53:720][ 68]PIE: Play in editor total start time 0.095 seconds.
+[2022.02.20-12.58.11:185][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.20-12.58.11:185][ 99]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SihoonCastleLevel
+[2022.02.20-12.58.11:186][ 99]LogWorld: UWorld::CleanupWorld for SihoonCastleLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.20-12.58.11:186][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.20-12.58.11:194][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.20-12.58.11:198][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.20-12.58.11:220][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.20-12.58.11:222][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.20-12.58.11:223][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.20-12.58.11:244][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.02.20-12.58.11:265][100]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.02.20-12.58.51:618][689]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.20-12.58.51:618][689]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-12.58.51:702][689]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-12.58.51:702][689]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-12.58.51:978][690]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{86069992-299b-4979-9d48-a3d53d698b44}.
+[2022.02.20-12.58.51:978][690]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-12.58.52:280][690]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-12.58.52:280][690]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-12.58.52:747][692]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{86069992-299b-4979-9d48-a3d53d698b44}.
+[2022.02.20-12.58.52:747][692]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-12.58.52:775][692]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-12.58.52:775][692]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-12.59.04:143][726]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{48974e44-cea0-42ea-a165-3e4ab94c5f2e}.
+[2022.02.20-12.59.04:143][726]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-12.59.04:329][726]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-12.59.04:329][726]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-13.03.24:416][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.02.20-13.03.24:707][503]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/SihoonCastleLevel_Auto2022212F2492CEB250AD84F8509C06B18.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Maps/SihoonCastleLevel_Auto2.umap'
+[2022.02.20-13.03.24:871][503]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SihoonCastleLevel' took 0.481
+[2022.02.20-13.03.24:871][503]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.481
+[2022.02.20-13.03.24:871][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Knight/T_Player_D] ([1] browsable assets)...
+[2022.02.20-13.03.24:880][503]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Knight/T_Player_D.T_Player_D]
+[2022.02.20-13.03.24:880][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Knight/T_Player_D]
+[2022.02.20-13.03.24:880][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Knight/T_Player_D" FILE="../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Assets/Knight/T_Player_D_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.02.20-13.03.24:887][503]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/T_Player_D_Auto208AD86214ABB90B0E8F7ADB2B5BD6234.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Assets/Knight/T_Player_D_Auto2.uasset'
+[2022.02.20-13.03.24:888][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Knight/T_Player_M] ([1] browsable assets)...
+[2022.02.20-13.03.24:892][503]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Knight/T_Player_M.T_Player_M]
+[2022.02.20-13.03.24:892][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Knight/T_Player_M]
+[2022.02.20-13.03.24:892][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Knight/T_Player_M" FILE="../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Assets/Knight/T_Player_M_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.02.20-13.03.24:907][503]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/T_Player_M_Auto291407D1E4DA80332DDBEA18FE14911F6.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Assets/Knight/T_Player_M_Auto2.uasset'
+[2022.02.20-13.03.24:908][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Knight/T_Player_Med_N] ([1] browsable assets)...
+[2022.02.20-13.03.24:914][503]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Knight/T_Player_Med_N.T_Player_Med_N]
+[2022.02.20-13.03.24:914][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Knight/T_Player_Med_N]
+[2022.02.20-13.03.24:914][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Knight/T_Player_Med_N" FILE="../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Assets/Knight/T_Player_Med_N_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.02.20-13.03.24:922][503]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/T_Player_Med_N_Auto2EF7C30A545E0A211B41E9BA132DB9C24.tmp' to '../../../../../Unreal Projects/Survival/Saved/Autosaves/Game/Assets/Knight/T_Player_Med_N_Auto2.uasset'
+[2022.02.20-13.03.24:922][503]LogFileHelpers: Auto-saving content packages took 0.052
+[2022.02.20-15.24.08:467][703]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{86069992-299b-4979-9d48-a3d53d698b44}.
+[2022.02.20-15.24.08:467][703]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-15.24.08:485][703]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-15.24.08:485][703]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-15.39.01:662][366]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2022.02.20-15.39.01:662][366]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-15.39.01:663][366]LogAudioMixer: Display: StartRunningNullDevice() called
+[2022.02.20-15.41.04:492][732]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2022.02.20-15.41.04:492][732]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-15.41.04:492][732]LogAudioMixer: Display: StopRunningNullDevice() called
+[2022.02.20-15.41.04:513][732]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-15.41.04:513][732]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-15.48.16:758][ 76]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f03eaf0-99ef-4222-9411-99736e3fc871}.
+[2022.02.20-15.48.16:758][ 76]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-15.48.16:777][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-15.48.16:777][ 76]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-15.48.17:223][120]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4e1c1de9-97af-48b5-acd2-db1045716438}.
+[2022.02.20-15.48.17:231][120]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.20-15.48.17:411][120]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.20-15.48.17:411][120]LogAudioMixer: Display: 1: FrontRight
+[2022.02.20-15.49.11:147][221]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 27121EC3EA7F0F46FDA39700D0B3268F6DC17008), compiling. 
+[2022.02.20-15.49.11:148][221]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E6F94072AA7A15D9128233AF77FFA37B4F1DA88D), compiling. 
+[2022.02.20-15.49.11:150][221]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.49.11:150][221]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.11:150][221]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.11:170][222]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.20-15.49.11:170][222]LogShaderCompilers: Display: Total job queries 225, among them cache hits 61 (27.11%)
+[2022.02.20-15.49.11:170][222]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 60 distinct outputs (53.57%)
+[2022.02.20-15.49.11:170][222]LogShaderCompilers: Display: RAM used: 0.35 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.02.20-15.49.11:170][222]LogShaderCompilers: Display: ================================================
+[2022.02.20-15.49.11:170][222]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.20-15.49.11:170][222]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.11:170][222]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.11:182][223]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.49.11:182][223]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.49.11:182][223]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.49.11:182][223]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.49.23:405][388]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7AEC23759E1CF5BA71993166B34DFE6DF855944A), compiling. 
+[2022.02.20-15.49.23:406][388]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 73127B28E525A8493CC732A00BF26A7EC9302673), compiling. 
+[2022.02.20-15.49.23:416][388]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: E9AA06EE2048B78112CC56419204E6A623E6B27D), compiling. 
+[2022.02.20-15.49.23:418][388]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.49.23:418][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.23:418][388]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.23:425][389]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.20-15.49.23:425][389]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.23:425][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.23:430][390]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.49.23:438][391]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.49.23:438][391]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.49.23:438][391]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.49.30:427][ 51]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 67062CD7BC838A2F4BA051741BD5D886D54B66A4), compiling. 
+[2022.02.20-15.49.30:429][ 51]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: DBBC04D36637E315A56DFCBC61E2791AE3080727), compiling. 
+[2022.02.20-15.49.30:433][ 51]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.49.30:433][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.30:433][ 51]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.30:437][ 52]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.49.30:452][ 54]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.49.30:452][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.49.30:452][ 54]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.49.30:733][ 73]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.20-15.49.30:733][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.30:733][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.46:659][945]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 83F4984ABF48861FEC7B220E7191BFF9ADE7BCD7), compiling. 
+[2022.02.20-15.49.46:660][945]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.49.46:660][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.46:661][945]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.46:694][947]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.20-15.49.46:694][947]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.46:694][947]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.52:019][420]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 6FABE8552EED24DC80C04226B9A36DF08E5A9ED3), compiling. 
+[2022.02.20-15.49.52:021][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D966758DEEAE8851AD160F42524E18D43903B6A1), compiling. 
+[2022.02.20-15.49.52:024][420]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.49.52:024][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.52:024][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.52:048][422]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.20-15.49.52:048][422]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.52:048][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.54:614][617]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 0342F6D7363F5042D79E52EDD642ED4920B5F21D), compiling. 
+[2022.02.20-15.49.54:617][617]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E78DC14E02EB49E6C39155BD079E5929C133ABD7), compiling. 
+[2022.02.20-15.49.54:621][617]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.49.54:621][617]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.54:621][617]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.54:634][619]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.20-15.49.54:634][619]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.54:634][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.55:790][733]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 6D4B1BE648E30432277DD563297C93C8C5F79146), compiling. 
+[2022.02.20-15.49.55:792][733]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.49.55:792][733]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.55:792][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.49.55:806][735]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.20-15.49.55:806][735]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.20-15.49.55:806][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.01:714][618]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: D526E917E35934E01E19237C4A6C069AFA535C1F), compiling. 
+[2022.02.20-15.53.01:717][618]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.01:717][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.01:717][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.01:722][619]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.53.01:727][620]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.53.01:727][620]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.53.01:727][620]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.53.02:032][656]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.20-15.53.02:032][656]LogShaderCompilers: Display: Total job queries 256, among them cache hits 84 (32.81%)
+[2022.02.20-15.53.02:032][656]LogShaderCompilers: Display: Tracking 119 distinct input hashes that result in 60 distinct outputs (50.42%)
+[2022.02.20-15.53.02:032][656]LogShaderCompilers: Display: RAM used: 0.35 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.02.20-15.53.02:032][656]LogShaderCompilers: Display: ================================================
+[2022.02.20-15.53.02:097][664]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.02:097][664]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.02:097][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.04:071][818]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7E4B2CA00B7B6806CA9CDA0A705D12CE3A2D4D49), compiling. 
+[2022.02.20-15.53.04:072][818]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1109E6358B89AC865B5DCC6AC3837484AAD7FC1D), compiling. 
+[2022.02.20-15.53.04:077][818]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.04:077][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.04:077][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.04:090][820]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.04:090][820]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.04:090][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.16:507][ 92]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 695E85478F1544A1AAF044EF0099836691FD1519), compiling. 
+[2022.02.20-15.53.16:794][ 92]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: FB7E72708DF1BE481BD68B02486A4861FEDFC95E), compiling. 
+[2022.02.20-15.53.16:795][ 92]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E65FBD4B00423B793F8E8EF879C010FDE7C0BA3C), compiling. 
+[2022.02.20-15.53.16:802][ 92]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.16:802][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.16:802][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.16:822][ 93]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 959EAB2EE26152F0442D59E67AD56FD705E27FF1), compiling. 
+[2022.02.20-15.53.16:870][ 95]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.53.16:871][ 95]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.02.20-15.53.16:879][ 95]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.53.16:879][ 95]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.53.16:879][ 95]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.02.20-15.53.16:879][ 95]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.02.20-15.53.16:879][ 95]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-15.53.16:879][ 95]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.53.16:894][ 96]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.16:894][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.16:894][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.22:041][622]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: DDB3EEAC9EA5627FC1D9242D4AB029094A609E5D), compiling. 
+[2022.02.20-15.53.22:044][622]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.22:044][622]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.22:044][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.22:068][624]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.22:068][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.22:068][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.23:439][774]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: AC2BB31EDA3F718EFC62E66AFBC43046E93A044A), compiling. 
+[2022.02.20-15.53.23:440][774]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.23:440][774]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.23:440][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.23:485][776]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.23:485][776]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.23:485][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.24:726][918]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 27FAC5AD9E319146538DC75E955D86FA39557D27), compiling. 
+[2022.02.20-15.53.24:728][918]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 70A19E8A3E7596EC1CAC2A96EEE5EAE88749C7A9), compiling. 
+[2022.02.20-15.53.24:729][918]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.24:729][918]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.24:729][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.24:754][920]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.53.24:755][920]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.24:755][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.24:755][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.24:761][921]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.53.24:761][921]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.53.24:761][921]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.53.30:903][435]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.20-15.53.34:889][534]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 9445D1BDAB9363C200CE44DBB75FAEC1D3838B82), compiling. 
+[2022.02.20-15.53.34:889][534]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.34:889][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.34:889][534]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.34:921][536]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.34:921][536]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.34:921][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.35:755][625]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: ACA5B27EE0FBAC164E4D51D71313DC092118ABBA), compiling. 
+[2022.02.20-15.53.35:756][625]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D6327F856AEDA2709DD617B03F6964BD8ED96E6), compiling. 
+[2022.02.20-15.53.35:757][625]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.35:757][625]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.35:757][625]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.35:792][627]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.53.35:792][627]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.53.35:792][627]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.53.35:792][627]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.53.35:793][627]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.35:793][627]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.35:793][627]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.45:320][674]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: DE45D65213ECC66F01488EDF4B08142351CE3F39), compiling. 
+[2022.02.20-15.53.45:322][674]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 56396DF40DB57198864C79B04584E9FC90B68BB3), compiling. 
+[2022.02.20-15.53.45:324][674]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.45:324][674]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.45:324][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.45:338][676]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.45:338][676]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.45:338][676]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.50:377][993]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7CC1A41E76E9A943094714734A1CF8A804F22341), compiling. 
+[2022.02.20-15.53.50:378][993]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A372904C28A97E9E0477891F6C2B75B0312FE5E), compiling. 
+[2022.02.20-15.53.50:380][993]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.50:380][993]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.50:380][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.50:395][995]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.50:395][995]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.50:395][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.51:261][ 91]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 36EDC552B8BCC710B4914B2871A4CB477C352D60), compiling. 
+[2022.02.20-15.53.51:262][ 91]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 04CE4921C5E2DE4DDE1F5F6D84AE94D7FE12C245), compiling. 
+[2022.02.20-15.53.51:265][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.51:265][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.51:265][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.51:280][ 93]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.51:280][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.51:280][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.52:345][180]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: CE93EEBB182A7CD0CEC4C9FAB01662417BF63EA9), compiling. 
+[2022.02.20-15.53.52:346][180]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: ED08451411C3856CC6F4BE15035EC3187EE4609F), compiling. 
+[2022.02.20-15.53.52:351][180]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.52:351][180]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.52:351][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.52:372][182]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.52:373][182]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.52:373][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.52:779][210]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: EB262559CC306ED0F5A3FBD013996174E6805AA2), compiling. 
+[2022.02.20-15.53.52:780][210]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 55A04C7AB6817237ED62C377ADDF00EDCD30E6E3), compiling. 
+[2022.02.20-15.53.52:784][210]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.52:784][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.52:784][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.52:815][212]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.52:815][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.52:815][212]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.54:431][341]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 8A10F48567D5B023B46851F48B2B38446E72A2D8), compiling. 
+[2022.02.20-15.53.54:432][341]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CD434B34A34F43D84BE693A9B75DB1734FB7701), compiling. 
+[2022.02.20-15.53.54:433][341]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.20-15.53.54:447][341]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.54:447][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.54:447][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.54:465][343]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.54:465][343]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.54:465][343]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.57:866][643]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 1CD87AF0D28477497DD92A65F97960C6C8B4F19B), compiling. 
+[2022.02.20-15.53.57:868][643]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 107C8DFF49D4CAE1A415C3007191B00B56CFD939), compiling. 
+[2022.02.20-15.53.57:872][643]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.53.57:872][643]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.57:872][643]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.53.57:886][645]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.53.57:886][645]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.53.57:886][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.00:938][853]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: F44960593DD8D439949683BF8B8AECFD6419E1E9), compiling. 
+[2022.02.20-15.54.00:943][853]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.00:943][853]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.54.00:943][853]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.00:958][855]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.20-15.54.00:958][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.20-15.54.00:958][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.04:488][152]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: C1FD3DF0CE2B5F57E7B3A93590D682A54E9E040F), compiling. 
+[2022.02.20-15.54.04:492][152]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.04:492][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.04:493][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.04:497][153]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.54.04:497][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.54.04:497][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.54.04:497][153]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.54.04:859][181]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.04:859][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.04:859][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.22:154][183]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 728A9A81AB7A589979EEC09E51224F86E6F45B73), compiling. 
+[2022.02.20-15.54.22:156][183]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B98E0FE274ADA150CE81DC6352C7C83FF78070A), compiling. 
+[2022.02.20-15.54.22:158][183]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.22:158][183]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.22:158][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.22:172][185]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.22:173][185]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.22:173][185]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.22:814][262]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 08B45590398A7AE8852A0157D13CCA28BF021D29), compiling. 
+[2022.02.20-15.54.22:815][262]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B052AFAE762F67766848870DFE5FB83A70DD3BE8), compiling. 
+[2022.02.20-15.54.22:818][262]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.22:818][262]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.22:818][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.22:833][264]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.22:833][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.22:833][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.23:425][335]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 8D4E1231CFBA72FA61B6F1650305BC6D060A1879), compiling. 
+[2022.02.20-15.54.23:426][335]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5139BE7C6B7D5CB401B287897DB6E16E736BFC34), compiling. 
+[2022.02.20-15.54.23:429][335]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.23:429][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.23:429][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.23:443][337]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.23:443][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.23:443][337]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.23:953][398]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: C8D03C4E2495020F467F75DE5AFD1BB68C0EAEBE), compiling. 
+[2022.02.20-15.54.23:955][398]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F858F52FC0A02AD9F553C18AD8AD07C88F4FD334), compiling. 
+[2022.02.20-15.54.23:957][398]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.23:957][398]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.23:957][398]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.23:971][400]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.23:971][400]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.23:971][400]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.24:746][493]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7C50569ACD23CE407D719C2EC914C41BA8928AD2), compiling. 
+[2022.02.20-15.54.24:748][493]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1EF13C9FF37D8889474B4FF66D672D964BD55859), compiling. 
+[2022.02.20-15.54.24:751][493]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.24:751][493]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.24:751][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.24:766][495]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.24:766][495]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.24:766][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.25:258][554]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 8090C74F2EBAA84BE9BEC4F739977592F128EACE), compiling. 
+[2022.02.20-15.54.25:260][554]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EC4D8809900F2BEE3A3A195A5C6768BB42849253), compiling. 
+[2022.02.20-15.54.25:262][554]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.25:262][554]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.25:262][554]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.25:278][556]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.25:278][556]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.25:278][556]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.26:045][648]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 52D205A9E6D8282E1F4C9E86B1550A1FD994531A), compiling. 
+[2022.02.20-15.54.26:046][648]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 22FC4508CC2A8065F1A19A96427030E12DE8B630), compiling. 
+[2022.02.20-15.54.26:048][648]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.26:048][648]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.26:048][648]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.26:062][650]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.26:062][650]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.26:062][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.26:554][709]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 725CDA799155761504B1AB23C05DB17CC80505AB), compiling. 
+[2022.02.20-15.54.26:556][709]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D6EF2E66540E4F439D6EF8226965040003D6EA5), compiling. 
+[2022.02.20-15.54.26:559][709]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.26:559][709]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.26:559][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.26:574][711]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.26:574][711]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.26:574][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.27:708][847]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 666194FD6530B14104E24BF246F8F437A4C1A966), compiling. 
+[2022.02.20-15.54.27:710][847]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2EB7155C30A51A7B2E99BB3CEC8E3A06E49F9BFD), compiling. 
+[2022.02.20-15.54.27:712][847]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.27:712][847]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.27:712][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.27:725][849]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.27:725][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.27:725][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.28:585][946]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: B6EB029026EC65EAB5B3CAB0DB59051D36C04525), compiling. 
+[2022.02.20-15.54.28:587][946]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6AF5258522AFCA0E04D2BF0779DD2006D86D43AE), compiling. 
+[2022.02.20-15.54.28:589][946]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.20-15.54.28:602][946]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.20-15.54.28:602][946]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.28:602][946]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.28:620][948]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.20-15.54.28:620][948]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.28:620][948]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.30:155][122]LogMaterialEditor: Saving and Compiling material M_KnightMaster
+[2022.02.20-15.54.30:437][122]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 1879C3C7861C483B53FEBB4F9CF45C1BEFFBC745), compiling. 
+[2022.02.20-15.54.30:477][122]LogMaterial: Display: Missing cached shadermap for M_KnightMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 903BCA0D09238CD1A79C4547B803CA16BCE6EC80), compiling. 
+[2022.02.20-15.54.30:504][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.20-15.54.30:512][122]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.54.30:815][122]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.54.30:815][122]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.54.30:815][122]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.54.30:842][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.20-15.54.30:876][122]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.54.30:879][122]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.54.30:879][122]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.54.30:879][122]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.54.30:911][122]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Normal' priority
+[2022.02.20-15.54.30:911][122]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2022.02.20-15.54.30:911][122]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2022.02.20-15.54.30:911][122]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-15.54.30:922][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Knight/M_KnightMaster" FILE="../../../../../Unreal Projects/Survival/Content/Assets/Knight/M_KnightMaster.uasset" SILENT=true
+[2022.02.20-15.54.30:930][122]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/M_KnightMaster39B3F0E94E364C8CEFDA4A98E3CC63FD.tmp' to '../../../../../Unreal Projects/Survival/Content/Assets/Knight/M_KnightMaster.uasset'
+[2022.02.20-15.54.30:944][122]AssetCheck: New page: Asset Save: M_KnightMaster
+[2022.02.20-15.54.30:944][122]LogContentValidation: Display: Validating Material /Game/Assets/Knight/M_KnightMaster.M_KnightMaster
+[2022.02.20-15.54.31:171][141]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.02.20-15.54.31:171][141]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-15.54.31:316][158]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.02.20-15.54.31:316][158]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-15.54.32:039][237]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.20-15.54.32:039][237]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.54.32:412][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.20-15.54.32:412][266]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.20-15.54.32:413][266]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.20-15.54.32:413][266]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.32:413][266]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-15.54.32:460][271]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.02.20-15.54.32:460][271]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-15.54.32:641][292]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.02.20-15.54.32:641][292]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-15.54.32:833][311]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.02.20-15.54.32:834][311]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.20-15.54.33:366][373]MaterialEditorStats: Base pass shader: 135 instructions
+[2022.02.20-15.54.33:366][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2022.02.20-15.54.33:366][373]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.20-15.54.33:366][373]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2022.02.20-15.54.33:366][373]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.20-15.54.33:366][373]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.20-15.54.33:366][373]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.20-16.18.43:078][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KGCharacterBase" FILE="../../../../../Unreal Projects/Survival/Content/Blueprints/KGCharacterBase.uasset" SILENT=true
+[2022.02.20-16.18.43:083][353]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/KGCharacterBase42B1F3094C29BB011DD56D81F79D17B1.tmp' to '../../../../../Unreal Projects/Survival/Content/Blueprints/KGCharacterBase.uasset'
+[2022.02.20-16.18.43:101][353]AssetCheck: New page: Asset Save: KGCharacterBase
+[2022.02.20-16.18.43:101][353]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KGCharacterBase.KGCharacterBase
+[2022.02.20-16.18.44:025][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KGCharacterBase" FILE="../../../../../Unreal Projects/Survival/Content/Blueprints/KGCharacterBase.uasset" SILENT=true
+[2022.02.20-16.18.44:028][442]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/KGCharacterBase19182E1D4BFAAF493F7CFF93775511D0.tmp' to '../../../../../Unreal Projects/Survival/Content/Blueprints/KGCharacterBase.uasset'
+[2022.02.20-16.18.44:041][442]AssetCheck: New page: Asset Save: KGCharacterBase
+[2022.02.20-16.18.44:041][442]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KGCharacterBase.KGCharacterBase
+[2022.02.20-16.18.45:498][588]LogMaterialEditor: Saving and Compiling material M_KnightMaster
+[2022.02.20-16.18.45:525][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Knight/M_KnightMaster" FILE="../../../../../Unreal Projects/Survival/Content/Assets/Knight/M_KnightMaster.uasset" SILENT=true
+[2022.02.20-16.18.45:528][588]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/M_KnightMaster3209F60C4B30D0FF06CF02B946FE1A3E.tmp' to '../../../../../Unreal Projects/Survival/Content/Assets/Knight/M_KnightMaster.uasset'
+[2022.02.20-16.18.45:540][588]AssetCheck: New page: Asset Save: M_KnightMaster
+[2022.02.20-16.18.45:540][588]LogContentValidation: Display: Validating Material /Game/Assets/Knight/M_KnightMaster.M_KnightMaster
+[2022.02.20-16.18.46:746][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SihoonCastleLevel" FILE="../../../../../Unreal Projects/Survival/Content/Maps/SihoonCastleLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.20-16.18.46:767][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.20-16.18.47:039][709]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/SihoonCastleLevelE30BDDB147C29FEB55031EA85E005EB0.tmp' to '../../../../../Unreal Projects/Survival/Content/Maps/SihoonCastleLevel.umap'
+[2022.02.20-16.18.47:046][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SihoonCastleLevel_BuiltData" FILE="../../../../../Unreal Projects/Survival/Content/Maps/SihoonCastleLevel_BuiltData.uasset" SILENT=true
+[2022.02.20-16.18.47:497][709]LogSavePackage: Moving '../../../../../Unreal Projects/Survival/Saved/SihoonCastleLevel_BuiltDataF6870CA141288B932B11AD9C14F7B691.tmp' to '../../../../../Unreal Projects/Survival/Content/Maps/SihoonCastleLevel_BuiltData.uasset'
+[2022.02.20-16.18.47:512][709]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.20-16.18.47:512][709]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/SihoonCastleLevel_BuiltData.SihoonCastleLevel_BuiltData
+[2022.02.20-16.18.47:512][709]LogContentValidation: Display: Validating World /Game/Maps/SihoonCastleLevel.SihoonCastleLevel
