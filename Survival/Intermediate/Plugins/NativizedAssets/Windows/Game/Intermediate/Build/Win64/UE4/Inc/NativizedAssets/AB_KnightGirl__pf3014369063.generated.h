@@ -1,0 +1,139 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+struct FPoseLink;
+#ifdef NATIVIZEDASSETS_AB_KnightGirl__pf3014369063_generated_h
+#error "AB_KnightGirl__pf3014369063.generated.h already included, missing '#pragma once' in AB_KnightGirl__pf3014369063.h"
+#endif
+#define NATIVIZEDASSETS_AB_KnightGirl__pf3014369063_generated_h
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_SPARSE_DATA
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execbpf__AnimGraph__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_BlendSpacePlayer_5A9B71CE4051B171DBEFAEAA3AB99CD3__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_TransitionResult_4E6B919E4653986C62C909B13749D4D9__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_TransitionResult_1D87C0A547012F1331F9C4A49906B0A1__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_TransitionResult_35446394428455D0C01ED18126136F3C__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_TransitionResult_7493BD3E4CEA7F95AC67B0BF1C884842__pf); \
+	DECLARE_FUNCTION(execbpf__BlueprintUpdateAnimation__pf); \
+	DECLARE_FUNCTION(execbpf__AnimNotify_DealDamageFromSword__pf); \
+	DECLARE_FUNCTION(execbpf__AnimNotify_FireMagicBall__pf);
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execbpf__AnimGraph__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_BlendSpacePlayer_5A9B71CE4051B171DBEFAEAA3AB99CD3__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_TransitionResult_4E6B919E4653986C62C909B13749D4D9__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_TransitionResult_1D87C0A547012F1331F9C4A49906B0A1__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_TransitionResult_35446394428455D0C01ED18126136F3C__pf); \
+	DECLARE_FUNCTION(execbpf__EvaluateGraphExposedInputs_ExecuteUbergraph_AB_KnightGirl_AnimGraphNode_TransitionResult_7493BD3E4CEA7F95AC67B0BF1C884842__pf); \
+	DECLARE_FUNCTION(execbpf__BlueprintUpdateAnimation__pf); \
+	DECLARE_FUNCTION(execbpf__AnimNotify_DealDamageFromSword__pf); \
+	DECLARE_FUNCTION(execbpf__AnimNotify_FireMagicBall__pf);
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_EVENT_PARMS \
+	struct AB_KnightGirl_C__pf3014369063_eventbpf__BlueprintUpdateAnimation__pf_Parms \
+	{ \
+		float bpp__DeltaTimeX__pf; \
+	};
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_CALLBACK_WRAPPERS \
+	void eventbpf__BlueprintUpdateAnimation__pf(float bpp__DeltaTimeX__pf); \
+
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUAB_KnightGirl_C__pf3014369063(); \
+	friend struct Z_Construct_UClass_UAB_KnightGirl_C__pf3014369063_Statics; \
+public: \
+	DECLARE_CLASS(UAB_KnightGirl_C__pf3014369063, UAnimInstance, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Game/Assets/Knight/AB_KnightGirl"), NO_API) \
+	DECLARE_SERIALIZER(UAB_KnightGirl_C__pf3014369063) \
+	static const TCHAR* StaticConfigName() {return TEXT("Engine");} \
+
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_INCLASS \
+private: \
+	static void StaticRegisterNativesUAB_KnightGirl_C__pf3014369063(); \
+	friend struct Z_Construct_UClass_UAB_KnightGirl_C__pf3014369063_Statics; \
+public: \
+	DECLARE_CLASS(UAB_KnightGirl_C__pf3014369063, UAnimInstance, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Game/Assets/Knight/AB_KnightGirl"), NO_API) \
+	DECLARE_SERIALIZER(UAB_KnightGirl_C__pf3014369063) \
+	static const TCHAR* StaticConfigName() {return TEXT("Engine");} \
+
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UAB_KnightGirl_C__pf3014369063(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAB_KnightGirl_C__pf3014369063) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAB_KnightGirl_C__pf3014369063); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAB_KnightGirl_C__pf3014369063); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAB_KnightGirl_C__pf3014369063(UAB_KnightGirl_C__pf3014369063&&); \
+	NO_API UAB_KnightGirl_C__pf3014369063(const UAB_KnightGirl_C__pf3014369063&); \
+public:
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAB_KnightGirl_C__pf3014369063(UAB_KnightGirl_C__pf3014369063&&); \
+	NO_API UAB_KnightGirl_C__pf3014369063(const UAB_KnightGirl_C__pf3014369063&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAB_KnightGirl_C__pf3014369063); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAB_KnightGirl_C__pf3014369063); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAB_KnightGirl_C__pf3014369063)
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_PRIVATE_PROPERTY_OFFSET
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_19_PROLOG \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_EVENT_PARMS
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_PRIVATE_PROPERTY_OFFSET \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_SPARSE_DATA \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_RPC_WRAPPERS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_CALLBACK_WRAPPERS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_INCLASS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_PRIVATE_PROPERTY_OFFSET \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_SPARSE_DATA \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_CALLBACK_WRAPPERS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_INCLASS_NO_PURE_DECLS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h_23_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NATIVIZEDASSETS_API UClass* StaticClass<class UAB_KnightGirl_C__pf3014369063>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_AB_KnightGirl__pf3014369063_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

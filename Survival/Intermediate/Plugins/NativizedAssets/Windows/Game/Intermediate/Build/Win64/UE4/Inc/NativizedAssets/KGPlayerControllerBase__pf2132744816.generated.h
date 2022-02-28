@@ -1,0 +1,144 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+struct FKey;
+#ifdef NATIVIZEDASSETS_KGPlayerControllerBase__pf2132744816_generated_h
+#error "KGPlayerControllerBase__pf2132744816.generated.h already included, missing '#pragma once' in KGPlayerControllerBase__pf2132744816.h"
+#endif
+#define NATIVIZEDASSETS_KGPlayerControllerBase__pf2132744816_generated_h
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_21_DELEGATE \
+static inline void FNewWave__pf__KGGameMode_C__pf__SinglecastDelegate_DelegateWrapper(const FScriptDelegate& NewWave__pf__KGGameMode_C__pf__SinglecastDelegate) \
+{ \
+	NewWave__pf__KGGameMode_C__pf__SinglecastDelegate.ProcessDelegate<UObject>(NULL); \
+}
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_SPARSE_DATA
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execbpf__InpActEvt_Jump_K2Node_InputActionEvent_2__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_MeleeAttack_K2Node_InputActionEvent_1__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_MagicAttack_K2Node_InputActionEvent_0__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveTick__pf); \
+	DECLARE_FUNCTION(execbpf__ProcessMouse__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_Up_K2Node_InputAxisEvent_0__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_Right_K2Node_InputAxisEvent_1__pf); \
+	DECLARE_FUNCTION(execbpf__PopUpWaveUI__pf);
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execbpf__InpActEvt_Jump_K2Node_InputActionEvent_2__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_MeleeAttack_K2Node_InputActionEvent_1__pf); \
+	DECLARE_FUNCTION(execbpf__InpActEvt_MagicAttack_K2Node_InputActionEvent_0__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveTick__pf); \
+	DECLARE_FUNCTION(execbpf__ProcessMouse__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_Up_K2Node_InputAxisEvent_0__pf); \
+	DECLARE_FUNCTION(execbpf__InpAxisEvt_Right_K2Node_InputAxisEvent_1__pf); \
+	DECLARE_FUNCTION(execbpf__PopUpWaveUI__pf);
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_EVENT_PARMS \
+	struct KGPlayerControllerBase_C__pf2132744816_eventbpf__ReceiveTick__pf_Parms \
+	{ \
+		float bpp__DeltaSeconds__pf; \
+	};
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_CALLBACK_WRAPPERS \
+	void eventbpf__ReceiveBeginPlay__pf(); \
+ \
+	void eventbpf__ReceiveTick__pf(float bpp__DeltaSeconds__pf); \
+
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAKGPlayerControllerBase_C__pf2132744816(); \
+	friend struct Z_Construct_UClass_AKGPlayerControllerBase_C__pf2132744816_Statics; \
+public: \
+	DECLARE_CLASS(AKGPlayerControllerBase_C__pf2132744816, APlayerController, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/Blueprints/KGPlayerControllerBase"), NO_API) \
+	DECLARE_SERIALIZER(AKGPlayerControllerBase_C__pf2132744816)
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_INCLASS \
+private: \
+	static void StaticRegisterNativesAKGPlayerControllerBase_C__pf2132744816(); \
+	friend struct Z_Construct_UClass_AKGPlayerControllerBase_C__pf2132744816_Statics; \
+public: \
+	DECLARE_CLASS(AKGPlayerControllerBase_C__pf2132744816, APlayerController, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/Blueprints/KGPlayerControllerBase"), NO_API) \
+	DECLARE_SERIALIZER(AKGPlayerControllerBase_C__pf2132744816)
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AKGPlayerControllerBase_C__pf2132744816(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AKGPlayerControllerBase_C__pf2132744816) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AKGPlayerControllerBase_C__pf2132744816); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AKGPlayerControllerBase_C__pf2132744816); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AKGPlayerControllerBase_C__pf2132744816(AKGPlayerControllerBase_C__pf2132744816&&); \
+	NO_API AKGPlayerControllerBase_C__pf2132744816(const AKGPlayerControllerBase_C__pf2132744816&); \
+public:
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AKGPlayerControllerBase_C__pf2132744816(AKGPlayerControllerBase_C__pf2132744816&&); \
+	NO_API AKGPlayerControllerBase_C__pf2132744816(const AKGPlayerControllerBase_C__pf2132744816&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AKGPlayerControllerBase_C__pf2132744816); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AKGPlayerControllerBase_C__pf2132744816); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AKGPlayerControllerBase_C__pf2132744816)
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_PRIVATE_PROPERTY_OFFSET
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_15_PROLOG \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_EVENT_PARMS
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_PRIVATE_PROPERTY_OFFSET \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_SPARSE_DATA \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_RPC_WRAPPERS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_CALLBACK_WRAPPERS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_INCLASS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_PRIVATE_PROPERTY_OFFSET \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_SPARSE_DATA \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_CALLBACK_WRAPPERS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_INCLASS_NO_PURE_DECLS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h_19_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NATIVIZEDASSETS_API UClass* StaticClass<class AKGPlayerControllerBase_C__pf2132744816>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGPlayerControllerBase__pf2132744816_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

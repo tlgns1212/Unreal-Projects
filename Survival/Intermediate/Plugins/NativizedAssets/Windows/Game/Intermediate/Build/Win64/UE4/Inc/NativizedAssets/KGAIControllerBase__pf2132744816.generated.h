@@ -1,0 +1,141 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef NATIVIZEDASSETS_KGAIControllerBase__pf2132744816_generated_h
+#error "KGAIControllerBase__pf2132744816.generated.h already included, missing '#pragma once' in KGAIControllerBase__pf2132744816.h"
+#endif
+#define NATIVIZEDASSETS_KGAIControllerBase__pf2132744816_generated_h
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_18_DELEGATE \
+struct KGAIControllerBase_C__pf2132744816_event__OAISimpleDelegate__DelegateSignature__SC_0_Parms \
+{ \
+	TEnumAsByte<EPathFollowingResult::Type> bpp__MovementResult__pf; \
+}; \
+static inline void F__OAISimpleDelegate__DelegateSignature__SC_0_DelegateWrapper(const FScriptDelegate& __OAISimpleDelegate__DelegateSignature__SC_0, EPathFollowingResult::Type bpp__MovementResult__pf) \
+{ \
+	KGAIControllerBase_C__pf2132744816_event__OAISimpleDelegate__DelegateSignature__SC_0_Parms Parms; \
+	Parms.bpp__MovementResult__pf=bpp__MovementResult__pf; \
+	__OAISimpleDelegate__DelegateSignature__SC_0.ProcessDelegate<UObject>(&Parms); \
+}
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_SPARSE_DATA
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execbpf__OnFail_E312D76944E389CF4A6FCFA1A9CEB387__pf); \
+	DECLARE_FUNCTION(execbpf__OnSuccess_E312D76944E389CF4A6FCFA1A9CEB387__pf); \
+	DECLARE_FUNCTION(execbpf__OnFail_A407FD0D43B8CDA810B1FEB745120FCF__pf); \
+	DECLARE_FUNCTION(execbpf__OnSuccess_A407FD0D43B8CDA810B1FEB745120FCF__pf); \
+	DECLARE_FUNCTION(execbpf__OnFail_E5B67A5B4E730F5994781E995B2FF237__pf); \
+	DECLARE_FUNCTION(execbpf__OnSuccess_E5B67A5B4E730F5994781E995B2FF237__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__Wander__pf); \
+	DECLARE_FUNCTION(execbpf__ProcessAI__pf);
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execbpf__OnFail_E312D76944E389CF4A6FCFA1A9CEB387__pf); \
+	DECLARE_FUNCTION(execbpf__OnSuccess_E312D76944E389CF4A6FCFA1A9CEB387__pf); \
+	DECLARE_FUNCTION(execbpf__OnFail_A407FD0D43B8CDA810B1FEB745120FCF__pf); \
+	DECLARE_FUNCTION(execbpf__OnSuccess_A407FD0D43B8CDA810B1FEB745120FCF__pf); \
+	DECLARE_FUNCTION(execbpf__OnFail_E5B67A5B4E730F5994781E995B2FF237__pf); \
+	DECLARE_FUNCTION(execbpf__OnSuccess_E5B67A5B4E730F5994781E995B2FF237__pf); \
+	DECLARE_FUNCTION(execbpf__ReceiveBeginPlay__pf); \
+	DECLARE_FUNCTION(execbpf__Wander__pf); \
+	DECLARE_FUNCTION(execbpf__ProcessAI__pf);
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_EVENT_PARMS
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_CALLBACK_WRAPPERS \
+	void eventbpf__ReceiveBeginPlay__pf(); \
+
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAKGAIControllerBase_C__pf2132744816(); \
+	friend struct Z_Construct_UClass_AKGAIControllerBase_C__pf2132744816_Statics; \
+public: \
+	DECLARE_CLASS(AKGAIControllerBase_C__pf2132744816, AAIController, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/Blueprints/KGAIControllerBase"), NO_API) \
+	DECLARE_SERIALIZER(AKGAIControllerBase_C__pf2132744816)
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_INCLASS \
+private: \
+	static void StaticRegisterNativesAKGAIControllerBase_C__pf2132744816(); \
+	friend struct Z_Construct_UClass_AKGAIControllerBase_C__pf2132744816_Statics; \
+public: \
+	DECLARE_CLASS(AKGAIControllerBase_C__pf2132744816, AAIController, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Game/Blueprints/KGAIControllerBase"), NO_API) \
+	DECLARE_SERIALIZER(AKGAIControllerBase_C__pf2132744816)
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AKGAIControllerBase_C__pf2132744816(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AKGAIControllerBase_C__pf2132744816) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AKGAIControllerBase_C__pf2132744816); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AKGAIControllerBase_C__pf2132744816); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AKGAIControllerBase_C__pf2132744816(AKGAIControllerBase_C__pf2132744816&&); \
+	NO_API AKGAIControllerBase_C__pf2132744816(const AKGAIControllerBase_C__pf2132744816&); \
+public:
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AKGAIControllerBase_C__pf2132744816(AKGAIControllerBase_C__pf2132744816&&); \
+	NO_API AKGAIControllerBase_C__pf2132744816(const AKGAIControllerBase_C__pf2132744816&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AKGAIControllerBase_C__pf2132744816); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AKGAIControllerBase_C__pf2132744816); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AKGAIControllerBase_C__pf2132744816)
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_PRIVATE_PROPERTY_OFFSET
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_12_PROLOG \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_EVENT_PARMS
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_PRIVATE_PROPERTY_OFFSET \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_SPARSE_DATA \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_RPC_WRAPPERS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_CALLBACK_WRAPPERS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_INCLASS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_PRIVATE_PROPERTY_OFFSET \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_SPARSE_DATA \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_CALLBACK_WRAPPERS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_INCLASS_NO_PURE_DECLS \
+	Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h_16_ENHANCED_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> NATIVIZEDASSETS_API UClass* StaticClass<class AKGAIControllerBase_C__pf2132744816>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID Survival_Intermediate_Plugins_NativizedAssets_Windows_Game_Source_NativizedAssets_Public_KGAIControllerBase__pf2132744816_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
