@@ -76,3 +76,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 >>>>>>> 2c30e0e65e135b7ff5243abfa91da285d8cac64f
+/Packaged/WindowsNoEditor/Survival/Content/Paks/Survival-WindowsNoEditor.pak
+/Survival/Binaries/Win64/Survival.pdb
+/Survival/Saved/StagedBuilds/WindowsNoEditor/Survival/Content/Paks/Survival-WindowsNoEditor.pak
