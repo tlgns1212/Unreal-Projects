@@ -1,0 +1,19 @@
+1. Make a Character Blueprint
+2. Make a Game Instance Blueprint
+3. Make a Game State Blueprint
+4. Make a Player Controller Blueprint
+5. Make a HUD Blueprint
+6. Make a GameMode Blueprint and change the classes to the things I just made.
+7. In Maps & Modes in Project Settings  chage the gamemode, instance class
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Mouse Control in game
+------------------------------------------------------------------------------------------------------------------------------
+1. In input in project settings, make a MouseX and MouseY Axis input.
+2. for InputAxis MouseX, link it with add yaw input
+3. for inputAxis MouseY, link it with add pitch input
