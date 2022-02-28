@@ -1261,3 +1261,132 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.28-12.09.02:157][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.02.28-12.09.10:258][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
 [2022.02.28-12.09.11:673][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2022.02.28-12.22.16:842][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\ML_Base.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:842][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\ML_Base.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:842][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\ML_Base.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:847][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\ML_Rubber_dark.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:847][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\ML_Rubber_dark.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:850][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\HeroTPP.uasset: Failed to load '/Game/Environment/PhysicalMaterials/M_BodyDamage': Can't find file.
+[2022.02.28-12.22.16:850][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\HeroTPP.uasset: Failed to load '/Game/Environment/PhysicalMaterials/M_BodyDamage': Can't find file.
+[2022.02.28-12.22.16:850][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\HeroTPP.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:850][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\HeroTPP.uasset: Failed to load '/Game/Environment/PhysicalMaterials/M_BodyDamage': Can't find file.
+[2022.02.28-12.22.16:850][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\HeroTPP.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:852][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\ML_Rubber_dark.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:852][771]LoadErrors: Failed to load /Game/Environment/Textures/T_Vista_Grass_N.T_Vista_Grass_N Referenced by MaterialExpressionTextureSample_6
+[2022.02.28-12.22.16:853][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\ML_Base.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:853][771]LoadErrors: Failed to load /Game/Environment/Textures/T_Vista_Grass_N.T_Vista_Grass_N Referenced by MaterialExpressionTextureSample_2
+[2022.02.28-12.22.16:856][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\HeroTPP.uasset: Failed to load '/Game/Environment/PhysicalMaterials/M_BodyDamage': Can't find file.
+[2022.02.28-12.22.16:856][771]LoadErrors: Failed to load /Game/Environment/PhysicalMaterials/M_BodyDamage.M_BodyDamage Referenced by HeroTPP
+[2022.02.28-12.22.16:856][771]LogLinker: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\HeroTPP.uasset: Failed to load '/Game/Environment/Textures/T_Vista_Grass_N': Can't find file.
+[2022.02.28-12.22.16:857][771]LoadErrors: Failed to load /Game/Environment/Textures/T_Vista_Grass_N.T_Vista_Grass_N Referenced by HeroTPP
+[2022.02.28-12.22.18:120][771]LogTexture: Display: Building textures: Chr_FPS_02_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.28-12.22.18:120][771]LogTexture: Display: Building textures: Chr_FPS_M (BGRA8, 2048X2048)
+[2022.02.28-12.22.18:120][771]LogTexture: Display: Building textures: T_Sctraches_01 (OODLE_AutoDXT, 2048X2048)
+[2022.02.28-12.22.18:120][771]LogTexture: Display: Building textures: Chr_FPS_Metal_01 (OODLE_BC5, 2048X2048)
+[2022.02.28-12.22.18:120][771]LogTexture: Display: Building textures: Chr_FPS_D (OODLE_AutoDXT, 2048X2048)
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTexture: Display: Building textures: Chr_FPS_Metal_02 (OODLE_AutoDXT, 2048X2048)
+[2022.02.28-12.22.18:120][771]LogTexture: Display: Building textures: Chr_FPS_Fabric_N_01 (OODLE_BC5, 512X512)
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTexture: Display: Building textures: Chr_FPS_N (OODLE_BC5, 2048X2048)
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTexture: Display: Building textures: Chr_FPS_M_03tga (OODLE_AutoDXT, 2048X2048)
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.28-12.22.18:120][771]LogMaterial: Display: Missing cached shadermap for HeroTPP in PCD3D_SM5, Default, SM5 (DDC key hash: CB9E485D8C3101680235A4E641E67528D2EF04CF), compiling. 
+[2022.02.28-12.22.18:187][771]LogMaterial: Warning: [AssetLog] E:\Unreal Projects\Udemy_FPS\Content\Characters\Materials\HeroTPP.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.28-12.22.18:187][771]LogMaterial: Display: 	Function ML_Base: (Node TextureSample) Texture Sample> Missing input texture
+[2022.02.28-12.22.18:187][771]LogMaterial: Display: 	Function ML_Base: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.28-12.22.18:187][771]LogMaterial: Display: 	Function ML_Rubber_dark: (Node TextureSample) Texture Sample> Missing input texture
+[2022.02.28-12.22.18:187][771]LogMaterial: Display: 	Function ML_Rubber_dark: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.28-12.22.18:210][771]LogSkeletalMesh: Building Skeletal Mesh HeroFPP...
+[2022.02.28-12.22.18:222][771]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Characters/HeroFPP/HeroFPP.HeroFPP
+[2022.02.28-12.22.18:268][771]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/HeroFPP/HeroFPP.HeroFPP
+[2022.02.28-12.22.18:336][771]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.02.28-12.22.18:363][771]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.02.28-12.22.18:513][771]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.28-12.22.18:747][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.28-12.22.18:785][771]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.02.28-12.22.19:845][771]LogSlate: Took 0.004355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.28-12.22.22:260][969]LogRenderer: Reallocating scene render targets to support 1144x1004 Format 10 NumSamples 1 (Frame:219).
+[2022.02.28-12.22.22:296][972]LogSlate: Window 'HeroFPP' being destroyed
+[2022.02.28-12.22.23:154][ 30]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-12.22.23:154][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-12.22.24:243][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.02.28-12.25.01:120][286]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/Udemy_FPS/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.02.28-12.25.01:121][286]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/Udemy_FPS/Content/Developers/tlgns/Collections/' because it could not be accessed. Aborting watch request...
+[2022.02.28-12.25.01:121][286]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/Udemy_FPS/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.02.28-12.32.56:744][994]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.28-12.33.33:889][143]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FPS_PlayerController.FPS_PlayerController
+[2022.02.28-12.33.35:618][247]LogSlate: Window 'FPS_PlayerController' being destroyed
+[2022.02.28-12.33.38:574][574]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.28-12.34.26:622][946]BlueprintLog: New page: Compile FPS_PlayerController
+[2022.02.28-12.34.26:693][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.02.28-12.34.27:000][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPS_PlayerController" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/FPS_PlayerController.uasset" SILENT=true
+[2022.02.28-12.34.27:031][976]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPS_PlayerControllerBA71BBBE4D6B4AB51C40469607E6346A.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/FPS_PlayerController.uasset'
+[2022.02.28-12.34.27:051][976]AssetCheck: New page: Asset Save: FPS_PlayerController
+[2022.02.28-12.34.27:051][976]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPS_PlayerController.FPS_PlayerController
+[2022.02.28-12.34.29:216][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.02.28-12.34.31:928][546]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.28-12.34.32:330][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.28-12.34.32:398][546]PIE: New page: PIE session: Minimal_Default (Mar 1, 2022, 6:34:32 AM)
+[2022.02.28-12.34.32:416][546]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.28-12.34.32:426][546]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.28-12.34.32:428][546]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.28-12.34.32:464][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035526s)
+[2022.02.28-12.34.32:471][546]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.02.28-12.34.32:488][546]LogPlayLevel: PIE: World Init took: (0.024327s)
+[2022.02.28-12.34.32:489][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.060564s)
+[2022.02.28-12.34.32:507][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.28-12.34.32:510][546]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.28-12.34.32:510][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.28-12.34.32:510][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.28-12.34.32:510][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.28-12.34.32:510][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.28-12.34.32:510][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.28-12.34.32:510][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.28-12.34.32:510][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.28-12.34.32:510][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.28-12.34.32:510][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.28-12.34.32:510][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.28-12.34.32:510][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.28-12.34.32:511][546]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.28-12.34.32:518][546]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.28-12.34.32:518][546]LogAudioMixer: Display: 1: FrontRight
+[2022.02.28-12.34.32:535][546]LogAudioMixer: Display: Using Audio Device Headphones (Gamsung - J에게  Stereo)
+[2022.02.28-12.34.32:535][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.28-12.34.32:535][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.28-12.34.32:535][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.28-12.34.32:536][546]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.28-12.34.32:536][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.28-12.34.32:536][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.28-12.34.32:537][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.28-12.34.32:537][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.28-12.34.32:537][546]LogInit: FAudioDevice initialized.
+[2022.02.28-12.34.32:537][546]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2022.02.28-12.34.32:578][546]LogLoad: Game class is 'FPS_GameMode_C'
+[2022.02.28-12.34.32:579][546]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.02.28-21.34.32
+[2022.02.28-12.34.32:586][546]LogWorld: Bringing up level for play took: 0.007976
+[2022.02.28-12.34.32:587][546]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.02.28-12.34.32:722][546]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.28-12.34.32:796][546]PIE: Server logged in
+[2022.02.28-12.34.32:806][546]PIE: Play in editor total start time 0.874 seconds.
+[2022.02.28-12.34.37:189][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-12.34.37:189][980]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.28-12.34.37:189][980]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-12.34.37:189][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-12.34.37:196][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.28-12.34.37:206][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-12.34.37:227][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-12.34.37:227][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.28-12.34.37:228][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.28-12.34.37:253][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.02.28-12.34.37:282][981]LogPlayLevel: Display: Destroying online subsystem :Context_7
