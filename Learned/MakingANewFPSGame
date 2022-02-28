@@ -1,0 +1,64 @@
+1. Make a Character Blueprint
+2. Make a Game Instance Blueprint
+3. Make a Game State Blueprint
+4. Make a Player Controller Blueprint
+5. Make a HUD Blueprint
+6. Make a GameMode Blueprint and change the classes to the things I just made.
+7. In Maps & Modes in Project Settings  chage the gamemode, instance class
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Mouse Control in game
+------------------------------------------------------------------------------------------------------------------------------
+1. In input in project settings, make a MouseX and MouseY Axis input.
+2. Go to PlayerControllerBlueprint
+3. for InputAxis MouseX, link it with add yaw input
+4. for inputAxis MouseY, link it with add pitch input
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Movement Input
+------------------------------------------------------------------------------------------------------------------------------
+1. In input in project settings, make a MoveForward and MoveRight Axis input.
+2. Go to Character Blueprint
+3. make a Moveforward and moveright input axis
+4. link them to add movement input
+5. for world direction in add movement input, make a get control rotation, break rotator, get the z(yaw) and link it to make rotator
+6. from there, link it to get forward vector and link it to add movement input linked to moveforward
+7. from make rotator, link it to get right vector and link it to add movement input linked to moveright.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Jump Action
+------------------------------------------------------------------------------------------------------------------------------
+1. Make a Jump action in project settings
+2. go to Character blueprint
+3. make a Jump inputaction and link the pressed to jump function that is already made.
+4. link the released in jump input action to stop jumping function.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Making a Material for my Arm Mesh
+------------------------------------------------------------------------------------------------------------------------------
+1. Make a Material
+2. Get a Texture that ends with _D and connect it with Texture Sample and link it to Base Color
+3. Same with Metalic but this ends with _M
+4. same with Normal but this ends with _N
+5. make a value by pressing 1 and clicking, link it to roughness and give it as I want(.25) in this lecture
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Adding Arms to Character
+------------------------------------------------------------------------------------------------------------------------------
+1. add a camera in Character Blueprint and check use pawn control rotation to true
+2. make the camera be where my head is
+3. make a Skeletal Mesh as a child of Camera
+4. link the arm mesh I made to the skeletal mesh in details
+5. in animation mode in animation change it to use animation asset and find rifle idle
+6. check out use controller rotation yaw and check out cast shadow
