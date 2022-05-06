@@ -4434,3 +4434,1456 @@ Script Stack (0 frames):
 [2022.05.06-16.13.52:533][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_Character_Child" FILE="../../../../../Unreal Projects/Udemy_FPS/Saved/Autosaves/Game/AI/AI_Character_Child_Auto5.uasset" SILENT=false AUTOSAVING=true
 [2022.05.06-16.13.52:541][198]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/AI_Character_Child_Auto531905F984F595E42B53636A12C69753E.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Saved/Autosaves/Game/AI/AI_Character_Child_Auto5.uasset'
 [2022.05.06-16.13.52:541][198]LogFileHelpers: Auto-saving content packages took 0.054
+[2022.05.06-16.49.59:404][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.06-16.50.12:804][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.06-16.51.41:873][254]BlueprintLog: New page: Compile BP_WeaponBase
+[2022.05.06-16.51.41:958][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.05.06-16.51.42:297][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2022.05.06-16.51.42:345][287]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBaseFFC564FC486D62347D76FD90120973A6.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2022.05.06-16.51.42:359][287]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2022.05.06-16.51.42:359][287]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2022.05.06-16.52.57:505][856]BlueprintLog: New page: Compile BP_WeaponBase
+[2022.05.06-16.52.57:577][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.05.06-16.52.57:896][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase.uasset" SILENT=true
+[2022.05.06-16.52.57:944][885]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBaseCC704F2044661AAFE6F651A1689C7BA3.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2022.05.06-16.52.57:960][885]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2022.05.06-16.52.57:960][885]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2022.05.06-16.53.07:206][926]LogContentBrowser: Deferred new asset file creation: BP_WeaponBase_Child
+[2022.05.06-16.53.07:244][926]LogContentBrowser: Creating deferred item: BP_WeaponBase_Child
+[2022.05.06-16.53.11:768][468]LogContentBrowser: Attempting asset rename: BP_WeaponBase_Child -> BP_WeaponBase_Shotgun
+[2022.05.06-16.53.12:137][468]LogContentBrowser: End creating deferred item BP_WeaponBase_Child
+[2022.05.06-16.53.14:212][714]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun
+[2022.05.06-16.53.19:059][167]LogSlate: Window 'BP_WeaponBase_Shotgun' being destroyed
+[2022.05.06-16.53.19:930][244]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-16.53.19:930][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-16.53.20:927][339]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-16.53.20:927][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-16.53.21:641][413]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.06-16.53.21:641][413]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-16.53.21:641][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-16.53.32:244][360]LogTexture: Display: Building textures: Shotgun_A_Masks (OODLE_AutoDXT, 2048X2048)
+[2022.05.06-16.53.32:244][360]LogTexture: Display: Building textures: Shotgun_A_Norm (OODLE_BC5, 2048X2048)
+[2022.05.06-16.53.32:244][360]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.06-16.53.32:244][360]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.06-16.53.32:244][360]LogTexture: Display: Building textures: Shotgun_A_Diff (OODLE_AutoDXT, 2048X2048)
+[2022.05.06-16.53.32:244][360]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.06-16.53.32:244][360]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.05.06-16.53.32:244][360]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.06-16.53.32:244][360]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.06-16.53.32:244][360]LogSkeletalMesh: Building Skeletal Mesh Shotgun_A...
+[2022.05.06-16.53.32:258][360]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/MilitaryWeapSilver/Weapons/Shotgun_A.Shotgun_A
+[2022.05.06-16.53.38:165][887]BlueprintLog: New page: Compile BP_WeaponBase_Shotgun
+[2022.05.06-16.53.38:207][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.05.06-16.53.38:536][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset" SILENT=true
+[2022.05.06-16.53.38:544][916]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBase_Shotgun56A80D4C41783B44E76B98AFBF9A581D.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset'
+[2022.05.06-16.53.38:559][916]AssetCheck: New page: Asset Save: BP_WeaponBase_Shotgun
+[2022.05.06-16.53.38:559][916]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun
+[2022.05.06-16.53.51:096][274]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/HeroFPP/FPSArms.FPSArms
+[2022.05.06-16.53.51:490][274]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.06-16.55.00:638][752]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-16.55.00:638][752]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-16.55.00:638][752]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-16.55.00:638][752]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-16.56.31:172][832]Cmd: TRANSACTION UNDO
+[2022.05.06-16.56.31:172][832]LogEditorTransaction: Undo Remove All Attached Assets
+[2022.05.06-16.56.31:182][832]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-16.56.31:182][832]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-16.56.31:182][832]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-16.56.31:182][832]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-16.56.31:184][832]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-16.56.31:184][832]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-16.56.31:184][832]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-16.56.31:184][832]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_0
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-16.56.31:260][832]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.06-16.58.41:514][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/FPSArms" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms.uasset" SILENT=true
+[2022.05.06-16.58.41:527][685]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPSArmsB1BBBE334C8677CDCE75FA95308195CA.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms.uasset'
+[2022.05.06-16.58.41:545][685]AssetCheck: New page: Asset Save: FPSArms
+[2022.05.06-16.58.41:545][685]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/HeroFPP/FPSArms.FPSArms
+[2022.05.06-16.58.45:477][125]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-16.58.45:477][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-16.58.46:929][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.05.06-16.58.46:940][229]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.039
+[2022.05.06-16.58.46:940][229]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/HeroFPP/FPSArms_Skeleton] ([1] browsable assets)...
+[2022.05.06-16.58.46:940][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/HeroFPP/FPSArms_Skeleton]
+[2022.05.06-16.58.46:945][229]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPSArms_Skeleton_Auto66D7DFF4449B5A3C41379249076B894FF.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Saved/Autosaves/Game/Characters/HeroFPP/FPSArms_Skeleton_Auto6.uasset'
+[2022.05.06-16.58.46:945][229]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.05.06-16.59.02:240][701]BlueprintLog: New page: Compile BP_WeaponBase_Shotgun
+[2022.05.06-16.59.02:276][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.06-16.59.02:646][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset" SILENT=true
+[2022.05.06-16.59.02:653][737]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBase_Shotgun36513061436837E294EA999BC302C8BD.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset'
+[2022.05.06-16.59.02:667][737]AssetCheck: New page: Asset Save: BP_WeaponBase_Shotgun
+[2022.05.06-16.59.02:668][737]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun
+[2022.05.06-16.59.09:063][475]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.06-16.59.09:086][475]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.06-16.59.11:939][813]BlueprintLog: New page: Compile BP_WeaponBase_Shotgun
+[2022.05.06-16.59.11:975][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.06-16.59.12:402][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset" SILENT=true
+[2022.05.06-16.59.12:411][854]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBase_Shotgun8469A62443355B4920B5DC8E1E148DC5.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset'
+[2022.05.06-16.59.12:436][854]AssetCheck: New page: Asset Save: BP_WeaponBase_Shotgun
+[2022.05.06-16.59.12:436][854]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun
+[2022.05.06-16.59.24:011][844]LogContentBrowser: Deferred new asset file creation: ImpactEffect_AssaultRifle1
+[2022.05.06-16.59.24:022][844]LogContentBrowser: Creating deferred item: ImpactEffect_AssaultRifle1
+[2022.05.06-16.59.28:266][352]LogContentBrowser: Attempting asset rename: ImpactEffect_AssaultRifle1 -> ImpactEffect_Shotgun
+[2022.05.06-16.59.28:291][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.05.06-16.59.28:300][352]LogContentBrowser: End creating deferred item ImpactEffect_AssaultRifle1
+[2022.05.06-16.59.28:549][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/ImpactEffects/ImpactEffect_Shotgun.ImpactEffect_Shotgun
+[2022.05.06-16.59.39:357][267]BlueprintLog: New page: Compile ImpactEffect_Shotgun
+[2022.05.06-16.59.39:396][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.05.06-16.59.39:818][311]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/ImpactEffect_Shotgun6D49740C46B35BD61D083485BF6F2B42.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/ImpactEffects/ImpactEffect_Shotgun.uasset'
+[2022.05.06-16.59.39:833][311]AssetCheck: New page: Asset Save: ImpactEffect_Shotgun
+[2022.05.06-16.59.39:833][311]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/ImpactEffects/ImpactEffect_Shotgun.ImpactEffect_Shotgun
+[2022.05.06-16.59.41:845][549]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-16.59.41:845][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-16.59.43:807][777]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.06-16.59.43:824][777]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.06-16.59.46:180][ 51]BlueprintLog: New page: Compile BP_WeaponBase_Shotgun
+[2022.05.06-16.59.46:217][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.06-16.59.46:767][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset" SILENT=true
+[2022.05.06-16.59.46:775][110]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBase_ShotgunFD30254B480EEC9027065CBC4616F992.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset'
+[2022.05.06-16.59.46:786][110]AssetCheck: New page: Asset Save: BP_WeaponBase_Shotgun
+[2022.05.06-16.59.46:786][110]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun
+[2022.05.06-17.08.47:208][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.05.06-17.08.47:210][966]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.029
+[2022.05.06-17.08.47:210][966]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun] ([2] browsable assets)...
+[2022.05.06-17.08.47:232][966]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun]
+[2022.05.06-17.08.47:233][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun]
+[2022.05.06-17.08.47:240][966]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBase_Shotgun_Auto79957167D435BB1DCD72C3882764E75D5.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Saved/Autosaves/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun_Auto7.uasset'
+[2022.05.06-17.08.47:241][966]LogFileHelpers: Auto-saving content packages took 0.031
+[2022.05.06-17.13.40:613][680]LogTexture: Display: Building textures: T_Ember_01 (OODLE_AutoDXT, 256X256)
+[2022.05.06-17.13.40:613][680]LogTexture: Display: Building textures: T_Sparks_02 (OODLE_AutoDXT, 128X512)
+[2022.05.06-17.13.40:613][680]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2022.05.06-17.13.40:613][680]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MilitaryWeapSilver/Weapons/Animations/Fire_Shotgun_W.Fire_Shotgun_W
+[2022.05.06-17.13.40:613][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Shotgun_Reload01...
+[2022.05.06-17.13.40:613][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/Shotgun_Reload01.Shotgun_Reload01 will be modified from 80 to 80.
+[2022.05.06-17.13.40:621][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 49408 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/Shotgun_Reload01.Shotgun_Reload01.
+[2022.05.06-17.13.40:621][680]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.05.06-17.13.40:621][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_150' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:621][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_151' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:622][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_152' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:622][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_153' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:622][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_Root_58' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:622][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ShotgunA_Fire01...
+[2022.05.06-17.13.40:623][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire01.ShotgunA_Fire01 will be modified from 80 to 80.
+[2022.05.06-17.13.40:653][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 392756 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire01.ShotgunA_Fire01.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_278' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_279' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_280' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_281' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_282' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_283' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_284' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_285' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_286' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_287' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Shotgun/Cues/ShotgunA_Fire_Cue.ShotgunA_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_Root_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.05.06-17.13.40:653][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Shotgun_Reload03...
+[2022.05.06-17.13.40:654][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/Shotgun_Reload03.Shotgun_Reload03 will be modified from 80 to 80.
+[2022.05.06-17.13.40:666][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 68510 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/Shotgun_Reload03.Shotgun_Reload03.
+[2022.05.06-17.13.40:666][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Shotgun_Reload02...
+[2022.05.06-17.13.40:666][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/Shotgun_Reload02.Shotgun_Reload02 will be modified from 80 to 80.
+[2022.05.06-17.13.40:677][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51334 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/Shotgun_Reload02.Shotgun_Reload02.
+[2022.05.06-17.13.40:677][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ShotgunA_Fire04...
+[2022.05.06-17.13.40:712][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire04.ShotgunA_Fire04 will be modified from 80 to 80.
+[2022.05.06-17.13.40:744][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 399028 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire04.ShotgunA_Fire04.
+[2022.05.06-17.13.40:744][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ShotgunA_Fire_ST01...
+[2022.05.06-17.13.40:746][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire_ST01.ShotgunA_Fire_ST01 will be modified from 80 to 80.
+[2022.05.06-17.13.40:800][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 785512 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire_ST01.ShotgunA_Fire_ST01.
+[2022.05.06-17.13.40:800][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ShotgunA_Fire02...
+[2022.05.06-17.13.40:801][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire02.ShotgunA_Fire02 will be modified from 80 to 80.
+[2022.05.06-17.13.40:832][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 408452 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire02.ShotgunA_Fire02.
+[2022.05.06-17.13.40:832][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ShotgunA_Fire03...
+[2022.05.06-17.13.40:833][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire03.ShotgunA_Fire03 will be modified from 80 to 80.
+[2022.05.06-17.13.40:865][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 388582 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire03.ShotgunA_Fire03.
+[2022.05.06-17.13.40:866][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ShotgunA_Fire_ST04...
+[2022.05.06-17.13.40:868][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire_ST04.ShotgunA_Fire_ST04 will be modified from 80 to 80.
+[2022.05.06-17.13.40:925][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 798056 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire_ST04.ShotgunA_Fire_ST04.
+[2022.05.06-17.13.40:925][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ShotgunA_Fire_ST02...
+[2022.05.06-17.13.40:959][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire_ST02.ShotgunA_Fire_ST02 will be modified from 80 to 80.
+[2022.05.06-17.13.41:016][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 816904 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire_ST02.ShotgunA_Fire_ST02.
+[2022.05.06-17.13.41:016][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ShotgunA_Fire_ST03...
+[2022.05.06-17.13.41:019][680]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire_ST03.ShotgunA_Fire_ST03 will be modified from 80 to 80.
+[2022.05.06-17.13.41:071][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 777164 while cooking SoundWave /Game/MilitaryWeapSilver/Sound/Shotgun/Wavs/ShotgunA_Fire_ST03.ShotgunA_Fire_ST03.
+[2022.05.06-17.13.44:366][896]BlueprintLog: New page: Compile BP_WeaponBase_Shotgun
+[2022.05.06-17.13.44:406][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.05.06-17.13.44:790][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset" SILENT=true
+[2022.05.06-17.13.44:801][936]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBase_ShotgunDD58AB854F7B40798DD2AC99C930F00E.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset'
+[2022.05.06-17.13.44:820][936]AssetCheck: New page: Asset Save: BP_WeaponBase_Shotgun
+[2022.05.06-17.13.44:820][936]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun
+[2022.05.06-17.13.47:917][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.05.06-17.13.47:933][280]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_DefaultDEC1336F4CD0DF686FB232BCB8C882DB.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.05.06-17.13.47:940][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.05.06-17.13.47:965][280]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_Default_BuiltData13E4F3AA4D41E52B64DB5ABBE82981D2.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.05.06-17.13.47:990][280]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-17.13.47:990][280]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.05.06-17.13.47:990][280]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.06-17.13.48:483][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.05.06-17.13.49:262][329]LogSlate: Window 'Save Content' being destroyed
+[2022.05.06-17.13.49:319][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_Character_Child" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/AI/AI_Character_Child.uasset" SILENT=true
+[2022.05.06-17.13.49:324][329]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/AI_Character_Child7C0DA6BA4E5C071719E4CFACAF85E1BE.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/AI/AI_Character_Child.uasset'
+[2022.05.06-17.13.49:325][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/FPSArms_Skeleton" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_Skeleton.uasset" SILENT=true
+[2022.05.06-17.13.49:329][329]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPSArms_SkeletonD7D979714A1DA967BBF6FBA8FF2D58B1.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_Skeleton.uasset'
+[2022.05.06-17.13.49:347][329]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-17.13.49:347][329]LogContentValidation: Display: Validating Skeleton /Game/Characters/HeroFPP/FPSArms_Skeleton.FPSArms_Skeleton
+[2022.05.06-17.13.49:347][329]LogContentValidation: Display: Validating Blueprint /Game/AI/AI_Character_Child.AI_Character_Child
+[2022.05.06-17.14.13:016][708]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Pistol.BP_WeaponBase_Pistol
+[2022.05.06-17.14.56:548][796]BlueprintLog: New page: Compile BP_WeaponBase_Shotgun
+[2022.05.06-17.14.56:589][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.06-17.14.57:278][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset" SILENT=true
+[2022.05.06-17.14.57:292][871]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBase_ShotgunB6DD0F3B4B4F674F11C1E58627CBCBE7.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset'
+[2022.05.06-17.14.57:314][871]AssetCheck: New page: Asset Save: BP_WeaponBase_Shotgun
+[2022.05.06-17.14.57:314][871]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun
+[2022.05.06-17.15.03:268][547]LogContentBrowser: Deferred new asset file creation: FX_PistolShell1
+[2022.05.06-17.15.03:278][547]LogContentBrowser: Creating deferred item: FX_PistolShell1
+[2022.05.06-17.15.09:637][310]LogContentBrowser: Attempting asset rename: FX_PistolShell1 -> FX_ShotgunShell1
+[2022.05.06-17.15.09:748][310]LogContentBrowser: End creating deferred item FX_PistolShell1
+[2022.05.06-17.15.10:117][350]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Particles/FX_ShotgunShell1.FX_ShotgunShell1
+[2022.05.06-17.15.10:236][350]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2022.05.06-17.15.22:896][172]LogStaticMesh: Building static mesh ShotgunA_Ammo...
+[2022.05.06-17.15.23:052][172]LogStaticMesh: Built static mesh [0.04s] /Game/MilitaryWeapSilver/Weapons/ShotgunA_Ammo.ShotgunA_Ammo
+[2022.05.06-17.15.27:731][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/FX_ShotgunShell1" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Particles/FX_ShotgunShell1.uasset" SILENT=true
+[2022.05.06-17.15.27:736][590]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FX_ShotgunShell17895185E427F048C30DF7B84799040A2.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Particles/FX_ShotgunShell1.uasset'
+[2022.05.06-17.15.27:753][590]AssetCheck: New page: Asset Save: FX_ShotgunShell1
+[2022.05.06-17.15.27:753][590]LogContentValidation: Display: Validating ParticleSystem /Game/Particles/FX_ShotgunShell1.FX_ShotgunShell1
+[2022.05.06-17.15.28:647][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/FX_ShotgunShell1" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Particles/FX_ShotgunShell1.uasset" SILENT=true
+[2022.05.06-17.15.28:651][695]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FX_ShotgunShell1D0B988A149E0E09772A892B4BCD7E20C.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Particles/FX_ShotgunShell1.uasset'
+[2022.05.06-17.15.28:665][695]AssetCheck: New page: Asset Save: FX_ShotgunShell1
+[2022.05.06-17.15.28:665][695]LogContentValidation: Display: Validating ParticleSystem /Game/Particles/FX_ShotgunShell1.FX_ShotgunShell1
+[2022.05.06-17.15.29:736][812]LogCascade: Quitting Cascade. FXSystem=0x000001DEFC5D81C0
+[2022.05.06-17.15.29:759][812]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.15.29:759][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.15.38:156][760]BlueprintLog: New page: Compile BP_WeaponBase_Shotgun
+[2022.05.06-17.15.38:263][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.05.06-17.15.38:622][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset" SILENT=true
+[2022.05.06-17.15.38:635][793]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBase_ShotgunE6B9178747D6930AA5734AAAB19FE8E2.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset'
+[2022.05.06-17.15.38:654][793]AssetCheck: New page: Asset Save: BP_WeaponBase_Shotgun
+[2022.05.06-17.15.38:654][793]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun
+[2022.05.06-17.16.11:137][211]LogContentBrowser: Deferred new asset file creation: WeaponBuy_Base_AssaultRifle1
+[2022.05.06-17.16.11:152][211]LogContentBrowser: Creating deferred item: WeaponBuy_Base_AssaultRifle1
+[2022.05.06-17.16.16:590][862]LogContentBrowser: Attempting asset rename: WeaponBuy_Base_AssaultRifle1 -> WeaponBuy_Base_Shotgun
+[2022.05.06-17.16.16:633][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.05.06-17.16.16:642][862]LogContentBrowser: End creating deferred item WeaponBuy_Base_AssaultRifle1
+[2022.05.06-17.16.17:345][929]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.WeaponBuy_Base_Shotgun
+[2022.05.06-17.16.19:512][145]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.16.19:512][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.16.19:562][145]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.WeaponBuy_Base_Shotgun
+[2022.05.06-17.16.27:525][ 27]LogStaticMesh: Building static mesh ShotgunStaticMesh...
+[2022.05.06-17.16.28:305][ 27]LogStaticMesh: Built static mesh [0.78s] /Game/MilitaryWeapSilver/Weapons/ShotgunStaticMesh.ShotgunStaticMesh
+[2022.05.06-17.16.38:642][993]BlueprintLog: New page: Compile WeaponBuy_Base_Shotgun
+[2022.05.06-17.16.38:716][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.05.06-17.16.39:130][ 30]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/WeaponBuy_Base_Shotgun20C706DA48C96FFB56BDC9A91ECC92CA.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.uasset'
+[2022.05.06-17.16.39:147][ 30]AssetCheck: New page: Asset Save: WeaponBuy_Base_Shotgun
+[2022.05.06-17.16.39:147][ 30]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.WeaponBuy_Base_Shotgun
+[2022.05.06-17.16.55:760][963]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.06-17.16.55:777][963]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.06-17.16.59:940][440]BlueprintLog: New page: Compile WeaponBuy_Base_Shotgun
+[2022.05.06-17.17.00:000][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.05.06-17.17.00:565][499]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/WeaponBuy_Base_ShotgunCB8DB6A34CFD0A9B15D52AAD8ED74E5D.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.uasset'
+[2022.05.06-17.17.00:582][499]AssetCheck: New page: Asset Save: WeaponBuy_Base_Shotgun
+[2022.05.06-17.17.00:582][499]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.WeaponBuy_Base_Shotgun
+[2022.05.06-17.17.04:714][983]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.17.04:714][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.17.28:089][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.05.06-17.17.28:110][488]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_Default77389B724C7280CFB86BEEAEBC4B16A4.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.05.06-17.17.28:116][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.05.06-17.17.28:140][488]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_Default_BuiltData9143EDE14B1E72AB629CAC95FC7DC548.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.05.06-17.17.28:154][488]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-17.17.28:154][488]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.05.06-17.17.28:154][488]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.06-17.17.28:784][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.05.06-17.17.46:147][567]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP
+[2022.05.06-17.17.46:303][567]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.06-17.19.17:824][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/FPSArms_AnimBP" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_AnimBP.uasset" SILENT=true
+[2022.05.06-17.19.17:911][789]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPSArms_AnimBP8472FFF249F4DACCBE1554A9D2F47DBD.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_AnimBP.uasset'
+[2022.05.06-17.19.17:938][789]AssetCheck: New page: Asset Save: FPSArms_AnimBP
+[2022.05.06-17.19.17:938][789]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP
+[2022.05.06-17.19.52:025][114]BlueprintLog: New page: Compile FPSArms_AnimBP
+[2022.05.06-17.19.52:074][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-17.19.52:074][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-17.19.52:074][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-17.19.52:074][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-17.19.52:074][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-17.19.52:074][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-17.19.52:074][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-17.19.52:075][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-17.19.52:111][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.05.06-17.19.52:123][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-17.19.52:123][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-17.19.52:123][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-17.19.52:123][114]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-17.19.52:180][115]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-17.19.52:180][115]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-17.19.52:180][115]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-17.19.52:180][115]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_1
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-17.19.52:573][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/FPSArms_AnimBP" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_AnimBP.uasset" SILENT=true
+[2022.05.06-17.19.52:640][157]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPSArms_AnimBP23B8458640F8D5432E948EB861D353CD.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_AnimBP.uasset'
+[2022.05.06-17.19.52:656][157]AssetCheck: New page: Asset Save: FPSArms_AnimBP
+[2022.05.06-17.19.52:656][157]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP
+[2022.05.06-17.21.38:008][678]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.06-17.21.38:014][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-17.21.38:015][678]PIE: New page: PIE session: Minimal_Default (2022. 5. 7. 오전 11:21:38)
+[2022.05.06-17.21.38:052][678]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.21.38:056][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003678s)
+[2022.05.06-17.21.38:056][678]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.06-17.21.38:057][678]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2022.05.06-17.21.38:057][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004870s)
+[2022.05.06-17.21.38:091][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.05.06-17.21.38:093][678]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.05.06-17.21.38:093][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-17.21.38:093][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-17.21.38:093][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-17.21.38:093][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-17.21.38:093][678]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-17.21.38:093][678]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.06-17.21.38:093][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-17.21.38:093][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-17.21.38:094][678]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-17.21.38:094][678]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-17.21.38:094][678]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-17.21.38:094][678]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.06-17.21.38:101][678]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.06-17.21.38:101][678]LogAudioMixer: Display: 1: FrontRight
+[2022.05.06-17.21.38:118][678]LogAudioMixer: Display: Using Audio Device SMT27A550(NVIDIA High Definition Audio)
+[2022.05.06-17.21.38:118][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-17.21.38:118][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-17.21.38:118][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-17.21.38:118][678]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.06-17.21.38:118][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.06-17.21.38:118][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.06-17.21.38:119][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.06-17.21.38:119][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.06-17.21.38:119][678]LogInit: FAudioDevice initialized.
+[2022.05.06-17.21.38:119][678]LogAudio: Display: Audio Device (ID: 34) registered with world 'Minimal_Default'.
+[2022.05.06-17.21.38:127][678]LogLoad: Game class is 'FPS_GameMode_C'
+[2022.05.06-17.21.38:129][678]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.07-02.21.38
+[2022.05.06-17.21.38:129][678]LogWorld: Bringing up level for play took: 0.001306
+[2022.05.06-17.21.38:130][678]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2022.05.06-17.21.38:132][678]PIE: Server logged in
+[2022.05.06-17.21.38:133][678]PIE: Play in editor total start time 0.121 seconds.
+[2022.05.06-17.21.40:957][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.21.40:957][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.21.40:957][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.21.40:957][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.21.40:957][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.21.40:957][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.21.40:958][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.21.40:958][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.21.40:958][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.21.40:958][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.21.40:958][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.21.40:958][ 13]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.21.41:894][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.21.41:894][ 94]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.21.41:894][ 94]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.21.41:895][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.21.41:906][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-17.21.41:915][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.21.41:945][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.06-17.21.41:945][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.21.41:946][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.21.41:949][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.21.41:952][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.05.06-17.21.41:982][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2022.05.06-17.22.40:567][632]BlueprintLog: New page: Compile FPSArms_AnimBP
+[2022.05.06-17.22.40:602][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-17.22.40:602][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-17.22.40:602][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-17.22.40:602][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-17.22.40:602][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-17.22.40:602][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-17.22.40:602][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-17.22.40:603][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-17.22.40:635][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.05.06-17.22.40:648][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-17.22.40:648][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-17.22.40:648][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-17.22.40:648][632]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-17.22.40:696][633]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0088
+[2022.05.06-17.22.40:696][633]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0058
+[2022.05.06-17.22.40:696][633]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0024
+[2022.05.06-17.22.40:696][633]LogScript: Warning: Accessed None trying to read property CharacterRef
+	FPSArms_AnimBP_C /Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPSArms_AnimBP_C_2
+	Function /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP_C:ExecuteUbergraph_FPSArms_AnimBP:0346
+[2022.05.06-17.22.41:172][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/FPSArms_AnimBP" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_AnimBP.uasset" SILENT=true
+[2022.05.06-17.22.41:239][684]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPSArms_AnimBPBA9DE6A44682EF565A1AAABC4B831214.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_AnimBP.uasset'
+[2022.05.06-17.22.41:254][684]AssetCheck: New page: Asset Save: FPSArms_AnimBP
+[2022.05.06-17.22.41:254][684]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/HeroFPP/FPSArms_AnimBP.FPSArms_AnimBP
+[2022.05.06-17.22.44:042][998]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.06-17.22.44:048][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-17.22.44:048][998]PIE: New page: PIE session: Minimal_Default (2022. 5. 7. 오전 11:22:44)
+[2022.05.06-17.22.44:072][998]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.22.44:074][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002776s)
+[2022.05.06-17.22.44:075][998]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.06-17.22.44:076][998]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2022.05.06-17.22.44:076][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003852s)
+[2022.05.06-17.22.44:108][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.05.06-17.22.44:109][998]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.05.06-17.22.44:109][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-17.22.44:109][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-17.22.44:109][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-17.22.44:109][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-17.22.44:109][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-17.22.44:109][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.06-17.22.44:109][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-17.22.44:109][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-17.22.44:110][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-17.22.44:110][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-17.22.44:110][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-17.22.44:110][998]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.06-17.22.44:116][998]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.06-17.22.44:116][998]LogAudioMixer: Display: 1: FrontRight
+[2022.05.06-17.22.44:131][998]LogAudioMixer: Display: Using Audio Device SMT27A550(NVIDIA High Definition Audio)
+[2022.05.06-17.22.44:131][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-17.22.44:131][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-17.22.44:131][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-17.22.44:132][998]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.06-17.22.44:132][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.06-17.22.44:132][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.06-17.22.44:133][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.06-17.22.44:133][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.06-17.22.44:133][998]LogInit: FAudioDevice initialized.
+[2022.05.06-17.22.44:133][998]LogAudio: Display: Audio Device (ID: 35) registered with world 'Minimal_Default'.
+[2022.05.06-17.22.44:143][998]LogLoad: Game class is 'FPS_GameMode_C'
+[2022.05.06-17.22.44:144][998]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.07-02.22.44
+[2022.05.06-17.22.44:145][998]LogWorld: Bringing up level for play took: 0.001174
+[2022.05.06-17.22.44:145][998]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2022.05.06-17.22.44:147][998]PIE: Server logged in
+[2022.05.06-17.22.44:148][998]PIE: Play in editor total start time 0.103 seconds.
+[2022.05.06-17.22.46:895][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.22.46:895][319]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.22.46:895][319]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.22.46:895][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.22.46:901][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-17.22.46:910][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.22.46:940][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.06-17.22.46:941][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.22.46:941][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.22.46:944][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.22.46:947][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.05.06-17.22.46:975][320]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2022.05.06-17.22.47:762][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.05.06-17.22.47:777][405]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_DefaultD13327414F8D84011B7148B6EBB0A334.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.05.06-17.22.47:783][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.05.06-17.22.47:806][405]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_Default_BuiltDataA778B7B14F6D7D8D8A514CAC89C77662.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.05.06-17.22.47:822][405]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-17.22.47:822][405]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.05.06-17.22.47:822][405]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.06-17.22.48:808][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.05.06-17.22.50:317][684]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.06-17.22.50:323][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-17.22.50:323][684]PIE: New page: PIE session: Minimal_Default (2022. 5. 7. 오전 11:22:50)
+[2022.05.06-17.22.50:323][684]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.22.50:326][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002755s)
+[2022.05.06-17.22.50:327][684]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.06-17.22.50:327][684]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2022.05.06-17.22.50:327][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004058s)
+[2022.05.06-17.22.50:360][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.05.06-17.22.50:361][684]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.05.06-17.22.50:361][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-17.22.50:361][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-17.22.50:361][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-17.22.50:361][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-17.22.50:361][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-17.22.50:361][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.06-17.22.50:361][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-17.22.50:361][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-17.22.50:361][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-17.22.50:361][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-17.22.50:361][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-17.22.50:361][684]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.06-17.22.50:368][684]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.06-17.22.50:368][684]LogAudioMixer: Display: 1: FrontRight
+[2022.05.06-17.22.50:383][684]LogAudioMixer: Display: Using Audio Device SMT27A550(NVIDIA High Definition Audio)
+[2022.05.06-17.22.50:383][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-17.22.50:383][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-17.22.50:383][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-17.22.50:383][684]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.06-17.22.50:383][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.06-17.22.50:383][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.06-17.22.50:384][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.06-17.22.50:384][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.06-17.22.50:384][684]LogInit: FAudioDevice initialized.
+[2022.05.06-17.22.50:384][684]LogAudio: Display: Audio Device (ID: 36) registered with world 'Minimal_Default'.
+[2022.05.06-17.22.50:394][684]LogLoad: Game class is 'FPS_GameMode_C'
+[2022.05.06-17.22.50:395][684]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.07-02.22.50
+[2022.05.06-17.22.50:396][684]LogWorld: Bringing up level for play took: 0.001163
+[2022.05.06-17.22.50:396][684]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2022.05.06-17.22.50:398][684]PIE: Server logged in
+[2022.05.06-17.22.50:399][684]PIE: Play in editor total start time 0.079 seconds.
+[2022.05.06-17.22.54:261][140]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.22.54:261][140]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.22.54:261][140]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.22.54:261][140]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.22.54:261][140]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.22.54:261][140]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.22.54:261][140]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.22.54:261][140]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.22.54:262][140]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.22.54:262][140]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.22.54:262][140]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.22.54:262][140]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.22.54:262][140]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.22.54:262][140]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.22.54:262][140]LogBlueprintUserMessages: [AI_Character_Child_2] 0.0
+[2022.05.06-17.22.54:262][140]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.22.55:144][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.22.55:144][241]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.22.55:144][241]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.22.55:144][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.22.55:151][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-17.22.55:159][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.22.55:189][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.22.55:189][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.22.55:190][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.22.55:196][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.06-17.22.55:223][242]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2022.05.06-17.23.21:230][886]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FPS_GameInstance.FPS_GameInstance
+[2022.05.06-17.23.56:794][116]BlueprintLog: New page: Compile FPS_GameInstance
+[2022.05.06-17.23.56:843][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.05.06-17.23.57:619][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPS_GameInstance" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/FPS_GameInstance.uasset" SILENT=true
+[2022.05.06-17.23.57:623][201]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPS_GameInstanceABA6D821441D334E40E8B48DE3D7C939.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/FPS_GameInstance.uasset'
+[2022.05.06-17.23.57:637][201]AssetCheck: New page: Asset Save: FPS_GameInstance
+[2022.05.06-17.23.57:637][201]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FPS_GameInstance.FPS_GameInstance
+[2022.05.06-17.25.05:916][874]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/ImpactEffects/ImpactEffect_Shotgun.ImpactEffect_Shotgun
+[2022.05.06-17.25.08:905][165]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.25.08:905][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.25.08:962][165]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/ImpactEffects/ImpactEffect_Shotgun.ImpactEffect_Shotgun
+[2022.05.06-17.25.10:407][301]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.25.10:407][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.25.15:000][809]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.WeaponBuy_Base_Shotgun
+[2022.05.06-17.25.28:515][372]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.06-17.25.28:531][372]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.06-17.25.31:758][749]BlueprintLog: New page: Compile WeaponBuy_Base_Shotgun
+[2022.05.06-17.25.31:822][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.05.06-17.25.32:292][795]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/WeaponBuy_Base_Shotgun4DC7149341BBEF1CA14B42A509D3B458.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.uasset'
+[2022.05.06-17.25.32:311][795]AssetCheck: New page: Asset Save: WeaponBuy_Base_Shotgun
+[2022.05.06-17.25.32:311][795]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.WeaponBuy_Base_Shotgun
+[2022.05.06-17.25.36:148][214]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_AssaultRifle.WeaponBuy_Base_AssaultRifle
+[2022.05.06-17.25.38:014][402]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.25.38:014][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.25.38:083][402]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_AssaultRifle.WeaponBuy_Base_AssaultRifle
+[2022.05.06-17.25.44:963][176]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.25.44:964][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.26.07:139][756]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.06-17.26.07:139][756]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.26.07:140][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.26.55:154][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.05.06-17.26.55:171][396]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_DefaultF8263D42438FF847DBCF61A0913C6EE8.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.05.06-17.26.55:177][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.05.06-17.26.55:199][396]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_Default_BuiltData2B280BB54629073307FD4086AE4EB40B.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.05.06-17.26.55:215][396]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-17.26.55:215][396]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.05.06-17.26.55:215][396]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.06-17.26.55:908][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.05.06-17.26.58:034][704]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.06-17.26.58:040][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-17.26.58:040][704]PIE: New page: PIE session: Minimal_Default (2022. 5. 7. 오전 11:26:58)
+[2022.05.06-17.26.58:072][704]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.26.58:075][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002752s)
+[2022.05.06-17.26.58:076][704]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.06-17.26.58:076][704]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2022.05.06-17.26.58:076][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003998s)
+[2022.05.06-17.26.58:109][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.05.06-17.26.58:110][704]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.05.06-17.26.58:110][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-17.26.58:110][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-17.26.58:110][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-17.26.58:110][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-17.26.58:111][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-17.26.58:111][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.06-17.26.58:111][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-17.26.58:111][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-17.26.58:111][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-17.26.58:111][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-17.26.58:111][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-17.26.58:111][704]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.06-17.26.58:117][704]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.06-17.26.58:117][704]LogAudioMixer: Display: 1: FrontRight
+[2022.05.06-17.26.58:133][704]LogAudioMixer: Display: Using Audio Device SMT27A550(NVIDIA High Definition Audio)
+[2022.05.06-17.26.58:133][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-17.26.58:133][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-17.26.58:133][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-17.26.58:134][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.06-17.26.58:134][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.06-17.26.58:134][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.06-17.26.58:135][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.06-17.26.58:135][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.06-17.26.58:135][704]LogInit: FAudioDevice initialized.
+[2022.05.06-17.26.58:135][704]LogAudio: Display: Audio Device (ID: 37) registered with world 'Minimal_Default'.
+[2022.05.06-17.26.58:145][704]LogLoad: Game class is 'FPS_GameMode_C'
+[2022.05.06-17.26.58:146][704]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.07-02.26.58
+[2022.05.06-17.26.58:147][704]LogWorld: Bringing up level for play took: 0.001213
+[2022.05.06-17.26.58:147][704]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2022.05.06-17.26.58:149][704]PIE: Server logged in
+[2022.05.06-17.26.58:150][704]PIE: Play in editor total start time 0.112 seconds.
+[2022.05.06-17.27.02:109][176]LogBlueprintUserMessages: [FPS_Character_C_0] FirstSlot
+[2022.05.06-17.27.02:918][273]LogBlueprintUserMessages: [FPS_Character_C_0] SecondSlot
+[2022.05.06-17.27.04:335][443]LogBlueprintUserMessages: [FPS_Character_C_0] FirstSlot
+[2022.05.06-17.27.04:843][504]LogBlueprintUserMessages: [FPS_Character_C_0] SecondSlot
+[2022.05.06-17.27.09:165][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.27.09:165][ 19]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.27.09:165][ 19]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.27.09:165][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.27.09:172][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-17.27.09:180][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.27.09:213][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.27.09:213][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.27.09:214][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.27.09:220][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.05.06-17.27.09:246][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2022.05.06-17.27.43:108][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.05.06-17.28.19:896][678]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/HeroFPP/FPSArms.FPSArms
+[2022.05.06-17.28.19:899][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.06-17.28.27:246][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/FPSArms" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms.uasset" SILENT=true
+[2022.05.06-17.28.27:254][513]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPSArms6247C65249822C2986531385F7F85E41.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms.uasset'
+[2022.05.06-17.28.27:267][513]AssetCheck: New page: Asset Save: FPSArms
+[2022.05.06-17.28.27:267][513]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/HeroFPP/FPSArms.FPSArms
+[2022.05.06-17.28.29:307][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.06-17.28.29:324][735]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_Default37CB82E541E636B47D05E58DA84502F2.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.05.06-17.28.29:329][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.05.06-17.28.29:352][735]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_Default_BuiltDataBFBE6A2D43AC49A6A9D09CBD8FF16516.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.05.06-17.28.29:368][735]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-17.28.29:368][735]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.05.06-17.28.29:368][735]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.06-17.28.29:917][793]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.06-17.28.29:924][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-17.28.29:924][793]PIE: New page: PIE session: Minimal_Default (2022. 5. 7. 오전 11:28:29)
+[2022.05.06-17.28.29:953][793]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.28.29:956][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003209s)
+[2022.05.06-17.28.29:957][793]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.06-17.28.29:957][793]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2022.05.06-17.28.29:957][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004706s)
+[2022.05.06-17.28.29:991][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.05.06-17.28.29:992][793]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.05.06-17.28.29:992][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-17.28.29:992][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-17.28.29:992][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-17.28.29:992][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-17.28.29:992][793]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-17.28.29:992][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.06-17.28.29:992][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-17.28.29:992][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-17.28.29:992][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-17.28.29:992][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-17.28.29:992][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-17.28.29:992][793]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.06-17.28.29:999][793]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.06-17.28.29:999][793]LogAudioMixer: Display: 1: FrontRight
+[2022.05.06-17.28.30:014][793]LogAudioMixer: Display: Using Audio Device SMT27A550(NVIDIA High Definition Audio)
+[2022.05.06-17.28.30:015][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-17.28.30:015][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-17.28.30:015][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-17.28.30:015][793]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.06-17.28.30:015][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.06-17.28.30:015][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.06-17.28.30:016][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.06-17.28.30:016][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.06-17.28.30:016][793]LogInit: FAudioDevice initialized.
+[2022.05.06-17.28.30:016][793]LogAudio: Display: Audio Device (ID: 38) registered with world 'Minimal_Default'.
+[2022.05.06-17.28.30:027][793]LogLoad: Game class is 'FPS_GameMode_C'
+[2022.05.06-17.28.30:028][793]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.07-02.28.30
+[2022.05.06-17.28.30:029][793]LogWorld: Bringing up level for play took: 0.001239
+[2022.05.06-17.28.30:029][793]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2022.05.06-17.28.30:032][793]PIE: Server logged in
+[2022.05.06-17.28.30:033][793]PIE: Play in editor total start time 0.111 seconds.
+[2022.05.06-17.28.33:024][148]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.33:024][148]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.33:024][148]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.33:024][148]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.33:024][148]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.33:024][148]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.33:024][148]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.33:024][148]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.33:025][148]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.33:025][148]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.33:025][148]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.33:025][148]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.33:025][148]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.33:025][148]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.33:025][148]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.33:025][148]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.34:025][268]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.34:025][268]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.34:025][268]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.34:025][268]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.34:025][268]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.34:025][268]LogBlueprintUserMessages: [AI_Character_Child_2] false
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] true
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] true
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] true
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] true
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] 9.0
+[2022.05.06-17.28.34:026][268]LogBlueprintUserMessages: [AI_Character_Child_2] true
+[2022.05.06-17.28.35:165][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.28.35:165][399]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.28.35:165][399]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.28.35:165][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.28.35:173][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-17.28.35:188][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.28.35:220][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.28.35:220][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.28.35:221][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.28.35:227][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.06-17.28.35:258][400]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2022.05.06-17.28.48:570][598]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.28.48:570][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.28.50:570][829]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.28.50:570][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.28.51:918][980]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.28.51:918][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.28.51:926][980]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.28.51:926][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.28.52:006][980]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.28.52:006][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.28.56:505][505]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.06-17.28.56:505][505]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.28.56:505][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.28.57:387][588]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.06-17.28.57:387][588]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.28.57:387][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.29.05:916][561]BlueprintLog: New page: Compile BP_WeaponBase_Shotgun
+[2022.05.06-17.29.05:970][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.05.06-17.29.06:303][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_WeaponBase_Shotgun" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset" SILENT=true
+[2022.05.06-17.29.06:317][592]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/BP_WeaponBase_Shotgun3CC2D5E04BC7E0BDAD9F0AB3BE4D583C.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset'
+[2022.05.06-17.29.06:340][592]AssetCheck: New page: Asset Save: BP_WeaponBase_Shotgun
+[2022.05.06-17.29.06:340][592]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weapons/BP_WeaponBase_Shotgun.BP_WeaponBase_Shotgun
+[2022.05.06-17.29.08:333][808]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.06-17.29.08:339][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-17.29.08:339][808]PIE: New page: PIE session: Minimal_Default (2022. 5. 7. 오전 11:29:08)
+[2022.05.06-17.29.08:372][808]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.29.08:375][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002872s)
+[2022.05.06-17.29.08:376][808]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.06-17.29.08:377][808]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2022.05.06-17.29.08:377][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004528s)
+[2022.05.06-17.29.08:403][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.05.06-17.29.08:404][808]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.05.06-17.29.08:404][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-17.29.08:404][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-17.29.08:404][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-17.29.08:404][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-17.29.08:404][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-17.29.08:404][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.06-17.29.08:404][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-17.29.08:404][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-17.29.08:405][808]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-17.29.08:405][808]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-17.29.08:405][808]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-17.29.08:405][808]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.06-17.29.08:411][808]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.06-17.29.08:411][808]LogAudioMixer: Display: 1: FrontRight
+[2022.05.06-17.29.08:426][808]LogAudioMixer: Display: Using Audio Device SMT27A550(NVIDIA High Definition Audio)
+[2022.05.06-17.29.08:426][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-17.29.08:426][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-17.29.08:426][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-17.29.08:427][808]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.06-17.29.08:427][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.06-17.29.08:427][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.06-17.29.08:428][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.06-17.29.08:428][808]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.06-17.29.08:428][808]LogInit: FAudioDevice initialized.
+[2022.05.06-17.29.08:428][808]LogAudio: Display: Audio Device (ID: 39) registered with world 'Minimal_Default'.
+[2022.05.06-17.29.08:436][808]LogLoad: Game class is 'FPS_GameMode_C'
+[2022.05.06-17.29.08:437][808]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.07-02.29.08
+[2022.05.06-17.29.08:438][808]LogWorld: Bringing up level for play took: 0.001305
+[2022.05.06-17.29.08:438][808]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2022.05.06-17.29.08:441][808]PIE: Server logged in
+[2022.05.06-17.29.08:442][808]PIE: Play in editor total start time 0.105 seconds.
+[2022.05.06-17.29.15:595][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.29.15:595][658]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.29.15:595][658]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.29.15:595][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.29.15:602][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-17.29.15:617][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.29.15:641][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.06-17.29.15:641][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.29.15:642][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.29.15:645][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.29.15:648][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.05.06-17.29.15:681][659]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2022.05.06-17.29.19:464][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.05.06-17.29.20:697][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.05.06-17.29.21:073][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.05.06-17.29.22:050][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.05.06-17.29.26:880][964]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2022.05.06-17.30.05:301][ 80]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.06-17.30.24:340][  6]LogSlate: Window 'New Channel' being destroyed
+[2022.05.06-17.30.36:368][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base.WeaponBuy_Base
+[2022.05.06-17.31.21:350][328]BlueprintLog: New page: Compile WeaponBuy_Base
+[2022.05.06-17.31.21:452][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.05.06-17.31.22:032][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base.uasset" SILENT=true
+[2022.05.06-17.31.22:047][387]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/WeaponBuy_BaseAC1E51994CA849CCE3D04A9C1761A52B.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base.uasset'
+[2022.05.06-17.31.22:064][387]AssetCheck: New page: Asset Save: WeaponBuy_Base
+[2022.05.06-17.31.22:064][387]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base.WeaponBuy_Base
+[2022.05.06-17.31.39:449][367]BlueprintLog: New page: Compile WeaponBuy_Base
+[2022.05.06-17.31.39:530][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.05.06-17.31.39:934][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base.uasset" SILENT=true
+[2022.05.06-17.31.39:949][404]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/WeaponBuy_Base00B7711E42C4F76C0EC729AA74BD239E.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base.uasset'
+[2022.05.06-17.31.39:968][404]AssetCheck: New page: Asset Save: WeaponBuy_Base
+[2022.05.06-17.31.39:968][404]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base.WeaponBuy_Base
+[2022.05.06-17.31.41:583][592]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.06-17.31.41:590][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.06-17.31.41:590][592]PIE: New page: PIE session: Minimal_Default (2022. 5. 7. 오전 11:31:41)
+[2022.05.06-17.31.41:613][592]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.31.41:616][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003280s)
+[2022.05.06-17.31.41:617][592]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.06-17.31.41:617][592]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2022.05.06-17.31.41:617][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004551s)
+[2022.05.06-17.31.41:646][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.05.06-17.31.41:647][592]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.05.06-17.31.41:647][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-17.31.41:647][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-17.31.41:647][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-17.31.41:647][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-17.31.41:647][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-17.31.41:647][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.06-17.31.41:647][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-17.31.41:647][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-17.31.41:648][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.06-17.31.41:648][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.06-17.31.41:648][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.06-17.31.41:648][592]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.06-17.31.41:654][592]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.06-17.31.41:654][592]LogAudioMixer: Display: 1: FrontRight
+[2022.05.06-17.31.41:670][592]LogAudioMixer: Display: Using Audio Device SMT27A550(NVIDIA High Definition Audio)
+[2022.05.06-17.31.41:670][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-17.31.41:670][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-17.31.41:670][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-17.31.41:670][592]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.06-17.31.41:670][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.06-17.31.41:670][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.06-17.31.41:671][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.06-17.31.41:671][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.06-17.31.41:672][592]LogInit: FAudioDevice initialized.
+[2022.05.06-17.31.41:672][592]LogAudio: Display: Audio Device (ID: 40) registered with world 'Minimal_Default'.
+[2022.05.06-17.31.41:683][592]LogLoad: Game class is 'FPS_GameMode_C'
+[2022.05.06-17.31.41:684][592]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.05.07-02.31.41
+[2022.05.06-17.31.41:685][592]LogWorld: Bringing up level for play took: 0.001390
+[2022.05.06-17.31.41:685][592]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2022.05.06-17.31.41:688][592]PIE: Server logged in
+[2022.05.06-17.31.41:688][592]PIE: Play in editor total start time 0.101 seconds.
+[2022.05.06-17.31.47:495][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.31.47:495][277]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.05.06-17.31.47:495][277]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.31.47:495][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.31.47:502][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.06-17.31.47:517][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.31.47:544][277]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.06-17.31.47:544][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.31.47:545][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.31.47:548][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-17.31.47:551][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.05.06-17.31.47:582][278]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2022.05.06-17.35.53:274][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.05.06-17.35.54:908][617]LogSlate: Window 'Save Content' being destroyed
+[2022.05.06-17.35.54:968][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/FPSArms_Skeleton" FILE="../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_Skeleton.uasset" SILENT=true
+[2022.05.06-17.35.54:973][617]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/FPSArms_Skeleton89DA057949846FB78A4596A7E8014579.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Characters/HeroFPP/FPSArms_Skeleton.uasset'
+[2022.05.06-17.35.55:000][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.06-17.35.55:016][617]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/Minimal_DefaultB43C6AC541E542CD7167BDBF54AC881E.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.05.06-17.35.55:031][617]LogFileHelpers: Saving map 'Minimal_Default' took 0.058
+[2022.05.06-17.35.55:065][617]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/WeaponBuy_Base_AssaultRifleE449065441092E746084E7929A9EB6AC.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_AssaultRifle.uasset'
+[2022.05.06-17.35.55:099][617]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/WeaponBuy_Base_Pistol4FF98FB840DDFC0A3EB15FAB0D0B7F67.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Pistol.uasset'
+[2022.05.06-17.35.55:104][617]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_FPS/Saved/WeaponBuy_Base_Shotgun0CC405DF43719E30EF8CC086B8F25BF2.tmp' to '../../../../../Unreal Projects/Udemy_FPS/Content/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.uasset'
+[2022.05.06-17.35.55:132][617]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.55:132][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.35.55:203][617]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.06-17.35.55:203][617]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.55:203][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.35.55:312][617]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.06-17.35.55:312][617]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.55:312][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-17.35.55:425][617]LogSlate: Window 'Udemy_FPS - Unreal Editor' being destroyed
+[2022.05.06-17.35.55:676][617]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-17.35.55:676][617]LogContentValidation: Display: Validating Skeleton /Game/Characters/HeroFPP/FPSArms_Skeleton.FPSArms_Skeleton
+[2022.05.06-17.35.55:676][617]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_AssaultRifle.WeaponBuy_Base_AssaultRifle
+[2022.05.06-17.35.55:676][617]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Pistol.WeaponBuy_Base_Pistol
+[2022.05.06-17.35.55:676][617]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.06-17.35.55:676][617]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/WeaponBuys/WeaponBuy_Base_Shotgun.WeaponBuy_Base_Shotgun
+[2022.05.06-17.35.55:680][618]Cmd: QUIT_EDITOR
+[2022.05.06-17.35.55:680][618]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.06-17.35.55:685][618]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.06-17.35.55:822][618]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.06-17.35.55:822][618]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.06-17.35.55:822][618]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2022.05.06-17.35.55:822][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.35.55:824][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.06-17.35.55:837][618]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.06-17.35.55:840][618]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft 입력기).
+[2022.05.06-17.35.55:851][618]LogExit: Preparing to exit.
+[2022.05.06-17.35.55:915][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.05.06-17.35.56:469][618]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:473][618]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:476][618]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:479][618]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:482][618]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:485][618]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:488][618]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:491][618]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:494][618]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:496][618]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:500][618]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:502][618]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:504][618]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:507][618]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:510][618]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:513][618]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:516][618]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:586][618]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.06-17.35.56:599][618]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-17.35.56:599][618]LogExit: Editor shut down
+[2022.05.06-17.35.56:600][618]LogExit: Transaction tracking system shut down
+[2022.05.06-17.35.57:076][618]LogExit: Object subsystem successfully closed.
+[2022.05.06-17.35.57:091][618]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.06-17.35.57:091][618]LogShaderCompilers: Display: Total job queries 425, among them cache hits 0 (0.00%)
+[2022.05.06-17.35.57:091][618]LogShaderCompilers: Display: Tracking 425 distinct input hashes that result in 241 distinct outputs (56.71%)
+[2022.05.06-17.35.57:091][618]LogShaderCompilers: Display: RAM used: 1.28 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2022.05.06-17.35.57:091][618]LogShaderCompilers: Display: ================================================
+[2022.05.06-17.35.57:098][618]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.06-17.35.57:115][618]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (890)
+[2022.05.06-17.35.57:115][618]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (888)
+[2022.05.06-17.35.57:115][618]LogModuleManager: Shutting down and abandoning module DistCurveEditor (886)
+[2022.05.06-17.35.57:115][618]LogModuleManager: Shutting down and abandoning module Cascade (884)
+[2022.05.06-17.35.57:115][618]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (882)
+[2022.05.06-17.35.57:115][618]LogModuleManager: Shutting down and abandoning module Voice (880)
+[2022.05.06-17.35.57:115][618]LogModuleManager: Shutting down and abandoning module PinnedCommandList (878)
+[2022.05.06-17.35.57:115][618]LogModuleManager: Shutting down and abandoning module SkeletonEditor (876)
+[2022.05.06-17.35.57:116][618]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (874)
+[2022.05.06-17.35.57:116][618]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.05.06-17.35.57:116][618]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.05.06-17.35.57:116][618]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.05.06-17.35.57:116][618]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module GooglePADEditor (846)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (844)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (842)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module TakeRecorder (841)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (838)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module TakesCore (836)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module PlanarCut (834)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (832)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module CharacterAI (824)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (822)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (820)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (812)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (810)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module SequenceRecorder (809)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (796)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (794)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.05.06-17.35.57:118][618]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.05.06-17.35.57:119][618]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.05.06-17.35.57:139][618]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.05.06-17.35.57:139][618]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.05.06-17.35.57:139][618]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.05.06-17.35.57:139][618]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.05.06-17.35.57:139][618]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.05.06-17.35.58:751][618]MemoryProfiler: Shutdown
+[2022.05.06-17.35.58:751][618]NetworkingProfiler: Shutdown
+[2022.05.06-17.35.58:751][618]LoadingProfiler: Shutdown
+[2022.05.06-17.35.58:751][618]TimingProfiler: Shutdown
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.05.06-17.35.58:751][618]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.05.06-17.35.58:752][618]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.05.06-17.35.58:783][618]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.05.06-17.35.58:802][618]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.05.06-17.35.58:802][618]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.05.06-17.35.58:802][618]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.05.06-17.35.58:802][618]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.05.06-17.35.58:804][618]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.05.06-17.35.58:804][618]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.05.06-17.35.58:804][618]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.05.06-17.35.58:813][618]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.05.06-17.35.58:813][618]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.05.06-17.35.58:815][618]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.05.06-17.35.58:815][618]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.05.06-17.35.58:815][618]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.05.06-17.35.58:815][618]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.05.06-17.35.58:815][618]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.05.06-17.35.58:815][618]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.05.06-17.35.58:815][618]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.05.06-17.35.58:815][618]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.05.06-17.35.58:816][618]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.05.06-17.35.58:816][618]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.05.06-17.35.58:816][618]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.05.06-17.35.58:816][618]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.05.06-17.35.58:816][618]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.05.06-17.35.58:816][618]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.05.06-17.35.58:816][618]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.05.06-17.35.58:816][618]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.05.06-17.35.58:816][618]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.05.06-17.35.58:823][618]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (594)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module OpenXREditor (582)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module GooglePAD (578)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module EditableMesh (576)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (574)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module CableComponent (572)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module AudioCapture (570)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (569)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module AssetTags (566)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module TakeSequencer (564)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module TakeMovieScene (562)
+[2022.05.06-17.35.58:891][618]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (560)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (558)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module AppleImageUtils (556)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module AndroidPermission (554)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (552)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (550)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (546)
+[2022.05.06-17.35.58:892][618]LogOpenImageDenoise: OIDN shutting down
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module TemplateSequence (544)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (542)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module MotoSynth (540)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module MeshConversion (538)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module DynamicMesh (536)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (534)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometricObjects (532)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (530)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (529)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (526)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (524)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (522)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (520)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (518)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module ChaosNiagara (516)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (514)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module FractureEditor (512)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (511)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module BackChannel (508)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (506)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module AutomationUtils (504)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module AlembicImporter (502)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module AlembicLibrary (501)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometryCache (500)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (499)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module MediaCompositing (494)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module ImgMedia (492)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (490)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (488)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (486)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (484)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (482)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (480)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (478)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (476)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (474)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (472)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module UObjectPlugin (470)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (468)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (466)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module PluginUtils (464)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (462)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (460)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module GitSourceControl (458)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module SourceControl (457)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (454)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (452)
+[2022.05.06-17.35.58:892][618]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (450)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module PluginBrowser (448)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (446)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (444)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module CurveEditorTools (442)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2022.05.06-17.35.58:893][618]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2022.05.06-17.35.59:766][618]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (392)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2022.05.06-17.35.59:767][618]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2022.05.06-17.35.59:869][618]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2022.05.06-17.35.59:970][618]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (342)
+[2022.05.06-17.35.59:970][618]LogModuleManager: Shutting down and abandoning module FacialAnimation (340)
+[2022.05.06-17.35.59:971][618]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2022.05.06-17.35.59:971][618]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2022.05.06-17.35.59:971][618]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.05.06-17.35.59:972][618]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.05.06-17.35.59:974][618]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.05.06-17.35.59:974][618]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.05.06-17.35.59:974][618]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.05.06-17.35.59:981][618]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.05.06-17.35.59:984][618]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.05.06-17.35.59:986][618]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.05.06-17.35.59:986][618]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.05.06-17.35.59:986][618]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.05.06-17.35.59:986][618]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.05.06-17.35.59:987][618]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.05.06-17.35.59:988][618]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.05.06-17.35.59:991][618]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.05.06-17.35.59:991][618]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.05.06-17.35.59:991][618]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.05.06-17.35.59:991][618]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.05.06-17.35.59:991][618]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.05.06-17.35.59:994][618]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.05.06-17.35.59:994][618]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.05.06-17.35.59:994][618]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.05.06-17.35.59:994][618]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.05.06-17.35.59:994][618]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.05.06-17.35.59:994][618]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.05.06-17.35.59:994][618]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.05.06-17.35.59:994][618]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.05.06-17.35.59:994][618]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.05.06-17.35.59:997][618]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.05.06-17.36.00:011][618]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.05.06-17.36.00:011][618]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.05.06-17.36.00:011][618]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.05.06-17.36.00:011][618]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.05.06-17.36.00:011][618]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.05.06-17.36.00:012][618]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.05.06-17.36.00:012][618]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.05.06-17.36.00:263][618]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.06-17.36.00:264][618]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.05.06-17.36.00:264][618]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.05.06-17.36.00:264][618]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.05.06-17.36.00:264][618]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.05.06-17.36.00:264][618]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.05.06-17.36.00:264][618]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.05.06-17.36.00:264][618]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.05.06-17.36.00:264][618]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.05.06-17.36.00:264][618]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.05.06-17.36.00:265][618]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.05.06-17.36.00:265][618]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.05.06-17.36.00:297][618]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.05.06-17.36.00:298][618]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.06-17.36.00:298][618]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA66D6789-47C3-1EB4-B4CB-7A9A5E51DB64%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6e42641e45e9b0b251eae493d0d7b435%7C2c9a6fc36c894245bd2f0dae3f3873eb%7C005b0951-fdd8-4da6-a74a-25991f4c348d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.06-17.36.00:298][618]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.05.06-17.36.00:303][618]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.05.06-17.36.00:305][618]LogModuleManager: Shutting down and abandoning module ChaosCloth (74)
+[2022.05.06-17.36.00:305][618]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.05.06-17.36.00:307][618]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.06-17.36.00:308][618]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.05.06-17.36.00:309][618]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.06-17.36.00:316][618]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.06-17.36.00:316][618]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.06-17.36.00:339][618]LogD3D11RHI: Shutdown
+[2022.05.06-17.36.00:339][618]LogD3D11RHI: CleanupD3DDevice
+[2022.05.06-17.36.00:353][618]LogExit: Exiting.
+[2022.05.06-17.36.00:369][618]Log file closed, 05/07/22 02:36:00
