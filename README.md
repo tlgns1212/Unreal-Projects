@@ -18,7 +18,9 @@
 
 
 ## Udemy_FPS
-각종 총을 만드는 방법과 효과, Recoil, Collision 등과 같은 물리적인 법칙을 적용하였고 데미지를 주는 방법 등을 구현했다.
+각종 총을 만드는 방법과 효과, Recoil, Collision 등과 같은 물리적인 법칙을 적용하였고 데미지를 주는 방법, AI의 행동 알고리즘을 설정, 피해를 입었을 때의 이펙트 등을 구현했다.
+
+![UdemyFPSExplainingVideo_AIAlgorithm+Effects](https://user-images.githubusercontent.com/53401308/193515929-09f4bab7-e03e-4fe5-8b6d-784ef0ca69df.gif)
 
 ![UdemyFPSExplainingVideo_Pistol+AssaultRifle](https://user-images.githubusercontent.com/53401308/167296414-000a9fb6-da46-4988-aee5-37765199e914.gif)
 
